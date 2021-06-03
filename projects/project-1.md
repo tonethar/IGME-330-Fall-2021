@@ -53,25 +53,25 @@ For this project you are creating a JavaScript driven Web application that utili
 
 1) Code standards:
     - ES6 modules - at least 4 distinct code files in a **src** folder - ex. **src/loader.js**, **src/main.js**, **src/utils.js**, **src/classes.js**:
-      - No JS code is allowed in your HTML file
+      - *No JS code is allowed in your HTML file*
       - Instead, use a single `<script>` element to load in the JS code you wrote - ex. `<script src="src/loader.js" type="module"></script>`
       - your modules will use the [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and/or [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) keywords as needed
     - declare variables with `const` & `let` only:
-      - never use `var`
+      - *never use `var`*
     - Select DOM elements (aka "DOM Traversal") with `document.querySelector()` and `document.querySelectorAll()`:
-      - never use `document.getElementById()`, `document.getElementsByTagName()` wtc, or [jQuery](https://jquery.com)
+      - *never use `document.getElementById()`, `document.getElementsByTagName()` wtc, or [jQuery](https://jquery.com)*
     - ES6 classes - at least 2 - put them in **classes.js**
  
 2) Ajax
     - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [`fetch.then()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-      - do not use [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or `await fetch(...)` or `jQuery.ajax()` with this project
+      - *do not use [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or `await fetch(...)` or `jQuery.ajax()` with this project*
 
 3) PHP
     - a PHP "wrapper" script to your web service is required
     - it must be run from the banjo web server
 
 4) Other prohibited (in addition to what was mentioned above):
-    - inline event handlers - ex. `<button onclick="doStuff()">Do Stuff!</button>`
+    - *inline event handlers - ex. `<button onclick="doStuff()">Do Stuff!</button>`*
     
 
 
