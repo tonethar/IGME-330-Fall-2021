@@ -102,7 +102,9 @@ For this project you are creating a JavaScript driven Web application that utili
 
 - HTML Validation
 - CSS Validation
-- Images optimized - jpeg,gif,png only. Scaled down to appropriate dimensions for web delivery:
+- Images optimized:
+  - jpeg,gif,png only
+  - scaled down to appropriate dimensions for web delivery
   - *for example, a not cropped or scaled 12MP 4032 x 3024 image is too big, and not allowed*
 
 
