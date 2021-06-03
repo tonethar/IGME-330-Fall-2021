@@ -66,7 +66,8 @@ For this project you are creating a JavaScript driven Web application that utili
       - do not use [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or `await fetch(...)` or `jQuery.ajax()` with this project
 
 3) PHP
-    - a PHP "wrapper" to your web service is required
+    - a PHP "wrapper" script to your web service is required
+    - it must be run from the banjo web server
 
 4) Other prohibited (in addition to what was mentioned above):
     - inline event handlers - ex. `<button onclick="doStuff()">Do Stuff!</button>`
