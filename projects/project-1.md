@@ -2,9 +2,9 @@
 
 [I. Overview](#overview)
 
-[II. Functionality](#functionality)
+[II. Structure](#structure)
 
-[III. User Experience](#user-experience)
+[III. Functionality & User Experience](#functionlaity)
 
 [IV. Code](#code)
 
@@ -34,16 +34,21 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <hr>
 
-<a id="functionality"/>
+<a id="structure"/>
 
-## II. Functionality
+## II. Structure
 
+1) 4 distinct web pages
+    - About (**about.html**)
+    - App - (**app.html**)
+    - Favorites (**favorites.html**)
+    - Sources (**sources.html**)
 
 <hr>
 
-<a id="user-experience"/>
+<a id="functionality"/>
 
-## III. User Experience
+## III. Functionality
 
 <hr>
 
