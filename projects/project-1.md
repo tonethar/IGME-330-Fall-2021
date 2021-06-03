@@ -62,7 +62,7 @@ For this project you are creating a JavaScript driven Web application that utili
     - ES6 classes - at least 2 - put them in **classes.js**
  
 2) Ajax
-    - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and `fetch.then()`
+    - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [`fetch.then()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
       - do not use [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or `await fetch(...)` or `jQuery.ajax()` with this project
 
 3) Other prohibited (in addition to what was mentioned above):
