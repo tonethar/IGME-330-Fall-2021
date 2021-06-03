@@ -2,13 +2,13 @@
 
 [I. Overview](#overview)
 
-[II. Theme & Impact](#theme)
+[II. Functionality](#functionality)
 
-[III. Media](#media)
+[III. User Experience](#user-experience)
 
 [IV. Code](#code)
 
-[V. User Experience](#user-experience)
+[V. Media](#media)
 
 [VI. Examples](#examples)
 
@@ -34,6 +34,27 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <hr>
 
-<a id="theme"/>
+<a id="functionality"/>
 
-## II. Theme & Impact
+## II. Functionality
+
+
+<hr>
+
+<a id="user-experience"/>
+
+## III. User Experience
+
+<hr>
+
+<a id="code"/>
+
+## IV. Code
+
+<hr>
+
+<a id="media"/>
+
+## V. Media
+
+
