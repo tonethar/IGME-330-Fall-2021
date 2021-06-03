@@ -44,6 +44,10 @@ For this project you are creating a JavaScript driven Web application that utili
     - Favorites (**favorites.html**)
     - Sources (**sources.html**)
 
+2) A **src** folder
+
+3) A **styles** folder
+
 <hr>
 
 <a id="functionality"/>
@@ -78,7 +82,9 @@ For this project you are creating a JavaScript driven Web application that utili
     - it must be run from the banjo web server
     - it will accept at least 2 GET parameters (ex. **taco-finder-proxy.php?type=fish&limit=10&location=Rochester,NY**)
 
-4) Other prohibited (in addition to what was mentioned above):
+4) localStorage
+
+5) Other prohibited (in addition to what was mentioned above):
     - *inline event handlers - ex. `<button onclick="doStuff()">Do Stuff!</button>`*
     
 
