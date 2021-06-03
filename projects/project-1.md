@@ -57,10 +57,12 @@ For this project you are creating a JavaScript driven Web application that utili
       - Instead, use a single `<script>` element to load in the JS code you wrote - ex. `<script src="src/loader.js" type="module"></script>`
       - your modules will use the [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and/or [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) keywords as needed
     - declare variables with `const` & `let` only:
-      - *never use `var`*
+      - *never use `var`* in this class
     - Select DOM elements (aka "DOM Traversal") with `document.querySelector()` and `document.querySelectorAll()`:
-      - *never use `document.getElementById()`, `document.getElementsByTagName()` etc, or [jQuery](https://jquery.com)*
+      - *never use `document.getElementById()`, `document.getElementsByTagName()` etc, or [jQuery](https://jquery.com)* in this class
     - ES6 classes - at least 2 - put them in **classes.js**
+    - Functions
+    - Arrays
  
 2) Ajax
     - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [`fetch.then()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
