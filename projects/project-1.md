@@ -40,7 +40,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 1) 4 distinct web pages
     - About (**about.html**)
-    - App - (**app.html**)
+    - App  (**app.html**)
     - Favorites (**favorites.html**)
     - Sources (**sources.html**)
 
