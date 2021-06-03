@@ -70,14 +70,14 @@ For this project you are creating a JavaScript driven Web application that utili
     - declare variables with `const` & `let` only:
       - *never use `var`* in this class
     - Select DOM elements (aka "DOM Traversal") with `document.querySelector()` and `document.querySelectorAll()`:
-      - *never use `document.getElementById()`, `document.getElementsByTagName()` etc, or [jQuery](https://jquery.com)* in this class
+      - *never use `document.getElementById()`, `document.getElementsByTagName()` etc, or *jQuery* in this class
     - ES6 classes - at least 2 - put them in **classes.js**
     - Functions
     - Arrays
  
 2) Ajax
     - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [`fetch.then()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-      - *do not use [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or `await fetch(...)` or `jQuery.ajax()` with this project*
+      - *do not use `XHR` or `await fetch(...)` or `jQuery.ajax()` with this project*
 
 3) PHP
     - a PHP "wrapper" script to your web service is required
@@ -86,7 +86,10 @@ For this project you are creating a JavaScript driven Web application that utili
 
 4) localStorage
 
-5) Other prohibited (in addition to what was mentioned above):
+5) Code Validation:
+    - ESLint validation required
+
+6) Other prohibited (in addition to what was mentioned above):
     - *inline event handlers - ex. `<button onclick="doStuff()">Do Stuff!</button>`*
     
 
@@ -99,7 +102,6 @@ For this project you are creating a JavaScript driven Web application that utili
 
 - HTML Validation
 - CSS Validation
-- ESLint Validation
 - Images optimized - jpeg,gif,png only. Scaled down to appropriate dimensions for web delivery:
   - *for example, a not cropped or scaled 12MP 4032 x 3024 image is too big, and not allowed*
 
