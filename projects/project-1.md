@@ -59,7 +59,7 @@ For this project you are creating a JavaScript driven Web application that utili
     - declare variables with `const` & `let` only:
       - *never use `var`*
     - Select DOM elements (aka "DOM Traversal") with `document.querySelector()` and `document.querySelectorAll()`:
-      - *never use `document.getElementById()`, `document.getElementsByTagName()` wtc, or [jQuery](https://jquery.com)*
+      - *never use `document.getElementById()`, `document.getElementsByTagName()` etc, or [jQuery](https://jquery.com)*
     - ES6 classes - at least 2 - put them in **classes.js**
  
 2) Ajax
