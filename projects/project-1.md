@@ -18,6 +18,8 @@
 
 <a id="overview"/>
 
+<hr><hr>
+
 ## I. Overview
 
 For this project you are creating a JavaScript driven Web application that utilizes one or more Web services.
