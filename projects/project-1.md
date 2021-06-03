@@ -52,9 +52,9 @@ For this project you are creating a JavaScript driven Web application that utili
 ## IV. Code
 
 1) Code standards:
-    - ES6 modules - at least 4 distinct code files - ex. **loader.js**, **main.js**, **utils.js**, **classes.js**:
+    - ES6 modules - at least 4 distinct code files in a **src** folder - ex. **src/loader.js**, **src/main.js**, **src/utils.js**, **src/classes.js**:
       - No JS code is allowed in your HTML file
-      - Instead, use `<link type="module"
+      - Instead, use a single `<script>` element to load in the JS code you wrote - ex. `<script src="src/loader.js" type="module"></script>`
     - declare variables with `const` & `let` only:
       - never use `var`
     - Select DOM elements (aka "DOM Traversal") with `document.querySelector()` and `document.querySelectorAll()`:
