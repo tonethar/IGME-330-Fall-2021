@@ -51,6 +51,15 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ## IV. Code
 
+1) Code standards:
+    - ES6 modules - at least 4 distinct code files - ex. **loader.js**, **main.js**, **utils.js**, **classes.js**
+    - declare varaibles with `const` & `let` only (never use `var`)
+    - Select DOM elements (aka "DOM Traversal") with `document.querySelector()` and `document.querySelectorAll()` (never use `document.getElementById()`, `document.getElementsByTagName()` wtc, or [jQuery](https://jquery.com))
+    - ES6 classes - at least 2 - put them in **classes.js**
+ 
+2) Ajax
+    - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and `fetch.then()` (do not use [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or `await fetch(...)` or `jQuery.ajax()` with this project
+
 <hr>
 
 <a id="media"/>
