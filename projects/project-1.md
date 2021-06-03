@@ -69,6 +69,7 @@ For this project you are creating a JavaScript driven Web application that utili
 3) PHP
     - a PHP "wrapper" script to your web service is required
     - it must be run from the banjo web server
+    - it will accept at least 2 GET parameters (ex. *taco-finder-proxy.php?type=fish&limit=10&location=Rochester,NY*)
 
 4) Other prohibited (in addition to what was mentioned above):
     - *inline event handlers - ex. `<button onclick="doStuff()">Do Stuff!</button>`*
