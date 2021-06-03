@@ -97,4 +97,10 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ## V. Media
 
+- HTML Validation
+- CSS Validation
+- ESLint Validation
+- Images optimized - jpeg,gif,png only. Scaled down to appropriate dimensions for web delivery:
+  - *for example, a not cropped or scaled 12MP 4032 x 3024 image is too big, and not allowed*
+
 
