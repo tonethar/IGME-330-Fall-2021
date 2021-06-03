@@ -65,7 +65,10 @@ For this project you are creating a JavaScript driven Web application that utili
     - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [`fetch.then()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
       - do not use [`XHR`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or `await fetch(...)` or `jQuery.ajax()` with this project
 
-3) Other prohibited (in addition to what was mentioned above):
+3) PHP
+    - a PHP "wrapper" to your web service is required
+
+4) Other prohibited (in addition to what was mentioned above):
     - inline event handlers - ex. `<button onclick="doStuff()">Do Stuff!</button>`
     
 
