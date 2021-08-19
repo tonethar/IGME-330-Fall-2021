@@ -26,9 +26,9 @@
 ### Section 03 (Bast)
 - IGME-330-03 - MW 5:00PM-6:15PM
 - Professor: Noah Bast  
-- Email:
+- Email: nbbigm@rit.edu (email or Slack DM are both fine)
 - Office hours:
-  - TBA
+  - TBA (I will almost always be available after class.)
 
 <hr>
 
