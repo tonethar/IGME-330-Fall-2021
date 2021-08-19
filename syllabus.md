@@ -24,7 +24,7 @@
   - TBA
 
 ### Section 03 (Bast)
-- Section 03 - MW 5:00PM-6:15PM
+- IGME-330-03 - MW 5:00PM-6:15PM
 - Professor: Noah Bast  
 - Email:
 - Office hours:
