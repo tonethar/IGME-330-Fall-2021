@@ -126,8 +126,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 ## VII. Required Reading & Assignments
 * [syllabus.md](../syllabus.md)
-* [schedule.md](../schedule.md)
-* [Project 1 *Interactive Sandbox*](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course:
+* [Project 1 *Vanilla JS App*](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course:
   - let's look at some examples!
 * Also:
   - Keep an eye on the *Content* section of mycourses.rit.edu for "done" in-class demo files
