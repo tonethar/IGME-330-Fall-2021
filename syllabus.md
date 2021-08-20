@@ -51,6 +51,8 @@ Free on web!
 ## V. Attendance
 Attendance is mandatory and you are expected to be on time. Lectures will start promptly at the beginning of class, and will be followed by an in-class assignment or exercise that you are expected to work on until the end of the meeting (i.e. no leaving early).
 
+During classroom Zoom meetings, whenever you camera is off, if you are going to away from your computer for any length of time (eg. stretch legs, bathroom break and so on) let us know by typing `brb` in the Zoom chat window. Otherwise you will be marked absent if you are called on and do not respond.
+
 <hr>
 
 ## VI. Grading
