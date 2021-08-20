@@ -73,8 +73,7 @@ Final course grades are determined using the following scale:
 Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment (or "Check off", see below) per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments. **Important!** - When you submit web file(s) (HTML,CSS,JavaScript) to mycourses dropboxes, they (or the folder they are contained in) must be zipped. If you do not do so, mycourses will strip out all of the CSS and JavaScript, and leave you with a non-functioning and ugly web page. Unzipped assignments will therefore usually receive a grade of zero.
 
 ### Check Offs (10%)
-"Check offs" are required checkpoints or smaller HW assignments:
-  - https://giphy.com/gifs/tos-big-hair-poofy-IgGNIfJx7bYHfEV3c8
+"Check offs" are required checkpoints or smaller HW assignments
 
 ### Zoom Attendance/Participation (10%)
 1 absence = no penalty, 2 = -2%, 3 = -5%, 4 = -10%, 5+ = additional -5% per absence (Yes, at 5+ absences that's a *negative* grade that reduces your overall grade even further. myCourses is able to calculate that). You can request to be excused from a class meeting, write us in advance of the meeting. If you can't attend class for any reason, always let us know *in advance*. During classroom Zoom meetings, if you are going to away from your computer for any length of time (eg. stretch legs, bathroom break and so on) let us know by typing `brb` in the Zoom chat window (just `brb`, no justification is required or desired). Otherwise you will be marked absent if you are called on and do not respond.
