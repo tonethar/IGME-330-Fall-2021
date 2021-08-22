@@ -77,7 +77,9 @@ Completing the HW and in-class exercises is essential to learning the course mat
 "Check offs" are required checkpoints or smaller HW assignments
 
 ### Zoom Attendance/Participation (10%)
-1 absence = no penalty, 2 = -2%, 3 = -5%, 4 = -10%, 5+ = additional -5% per absence (Yes, at 5+ absences that's a *negative* grade that reduces your overall grade even further. myCourses is able to calculate that). You can request to be excused from a class meeting, write us in advance of the meeting. If you can't attend class for any reason, always let us know *in advance*. During classroom Zoom meetings, if you are going to away from your computer for any length of time (eg. stretch legs, bathroom break and so on) let us know by typing `brb` in the Zoom chat window (just `brb`, no justification is required or desired). Otherwise you will be marked absent if you are called on and do not respond.
+1 absence = no penalty, 2 = -2%, 3 = -5%, 4 = -10%, 5+ = additional -5% per absence (Yes, at 5+ absences that's a *negative* grade that reduces your overall grade even further. myCourses is able to calculate that). You can request to be excused from a class meeting, write us in advance of the meeting. If you can't attend class for any reason, always let us know *in advance*. 
+
+During classroom Zoom meetings, if you are going to away from your computer for any length of time (eg. stretch legs, bathroom break and so on) let us know by typing `brb` in the Zoom chat window (just `brb`, no justification is required or desired). Otherwise you will be marked absent if you are called on and do not respond.
 
 ### Policy on Incomplete Grades
 Incomplete grades will be given only in the most exceptional circumstances, soley for issues that arise AFTER the 'W' deadline has passed, and then only by prior arrangement with the professor. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework is not sufficient justification for an "I". Instead, meet with the professor as early as possible in the semester if you're having difficulty. 
