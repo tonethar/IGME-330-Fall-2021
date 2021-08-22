@@ -25,7 +25,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 ### Course Topics
 
 - Project 1 & 2 (Web Apps - let's look at Dog Finder Example - which is worth about 90%)
-  - Review of JavaScript & Browser DOM (Document Object Model)
+  - Review of JavaScript & [Browser DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) (Document Object Model)
   - ES6 JavaScript features such as [ES6 modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
   - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) *(let's look at some examples)*
   - [Bulma](https://bulma.io/)
