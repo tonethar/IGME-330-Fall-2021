@@ -39,7 +39,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
   <hr>
   
   - Honors Section:
-    - the honors class size is smaller (linited to 20 students)
+    - the honors class size is smaller (limited to 20 students)
     - in the first few weeks, we'll also take a look at how parts of the jQuery library work, and in the honors section we will start building our own version (just one class day or so)
     - for Project 2, the regular 330 sections will be covering the Vue.js reactive web framework. In the honors section we will learn about Vue, and will also look at how to build our own reactive (data binding) JS framework, and the use of the JavaScript Proxy object in doing this.
     - for Project 3, instead of canvvas we will use Three.js (a web 3D visualization library)
