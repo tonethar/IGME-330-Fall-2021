@@ -126,6 +126,13 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
     - The direct link to our workspace is:  https://rit-igme-330-2201.slack.com
     - Begin by posting an introduction in the #introductions channel.
     - You can pay attention to the Status Messages of your Professors.  We will update appropriately (typically indicating Office Hours availability when we're online).
+  - Other stuff:
+    - please use the threading functionality ("reply in thread" / "reply to thread")
+    - when *asking* coding-related questions, be specific, but please do not post links to your code:
+      - ex. don't write - "it doesn't work!" - instead, screenshots of error messages can be helpful 
+    - when *answering* questions:
+      - consider offering debugging strategies *first*
+      - be a coach - help the person asking the question find the answer on their own
 - Zoom Professionalism
   - Article link (paywalled): https://www.wsj.com/articles/seven-rules-of-zoom-meeting-etiquette-from-the-pros-11594551601
   - The PDF of this article is in myCourses
@@ -135,7 +142,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
      - we request that you keep web cam on
      - keep microphone muted
      - you could get called on at anytime, so be ready to respond
-     - if you leave your computer for any reason, type `brb` (a reason is not required or wanted). Otherwise, if we call on you and you are not there, you will be marked absent
+     - if you leave your computer for any reason, type `brb` (a reason is not required or wanted). Otherwise, if we call on you and you are not there, you may be marked absent
     
 <hr>
 
