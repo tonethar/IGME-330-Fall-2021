@@ -123,7 +123,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 - Slack
   - You've already been added to our Slack workspace:
     - This [IGME-330 Introduction to Slack](https://docs.google.com/document/u/1/d/e/2PACX-1vQqjfsmGnvlweL9-ruKtsLn1wExSF2vapG1sVFGBJullHnFvbBYtYb60U8gaE7igzDGyGxzzYCxMmON/pub) document will help you get started there. 
-    - The direct link to our workspace is:  https://rit-igme-330-2205.slack.com
+    - The direct link to our workspace is:  https://rit-igme-330-2201.slack.com
     - Begin by posting an introduction in the #introductions channel.
     - You can pay attention to the Status Messages of your Professors.  We will update appropriately (typically indicating Office Hours availability when we're online).
 - Zoom Professionalism
@@ -132,15 +132,17 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
  - Participation/Engagement (10% of grade)
    - Zoom meetings
      - be on time
-     - keep web cam on, and microphone muted
+     - we request that you keep web cam on
+     - keep microphone muted
      - you could get called on at anytime, so be ready to respond
+     - if you leave your computer for any reason, type `brb` (a reason is not required or wanted). Otherwise, if we call on you and you are not there, you will be marked absent
     
 <hr>
 
 ## VII. Required Reading & Assignments
 * [syllabus.md](../syllabus.md)
 * [Project 1 *Vanilla JS App*](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course:
-  - let's look at some examples!
+  - let's look at a "90%" example
 * Also:
   - Keep an eye on the *Content* section of mycourses.rit.edu for "done" in-class demo files
   - Keep an eye on the mycourses.rit.edu dropboxes to see what is assigned and when it is due
