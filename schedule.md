@@ -6,8 +6,11 @@
 
 ### Weekly Outline
 
-- [Week 01 (Jan 25) : Course Intro & Review of Basic Web App Structure](#week1)
-- [Week 02 (Feb 01) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
+
+- [Week 01 (Aug 23) : Course Intro & Review of Basic Web App Structure](#week1)
+- [Week 02 (Aug 30) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
+
+<!--
 - [Week 03 (Fed 15) : IIFEs & Canvas Transformations](#week3)
 - [Week 04 (Feb 22) : Project 1 Prototypes, Drawing Images & Blending Modes (Tues 2/23 - Recharge Day #1)](#week4)
 - [Week 05 (Mar 01) : Sprites / ES6 Module Pattern](#week5)
@@ -21,6 +24,7 @@
 - [Week 13 (Apr 26) : Cloud Data & JavaScript Topics](#week13)
 - [Week 14 (May 03) : Catchup (Mon 5/3 is "Treat as a Thursday class day", Wed 5/5 is final day of classes)](#week14)
 - [Finals Week Meeting : (Final exam week ends on Thurs 5/13)](#finalsweek)
+-->
 
 
 ## <a id="week1">Week 1 : Course Intro & Review of Basic Web App Structure
@@ -30,7 +34,8 @@
 ## <a id="week2">Week 2 : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany
   - [Week 2A - JS Review and more Canvas](weekly/week-02A-notes.md)
   - [Week 2B - Periodic Functions & Algorithmic Botany](weekly/week-02B-notes.md)
-  
+
+<!--
 ## <a id="week3">Week 3 : IIFEs & Canvas Transformations
   - [Week 3A - The IIFE](weekly/week-03A-notes.md)
   - [Week 3B - Canvas Transformations](weekly/week-03B-notes.md)
@@ -80,7 +85,8 @@
 ## <a id="finalsweek">Finals Week Meeting
   - We will all be meeting finals week to present final projects. Check SIS for your section's meeting time and location
   
-
+-->
+  
 <hr>
 
 **All information on this page is subject to modification during the semester.**
