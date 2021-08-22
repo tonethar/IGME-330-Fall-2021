@@ -1,5 +1,6 @@
-# Week 1B - More JavaScript Review
+# Week 1B - Technobabble I & II
 
+<!--
 ## I. Overview
 
 - Welcome to day 2! 
@@ -64,7 +65,7 @@
 ![screenshot](_images/1B-hello-goodbye-2.png)
 
 
-
+-->
 
 
 <hr><hr>
