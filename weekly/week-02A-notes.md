@@ -1,4 +1,4 @@
-# Week 2A - Ajaz, XHR, common data formats
+# Week 2A - Ajax, XHR, common data formats
 
 <!--
 ## I. Overview
