@@ -10,6 +10,8 @@
 - [Week 01 (Aug 23) : Course Intro & Review of Basic Web App Structure](#week1)
 - [Week 02 (Aug 30) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
 
+<hr>
+
 <!--
 - [Week 03 (Fed 15) : IIFEs & Canvas Transformations](#week3)
 - [Week 04 (Feb 22) : Project 1 Prototypes, Drawing Images & Blending Modes (Tues 2/23 - Recharge Day #1)](#week4)
@@ -29,11 +31,11 @@
 
 ## <a id="week1">Week 1 : Course Intro & Review of Basic Web App Structure
   - [Week 1A - Course Introduction](weekly/week-01A-notes.md)
-  - [Week 1B - Canvas Demo](weekly/week-01B-notes.md)
+  - [Week 1B - TB Review/TB II](weekly/week-01B-notes.md)
   
-## <a id="week2">Week 2 : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany
-  - [Week 2A - JS Review and more Canvas](weekly/week-02A-notes.md)
-  - [Week 2B - Periodic Functions & Algorithmic Botany](weekly/week-02B-notes.md)
+## <a id="week2">Week 2 : Ajax
+  - [Week 2A - `XHR` - downloading/parsing text, CSV, XML, JSON](weekly/week-02A-notes.md)
+  - [Week 2B - The `fetch()` API](weekly/week-02B-notes.md)
 
 <!--
 ## <a id="week3">Week 3 : IIFEs & Canvas Transformations
