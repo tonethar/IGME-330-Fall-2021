@@ -24,12 +24,12 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 ### Course Topics
 
-- Project 1 & 2 (Web Ap)
+- Project 1 & 2 (Web Apps - let's look at Dog Finder Example - which is worth about 90%)
   - Review of JavaScript & Browser DOM (Document Object Model)
   - ES6 JavaScript features such as ES6 modules
-  - Web Components
-  - Bulma
-  - XHR & Fetch API
+  - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) *(let's look at some examples)*
+  - [Bulma](https://bulma.io/)
+  - [XHR](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) (330 review) & [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
   - [Vue.js](https://vuejs.org/)  JavaScript MVVM framework
 - Project 3 (Rich Media App or Game)
   - [`<canvas>` 2D drawing API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
