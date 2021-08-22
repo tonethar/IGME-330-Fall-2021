@@ -1,6 +1,6 @@
-# Week 3A - Canvas Transformations
+# Week 3A - Web Components
 
-
+<!--
 ## I. Overview
 
 1) Review [HW-SG-1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-1.md):
@@ -10,7 +10,7 @@
 
 <hr>
 
-2) Talk about canvas transformations - here are the notes --> [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)
+2) Talk about canvas transformations - here are the notes - [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)
   
      - we will be doing a demo of translate/rotate/scale in class
      - the demo "start" code is in the link above, and up in myCourses there is a "clip" file with some code you can copy/paste 
