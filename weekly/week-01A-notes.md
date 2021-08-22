@@ -3,7 +3,7 @@
 Welcome to the course!
 
 ## I. Overview
-Welcome to IGME-330 *Rich Media Web Application Development I*. In this "creative coding" course you will be building on top of IGME-230/235 and constructing compelling interactive experiences that can be viewed over the web. You will also be learning about how to build more robust and modular web software by utilizing more features of JavaScript ES6, and MVVM frameworks such as Vue.js
+Welcome to IGME-330 *Rich Media Web Application Development I*. In this "creative coding" course you will be building on top of IGME-230/235 and constructing compelling interactive experiences that can be viewed over the web. You will also be learning about how to build more robust and modular web software by utilizing more features of JavaScript ES6, Web Components, CSS frameworks such as Bulma, and MVVM frameworks such as Vue.js
 
 <hr>
 
@@ -24,17 +24,29 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 ### Course Topics
 
-- Review of JavaScript & Browser DOM (Document Object Model)
-- [`<canvas>` 2D drawing API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
-  - Some examples of what canvas can do are here (links near top of page) - [Canvas 2D Essential Skills #1 - Intro to the Drawing Context](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-canvas-intro-to-drawing-context.md)
-- [WebAudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
-- Text processing and the [RiTa.js](https://rednoise.org/rita/) computational text framework
-- [Vue.js](https://vuejs.org/)  JavaScript MVVM framework
-- ES6 JavaScript features such as ES6 modules
-
+- Project 1 & 2 (Web Ap)
+  - Review of JavaScript & Browser DOM (Document Object Model)
+  - ES6 JavaScript features such as ES6 modules
+  - Web Components
+  - Bulma
+  - XHR & Fetch API
+  - [Vue.js](https://vuejs.org/)  JavaScript MVVM framework
+- Project 3 (Rich Media App or Game)
+  - [`<canvas>` 2D drawing API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+    - Some examples of what canvas can do are here (links near top of page) - [Canvas 2D Essential Skills #1 - Intro to the Drawing Context](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-canvas-intro-to-drawing-context.md)
+  - [WebAudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+  
+  <hr>
+  
+  - Honors Section:
+    - the honors class size is smaller (linited to 20 students)
+    - in the first few weeks, we'll also take a look at how parts of the jQuery library work, and in the honors section we will start building our own version (just one class day or so)
+    - for Project 2, the regular 330 sections will be covering the Vue.js reactive web framework. In the honors section we will learn about Vue, and will also look at how to build our own reactive (data binding) JS framework, and the use of the JavaScript Proxy object in doing this.
+    - for Project 3, instead of canvvas we will use Three.js (a web 3D visualization library)
+    - time allowing, the honors section will look at the TensorFlow.js machine learning library and build some apps that utilize it
+    - Lastly, honors students will be required to create a tutorial video and accompanying page about an interactive media topic or technology that wasn't covered in class (One example - https://developer.mozilla.org/en-US/docs/WebAssembly). A partner will be allowed for this
 
 <hr>
-
 
 ## IV. History of "Rich Media App Development" on the web
 
