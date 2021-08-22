@@ -1,5 +1,5 @@
 
-# Week 2B - More Canvas
+# Week 2B - `fetch()` API
 
 <!--
 - Any questions?
@@ -28,7 +28,7 @@ Topics:
 - Review the *SG-1* HW
 - Look at how to draw Sine waves using canvas
 - Get you started on Algorithmic Botany (Phyllotaxis)
--->
+
 
 
 ## II. Presentation
