@@ -80,6 +80,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
   - no one company owns the platform!
 - VanillaJS seems to "age well", much better than the "rich internet" platforms listed above
   - for example, a JavaScript/DOM "vanilla" web app written in the "aughties" (2000-2009) would still work today, or require only minimal modification to run
+- VanillaJS now (finally) includes Web Components, which are supported by all of the major browsers)
 
       
 ### "Web Frameworks"
