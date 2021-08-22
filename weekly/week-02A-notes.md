@@ -1,5 +1,6 @@
-# Week 2A - Review and more Canvas
+# Week 2A - Ajaz, XHR, common data formats
 
+<!--
 ## I. Overview
 
 - Welcome back!
