@@ -47,6 +47,12 @@ Free on web!
 - HTML Version: https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/Introduction/Introduction.html
 - See mycourses for the example files
 
+
+**Title:** *Mozilla Developer Network*
+**Publisher:** Mozilla Inc.
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+- The definitive JavaScript Reference
+
 <hr>
 
 ## V. Attendance
