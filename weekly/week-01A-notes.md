@@ -84,7 +84,7 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
       
 ### "Web Frameworks"
-- How will web frameworks like [jQuery](https://jquery.com/), and especially [ReactJS](https://reactjs.org/), "age"? Probably not well!
+- How will web frameworks like [ReactJS](https://reactjs.org/), "age"? Probably not well!
   - in 10 years (or even 5), will a typical React app still run in a web browser?
     - *Probably NOT*
   - And if it didn't, how easy would it be to edit the JSX code (JSX=proprietary web components) and republish it?
