@@ -1,4 +1,4 @@
-# Project 1 - *VanillaJS App of Awesomeness*
+# Project 1 - *VanillaJS App of Awesomeness* (DRAFT)
 
 [I. Overview](#overview)
 
@@ -84,16 +84,16 @@ For this project you are creating a JavaScript driven Web application that utili
     - it must be run from the banjo web server
     - it will accept at least 2 GET parameters (ex. **taco-finder-proxy.php?type=fish&limit=10&location=Rochester,NY**)
 
-4) localStorage
+4) localStorage - you have already done this in IGME-235 - [9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
 
-5) Code Validation:
+5) Utilizes at least 2 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+
+6) Code Validation:
     - ESLint validation required
 
-6) Other prohibited (in addition to what was mentioned above):
+7) Other prohibited (in addition to what was mentioned above):
     - *inline event handlers - ex. `<button onclick="doStuff()">Do Stuff!</button>`*
     
-
-
 <hr>
 
 <a id="media"/>
@@ -106,5 +106,6 @@ For this project you are creating a JavaScript driven Web application that utili
   - jpeg,gif,png only
   - scaled down to appropriate dimensions for web delivery
   - *for example, a not cropped or scaled 12MP 4032 x 3024 image is too big, and not allowed*
+ - Uses the [Bulma](https://bulma.io/) CSS framework
 
 
