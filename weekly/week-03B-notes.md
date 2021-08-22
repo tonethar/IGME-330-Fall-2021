@@ -1,5 +1,6 @@
-# Week 3B - The class meeting after 3A
+# Week 3B - More Web Components
 
+<!--
 ## I. Review
 
 1. Let's review transformations! Grab the start files for [Demo B](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md#demo-B) - **screen-saver-2-start.html** - the one from last time that we didn't do
@@ -12,7 +13,7 @@ setInterval(function(){ctx.clearRect(0,0,640,480);},20000); // "clear screen" ev
 setInterval(fillBGWithRandomTint,5000); // call `fillBGWithRandomTint()` every 5 seconds
 ```
 
-2. Don't forget about the upcoming HW assignments - see myCourses dropbox - they are listed here --> [week-03A-notes.md#hw](week-03A-notes.md#hw)
+2. Don't forget about the upcoming HW assignments - see myCourses dropbox - they are listed here - [week-03A-notes.md#hw](week-03A-notes.md#hw)
 
     - Reminder: you **MUST** complete at least **ONE** of the 3 extra credit assignments
 
