@@ -161,19 +161,33 @@ IGME-230 or IGME-235 is a pre-requisite, and you should have a solid understandi
 
 ## VIII. Demo Starter Code
 
-**starter.html**
+**greeter-starter.html**
 
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="utf-8" />
-	<title>Starter Page</title>
-	<style></style>
-	<script></script>
-</head>
+  <head>
+    <meta charset="utf-8" />
+    <title>Greeter</title>
+    <style>
+      *{font-size:1.5em;}
+    </style>
+  </head>
 <body>
-<p>... something awesome goes here ...</p>
+  <button>Click Me!</button>
+  <input id="firstName" placeholder="Type in your name">
+  <p id="output">???</p>
+  <script>
+    'use strict';
+    
+    // 1 - get a reference to the button
+    // 2 - add a click event to button that calls a `sayHello` function
+    // 3 - create a `sayHello()` function
+    // 3A - get name of person from the #firstName <input>
+    // 3B - get a reference to the #output <p>
+    // 3C - update HTML of #output <p>
+    
+    </script>
 </body>
 </html>
 ```
