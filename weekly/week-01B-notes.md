@@ -1,5 +1,36 @@
 # Week 1B - Technobabble I & II
 
+## I. Finish up 1A
+- Questions on syllabus/course expectations?
+- Finish up JS/DOM Review
+- Review "Greeter"
+
+<hr>
+
+## II. Review Technobabble I
+- [HW - Technobabble Generator](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
+- did anyone do it their "own way" rather than the way we did it on the video?
+- so many ways to handle "did the page load"?
+  - move <script> tag to top and break the code
+  - `window.onload` event handler to fix the code
+  - move JS to an external file:
+    - then add `type=module`
+- event *handlers* v. event *listeners*
+  - declared functions are “first-class data types” (can be assigned to variables, passed as parameters, returned from functions)
+- code refactoring:
+  - the `randomElement()` helper function got rid of a lot of duplicated code
+  - advantages of using template strings over string concatenation
+- quick demo:
+  - move the code to an external JS file (done above)
+  - move the CSS to an external CSS file
+  - embed a font into the page (should be review)
+
+<hr>
+  
+## III. Technobabble II
+
+- [HW - Technobabble Generator II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-2.md) improves the user experience, especially on mobile, let's go work on that now
+
 <!--
 ## I. Overview
 
