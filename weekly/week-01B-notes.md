@@ -23,7 +23,7 @@
 - quick demo:
   - move the code to an external JS file (done above)
   - move the CSS to an external CSS file
-  - embed a font into the page (should be review)
+  - embed a font into the page (should be review from 235)
 
 <hr>
   
