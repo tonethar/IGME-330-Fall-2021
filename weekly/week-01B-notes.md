@@ -3,7 +3,17 @@
 ## I. Finish up 1A
 - Questions on syllabus/course expectations?
 - Finish up JS/DOM Review
-- Review "Greeter"
+- Review "Greeter":
+  - CSS selectors
+  - string concatenation v. template literals
+  - did the page load?
+    - `<script>` on bottom of page
+    - `.onload` handler
+    - external script file
+    - `defer` or `type="module"`
+  - `function` keyword v. functions assigned as values of variables
+  - default form values if the user doesn't type in a name
+  - adding a "last name" field (we'll let you do this for the checkoff)
 
 <hr>
 
