@@ -39,8 +39,8 @@
   
 ## III. Start Technobabble II & III
 
-- [HW - Technobabble Generator II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-2.md) improves the user experience, especially on mobile, let's go work on that now
-- [HW - Technobabble Generator III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-3.md) adds a new button that appears only on larger screens - see the hints and screenshots - we'll let you do this one on your own
+- [HW - Technobabble Generator II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-2.md) - improves the user experience, especially on mobile, let's go work on that now
+- [HW - Technobabble Generator III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-3.md) - adds a new button that appears only on larger screens - see the hints and screenshots - we'll let you do this one on your own
 
 <!--
 ## I. Overview
