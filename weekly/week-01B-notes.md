@@ -1,4 +1,4 @@
-# Week 1B - Technobabble I & II
+# Week 1B - Technobabble I & II & III
 
 ## I. Finish up 1A
 - Questions on syllabus/course expectations?
