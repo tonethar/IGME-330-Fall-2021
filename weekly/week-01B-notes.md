@@ -13,7 +13,7 @@
     - `defer` or `type="module"`
   - `function` keyword v. functions assigned as values of variables (i.e. function *literals*)
   - default form values if the user doesn't type in a name
-  - passing values to functions from event handlers (the "Goodbye" button calling a `greet()` function - time allowing!)
+  - passing values to functions from event handlers (a "Say Goodbye" button calling an `updateOutput()` function - time allowing!)
   - adding a "last name" field (we'll let you do this for the checkoff)
 
 <hr>
