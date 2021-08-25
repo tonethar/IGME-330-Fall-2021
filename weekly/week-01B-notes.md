@@ -11,7 +11,7 @@
     - `.onload` handler
     - external script file
     - `defer` or `type="module"`
-  - `function` keyword v. functions assigned as values of variables
+  - `function` keyword v. functions assigned as values of variables (i.e. function *literals*)
   - default form values if the user doesn't type in a name
   - adding a "last name" field (we'll let you do this for the checkoff)
 
