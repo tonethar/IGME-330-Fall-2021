@@ -28,6 +28,9 @@
   - **HW - Ajax-4 - loading and parsing JSON files**
   - [HW - Technobabble Generator VI - JSON](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-6.md)
 
+<hr>
+
+## III. Breakout Groups
 
 <!--
 - Any questions?
