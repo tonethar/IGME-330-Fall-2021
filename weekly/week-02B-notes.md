@@ -1,7 +1,9 @@
 
-# Week 2B - Review of TB-3 and XHR
+# Week 2B - Review of TB-2 & TB-3 and XHR
 
 ## I. Review the HW
+- [Technobabble II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-2.md)
+  - Any questions?
 - [Technobabble III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-3.md)
   - Media queries (CSS `display` property)
   - Creating one function that will be called by both buttons (need to pass parameters from an event handler)
@@ -19,8 +21,12 @@
 <hr>
 
 ## II. Upcoming Homework
-
-- 
+- You should complete these in the order below:
+  - [HW - Technobabble Generator IV - CSV](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-4.md)
+  - [HW - Ajax-3 - loading and parsing XML files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-3.md)
+  - [HW - Technobabble Generator V - XML](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-5.md)
+  - **HW - Ajax-4 - loading and parsing JSON files**
+  - **HW - Technobabble Generator VI - JSON**
 
 
 <!--
