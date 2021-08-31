@@ -1,5 +1,27 @@
 
-# Week 2B - `fetch()` API
+# Week 2B - Review of TB-3 and XHR
+
+## I. Review the HW
+- [Technobabble III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-3.md)
+  - Media queries (CSS `display` property)
+  - Creating one function that will be called by both buttons (need to pass parameters from an event handler)
+- Ajax HW
+  - [HW - Ajax-1 - loading and parsing text files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-1.md)
+    - When would you ever load unstructured text?
+      - Most commonly, as HTML fragments
+    - Let's look at the "HTML creation" code - both the "long way" and the "one-liner"
+  - [HW - Ajax-2 - loading and parsing CSV files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-2.md)
+    - When would you ever use a CSV file?
+      - when working with large amounts of data, it is very common to export it from a spreadsheet and save it as CSV
+      - when the data set is large, keeping data locally as CSV can be much more efficient than hitting up (for example) a web service repeatedly
+    - look at array [destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+
+<hr>
+
+## II. Upcoming Homework
+
+- 
+
 
 <!--
 - Any questions?
