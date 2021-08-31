@@ -1,7 +1,7 @@
 # Week 2A - Work on Technobabble
 
 ## I. Outline
-- Optional meeting (as long as you have finished [Technobabble III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-3.md)
+- Optional meeting (as long as you have finished [Technobabble III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-3.md))
 
 <hr>
 
