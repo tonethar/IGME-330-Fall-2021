@@ -1,4 +1,13 @@
-# Week 2A - Ajax, XHR, common data formats
+# Week 2A - Work on Technobabble
+
+## I. Outline
+- Optional meeting (as long as you have finished [Technobabble III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-3.md)
+
+<hr>
+
+## II. Homework
+- [HW - Ajax-1 - loading and parsing text files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-1.md)
+- [HW - Ajax-2 - loading and parsing CSV files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-2.md)
 
 <!--
 ## I. Overview
