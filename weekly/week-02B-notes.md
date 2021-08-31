@@ -26,7 +26,7 @@
   - [HW - Ajax-3 - loading and parsing XML files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-3.md)
   - [HW - Technobabble Generator V - XML](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-5.md)
   - **HW - Ajax-4 - loading and parsing JSON files**
-  - **HW - Technobabble Generator VI - JSON**
+  - [HW - Technobabble Generator VI - JSON](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-6.md)
 
 
 <!--
