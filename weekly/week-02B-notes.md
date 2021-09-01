@@ -45,7 +45,7 @@
 
 ### III-A. Screenshot of completed version
 
-![screenshot]()
+![screenshot](../_images/HW-xhr-helper-function.png)
 
 <hr>
 
