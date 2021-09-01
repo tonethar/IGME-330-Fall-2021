@@ -32,6 +32,23 @@
 
 ## III. Breakout Groups
 
+- Your mission (with a partner):
+  - create `loadTextXHR()` helper function named that accepts 2 parameters - `url` and `callback`
+  - `url` is the path the the file you want to download
+  - `callback` is the function you want to have called when the 
+
+<hr>
+
+### III-A. Screenshot of completed version
+
+![screenshot]()
+
+<hr>
+
+### III-B. Start Files
+
+- See myCourses!
+
 <!--
 - Any questions?
   - You all just finished [Core Skills #4](https://github.com/tonethar/IGME-330-Master/blob/master/notes/4-adding-controls.md) (Controls: Button, checkbox, mouse clicking on the canvas):
