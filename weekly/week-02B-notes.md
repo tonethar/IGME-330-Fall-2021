@@ -45,6 +45,10 @@
 
 ### III-A. Screenshot of completed version
 
+- Here we are using the Bulma CSS framework - https://bulma.io/documentation/
+
+<hr>
+
 ![screenshot](../_images/HW-xhr-helper-function.png)
 
 <hr>
