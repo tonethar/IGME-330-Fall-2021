@@ -6,7 +6,7 @@
   - XML parsing:
     - `xhr.responseXML`
     - 5 top rules of *well-formed* XML
-    - Is HTML well formed XML?
+    - Is HTML well-formed XML?
     - Any questions?
 - [Technobabble IV](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-4.md)
   - CSV parsing - Any questions?
