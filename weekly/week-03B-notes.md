@@ -1,4 +1,4 @@
-# Week 3B - More Web Components
+# Week 3B - Finish up Ajax (`async` + `await`) & Web Components
 
 <!--
 ## I. Review
