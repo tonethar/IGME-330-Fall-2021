@@ -3,7 +3,11 @@
 ## I. Review the HW
 - Ajax HW
   - [HW - Ajax-3 - loading and parsing XML files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-3.md)
-  - XML parsing - Any questions?
+  - XML parsing:
+    - `xhr.responseXML`
+    - 5 top rules of *well-formed* XML
+    - Is HTML well formed XML?
+    - Any questions?
 - [Technobabble IV](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-4.md)
   - CSV parsing - Any questions?
 - [Technobabble V](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-5.md)
