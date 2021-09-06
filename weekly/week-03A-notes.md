@@ -12,12 +12,10 @@
 <hr>
 
 ## II. Upcoming Homework
-- You should complete these in the order below (due with a week, prior to start of class 3B:
-  - [HW - Technobabble Generator IV - CSV](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-4.md)
-  - [HW - Ajax-3 - loading and parsing XML files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-3.md)
-  - [HW - Technobabble Generator V - XML](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-5.md)
+- You should complete these in the order below (due soon):
   - [HW - Ajax-4 - loading and parsing JSON files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-4.md)
   - [HW - Technobabble Generator VI - JSON](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-6.md)
+  - [HW - Ajax-5 - loading and parsing JSON files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-5.md)
 
 <!--
 ## I. Overview
