@@ -26,81 +26,23 @@
 ## III. Breakout Groups
 
 - Your mission (with a partner) is to write code that downloads and displays info about popular Star Wars characters
-- A common progrtamaming ant-patern  
+- A common Ajax programaming [anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern) is to send mutiple Ajax requests to a web server by looping over a collection of URLs - meaning that the browser could be making 5,10,20 or more requests within a few microseconds. This *rarely* works well. Either the web browser will choke, or the server will return 404 or 500 errors because you are hitting it with too many requests in ashort amount of time. Writing code like this also marks you as a *newbie*, and it isn't the kind of thing that you want a potential emplyer to see
+- XXX
 
 
-## III-A. Screenshot if complered Version
+## III-A. Screenshot of completed version
 
 <hr>
+
+![screenshot](../_images/HW-xhr-chaining.png)
 
 <hr>
 
 ## III-B. Start Code
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<title>Chained XHR Calls</title>
-	<style>
-	body{
-	  font-family: sans-serif;
-	}
-	button{
-		font-size: 1.2rem;
-	}
-	</style>
+- Look in myCourses
 
-</head>
-<body>
-	<h2>Chained XHR Calls to Star Wars API</h2>
-	<hr>
-	<button id="my-button">Star Wars Data</button> <-- Click button to load!
-	<h3>Star Wars Character Info</h3>
-	<p>Character Name: <span id="output-1">???</span></div>
-	<p>Homeworld Name: <span id="output-2">???</span></div>
-	<div id="output-3">
-		<h3>Films that this homeworld appeared in:</h3>
-	</div>
 
-<script>
-const output1 = document.querySelector("#output-1");
-const output2 = document.querySelector("#output-2");
-
-const baseURL = "https://swapi.dev/api/people/";
-
-const loadPerson = url => loadTextXHR(url,personLoaded);
-
-const loadTextXHR = (url,callback) => {
-	// you wrote this last time
-}; 
-
-const personLoaded = e => {
-	// write this
-	// make sure that the character exists - #17 does not - https://swapi.dev/api/people/17
-	// if they exist, show character name
-	// if they exist, load planet
-};
-
-document.querySelector("#my-button").onclick = () => {
-	output1.innerText = "";
-	output2.innerText = "";
-	loadPerson(baseURL + getRandomInt(1,20));
-};
-
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-function getRandomInt(min, max) {
-  min = Math.ceil(min);
-  max = Math.floor(max);
-  return Math.floor(Math.random() * (max - min + 1) + min);
-}
-
-</script>
-</body>
-</html>
-```
 
 <!--
 ## I. Overview
