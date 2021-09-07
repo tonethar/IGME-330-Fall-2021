@@ -26,8 +26,10 @@
 ## III. Breakout Groups
 
 - Your mission (with a partner) is to write code that downloads and displays info about popular Star Wars characters
-- A common Ajax programaming [anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern) is to send mutiple Ajax requests to a web server by looping over a collection of URLs - meaning that the browser could be making 5,10,20 or more requests within a few microseconds. This *rarely* works well. Either the web browser will choke, or the server will return 404 or 500 errors because you are hitting it with too many requests in ashort amount of time. Writing code like this also marks you as a *newbie*, and it isn't the kind of thing that you want a potential emplyer to see
-- XXX
+- A common Ajax programaming [anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern) is to send mutiple Ajax requests to a web server by looping over a collection of URLs - meaning that the browser could be making 5,10,20 or more requests within a few milliseconds. This *rarely* works well. Either the web browser will choke, or the server will return `404` or `500` errors because you are hitting it with too many requests in a short amount of time. Writing code like this also marks you as a *newbie*, and it isn't the kind of thing that you want a potential employer to see
+- Instead, you will *chain* API calls so that when the first API call returns, you will then make a second API call and so on
+- The web service endpoint you will use has information on Star Wars characters - this one returns JSON about Luke Skywalker - https://swapi.dev/api/people/
+- 
 
 
 ## III-A. Screenshot of completed version
