@@ -30,7 +30,9 @@
   - Instead, you will *chain* API calls so that when the first API call returns, you will then make a second API call and so on. This making of requests in serial rather than parallel reduces the load on the client and the server, and usaully results in a better user experience (in that your app won't hang up while making a lot of simultaneous requests)
 - The web service endpoint you will use has information on Star Wars characters - this one returns JSON about Luke Skywalker - https://swapi.dev/api/people/1
 - Functionality:
-  - clicking the button will download a random character with an id of 1 (Luke Skywalker) and 20 (Yoda)
+  - clicking the button will:
+    - clear the previous results
+    - download a random character with a random id between 1 (Luke Skywalker) and 20 (Yoda)
     - display the character's name
     - if the character doesn't exist (#17 does not) handle that error
   - AFTER you have displayed the character's name, make another `XHR` request, this time for the character's `homeworld`
