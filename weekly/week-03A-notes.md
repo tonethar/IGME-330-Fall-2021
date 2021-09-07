@@ -25,7 +25,82 @@
 
 ## III. Breakout Groups
 
-- Your mission (with a partner) is to write code that 
+- Your mission (with a partner) is to write code that downloads and displays info about popular Star Wars characters
+- A common progrtamaming ant-patern  
+
+
+## III-A. Screenshot if complered Version
+
+<hr>
+
+<hr>
+
+## III-B. Start Code
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<title>Chained XHR Calls</title>
+	<style>
+	body{
+	  font-family: sans-serif;
+	}
+	button{
+		font-size: 1.2rem;
+	}
+	</style>
+
+</head>
+<body>
+	<h2>Chained XHR Calls to Star Wars API</h2>
+	<hr>
+	<button id="my-button">Star Wars Data</button> <-- Click button to load!
+	<h3>Star Wars Character Info</h3>
+	<p>Character Name: <span id="output-1">???</span></div>
+	<p>Homeworld Name: <span id="output-2">???</span></div>
+	<div id="output-3">
+		<h3>Films that this homeworld appeared in:</h3>
+	</div>
+
+<script>
+const output1 = document.querySelector("#output-1");
+const output2 = document.querySelector("#output-2");
+
+const baseURL = "https://swapi.dev/api/people/";
+
+const loadPerson = url => loadTextXHR(url,personLoaded);
+
+const loadTextXHR = (url,callback) => {
+	// you wrote this last time
+}; 
+
+const personLoaded = e => {
+	// write this
+	// make sure that the character exists - #17 does not - https://swapi.dev/api/people/17
+	// if they exist, show character name
+	// if they exist, load planet
+};
+
+document.querySelector("#my-button").onclick = () => {
+	output1.innerText = "";
+	output2.innerText = "";
+	loadPerson(baseURL + getRandomInt(1,20));
+};
+
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
+</script>
+</body>
+</html>
+```
 
 <!--
 ## I. Overview
