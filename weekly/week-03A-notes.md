@@ -15,7 +15,7 @@
       - capitalized function and parameter names (should begin in lowercase except for class names)
       - `var` for variable declarations (should be `const` or `let`)
       - event handlers that are inline in the HTML - ex. - `<button onclick="doStuff()">Click Me</button>` (prohibited in this class, never put JS in the HTML file)
-    - Programming Anti-patterns (more serious, we didn't mark off for most of this):
+    - Programming Anti-patterns (more serious, we didn't mark off for most of these):
       - re-loading the CSV file on every click of the button
       - initializing the button clicks *before* the data has loaded
       - repeated code that could be factored into a function (DRY)
