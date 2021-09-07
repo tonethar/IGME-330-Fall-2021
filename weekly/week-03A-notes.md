@@ -26,6 +26,8 @@
       - unnecessary code (examples):
         - too many functions
         - too much "cut/paste" programming - https://sourcemaking.com/antipatterns/cut-and-paste-programming
+      - other:
+        - `window.onload=init()` instead of `window.onload=init` (or this code was not needed)
 - [Technobabble V](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-5.md)
   - XML parsing - Any questions?
 
