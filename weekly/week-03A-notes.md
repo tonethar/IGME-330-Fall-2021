@@ -21,9 +21,11 @@
       - repeated code that could be factored into a function (DRY)
       - unorganized code (examples):
         - ex. code that executes at the same time not in the same place
+        - principle of "least privledge" not followed
         - inconsistent indenting
       - unnecessary code (examples):
         - too many functions
+        - too much "cut/paste" programming - https://sourcemaking.com/antipatterns/cut-and-paste-programming
 - [Technobabble V](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-5.md)
   - XML parsing - Any questions?
 
