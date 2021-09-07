@@ -26,10 +26,18 @@
 ## III. Breakout Groups
 
 - Your mission (with a partner) is to write code that downloads and displays info about popular Star Wars characters
-- A common Ajax programaming [anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern) is to send mutiple Ajax requests to a web server by looping over a collection of URLs - meaning that the browser could be making 5,10,20 or more requests within a few milliseconds. This *rarely* works well. Either the web browser will choke, or the server will return `404` or `500` errors because you are hitting it with too many requests in a short amount of time. Writing code like this also marks you as a *newbie*, and it isn't the kind of thing that you want a potential employer to see
-- Instead, you will *chain* API calls so that when the first API call returns, you will then make a second API call and so on
-- The web service endpoint you will use has information on Star Wars characters - this one returns JSON about Luke Skywalker - https://swapi.dev/api/people/
-- 
+- A common newbie Ajax programaming [anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern) is to send mutiple Ajax requests to a web server by looping over a collection of URLs - meaning that the browser could be making 5,10,20 or more requests within a few milliseconds. This *rarely* works well. Either the web browser will choke, or the server will return `404` or `500` errors because you are hitting it with too many requests in a short amount of time. Writing code like this also marks you as a *newbie*, and it isn't the kind of thing that you want a potential employer to see
+  - Instead, you will *chain* API calls so that when the first API call returns, you will then make a second API call and so on. This making of requests in serial rather than parallel reduces the load on the client and the server, and usaully results in a better user experience (in that your app won't hang up while making a lot of simultaneous requests)
+- The web service endpoint you will use has information on Star Wars characters - this one returns JSON about Luke Skywalker - https://swapi.dev/api/people/1
+- Functionality:
+  - clicking the button will download a random character with an id of 1 (Luke Skywalker) and 20 (Yoda)
+    - display the character's name
+    - if the character doesn't exist (#17 does not) handle that error
+  - AFTER you have displayed the character's name, make another `XHR` request, this time for the character's `homeworld`
+  - AFTER the `homeworld` data has downloaded:
+  -  display the `homeworld` name
+  -  make another `XHR` request, this time for the first movie in the homeworld's `films` array
+  -  when the film data shows up, display the `title` and `opening_crawl` of the film, and make a new `XHR` request for the next film
 
 
 ## III-A. Screenshot of completed version
