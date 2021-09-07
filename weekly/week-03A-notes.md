@@ -37,7 +37,9 @@
   - AFTER the `homeworld` data has downloaded:
   -  display the `homeworld` name
   -  make another `XHR` request, this time for the first movie in the homeworld's `films` array
-  -  when the film data shows up, display the `title` and `opening_crawl` of the film, and make a new `XHR` request for the next film
+  -  when the film data shows up, display the `title` and `opening_crawl` of the film:
+    - then make a new `XHR` request for the next film
+    - and so on, until you run out of films
 
 
 ## III-A. Screenshot of completed version
