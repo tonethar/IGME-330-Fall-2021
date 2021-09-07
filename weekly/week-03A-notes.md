@@ -10,6 +10,20 @@
     - Any questions?
 - [Technobabble IV](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-4.md)
   - CSV parsing - Any questions?
+  - Code Review - issues I noticed:
+    - Code Style Issues (we still don't have a formal "IGME-330 JS Style Guide" for the HW)
+      - capitalized function and parameter names (should begin in lowercase except for class names)
+      - `var` for variable declarations (should be `const` or `let`)
+      - event handlers that are inline in the HTML - ex. - `<button onclick="doStuff()">Click Me</button>` (prohibited in this class, never put JS in the HTML file)
+    - Programming Anti-patterns (more serious, we didn't mark off for most of this):
+      - re-loading the CSV file on every click of the button
+      - initializing the button clicks *before* the data has loaded
+      - repeated code that could be factored into a function (DRY)
+      - unorganized code (examples):
+        - ex. code that executes at the same time not in the same place
+        - inconsistent indenting
+      - unnecessary code (examples):
+        - too many functions
 - [Technobabble V](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-5.md)
   - XML parsing - Any questions?
 
