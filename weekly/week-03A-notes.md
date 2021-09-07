@@ -29,7 +29,8 @@
 - A common newbie Ajax programaming [anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern) is to send mutiple Ajax requests to a web server by looping over a collection of URLs - meaning that the browser could be making 5,10,20 or more requests within a few milliseconds. This *rarely* works well. Either the web browser will choke, or the server will return `404` or `500` errors because you are hitting it with too many requests in a short amount of time. Writing code like this also marks you as a *newbie*, and it isn't the kind of thing that you want a potential employer to see
   - Instead, you will *chain* API calls so that when the first API call returns, you will then make a second API call and so on. This making of requests in serial rather than parallel reduces the load on the client and the server, and usaully results in a better user experience (in that your app won't hang up while making a lot of simultaneous requests)
 - The web service endpoint you will use has information on Star Wars characters - this one returns JSON about Luke Skywalker - go ahead and try it out in a browser - https://swapi.dev/api/people/1
-  - change the number at the end of this url to `2` to get info about C-3PO and so on
+  - change the number at the end of this url to `2` to get info about C-3PO
+  - and so on
 - Functionality:
   - clicking the button will:
     - clear the previous results
