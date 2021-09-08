@@ -1,9 +1,15 @@
 # Week 3B - Finish up Ajax (`async` + `await`) & Web Components
 
-## I. Review Homework
+## I. Recent Homework and Assignments that are due soon
 - [HW - Ajax-4 - loading and parsing JSON files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-4.md)
 - [HW - Technobabble Generator VI - JSON](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-6.md)
+- [3A Breakout - Ajax Chaining](week-03A-notes.md)
 - [HW - Ajax-5 - the `fetch()` API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-5.md)
+
+
+<hr>
+
+## II. 
 
 <!--
 ## I. Review
