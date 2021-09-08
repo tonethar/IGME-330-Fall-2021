@@ -23,6 +23,7 @@
         - ex. code that executes at the same time not in the same place
         - principle of "least privledge" not followed
         - inconsistent indenting
+        - poorly named functions (functin names should be descriptive & *self documenting*)
       - unnecessary code (examples):
         - too many functions
         - too much "cut/paste" programming - https://sourcemaking.com/antipatterns/cut-and-paste-programming
