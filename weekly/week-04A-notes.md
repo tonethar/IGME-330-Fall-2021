@@ -19,7 +19,7 @@
 
 ### II-A. Start Code
 
-****
+**promise-demo-start.html**
 
 ```html
 <!DOCTYPE html>
@@ -76,6 +76,18 @@ myButton.onclick = () => {
 </script>
 </body>
 </html>
+```
+
+<hr>
+
+### II-B. `promise.then()`
+
+- Go ahead and run the code above, you will see from the console logs that the promise is originally *pending* right after it was created, and it then show as *fulfilled* after 2 seconds when the `resove()` method is fired
+- However, outside of these console logs, our program is unaware that the promise has resolved and what value (a random letter) has been sent
+- Add the following code to the end of the promise (where there is a `// end new Promise` comment)
+
+```js
+then(text => output.innerHTML = `Here's a letter: <b>${text}</b>`) // run if "resolved"
 ```
 
 <hr>
