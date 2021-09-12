@@ -80,15 +80,22 @@ myButton.onclick = () => {
 
 <hr>
 
-### II-B. `promise.then()`
+### II-B. `resolve()` and `promise.then()`
 
 - Go ahead and run the code above, you will see from the console logs that the promise is originally *pending* right after it was created, and it then show as *fulfilled* after 2 seconds when the `resove()` method is fired
 - However, outside of these console logs, our program is unaware that the promise has resolved and what value (a random letter) has been sent
 - Add the following code to the end of the promise (where there is a `// end new Promise` comment)
 
 ```js
-.then(text => output.innerHTML = `Here's a letter: <b>${text}</b>`) // run if "resolved"
+.then(text => { // run if "resolved"
+  console.log("In promise.then()", promise);
+  output.innerHTML = `Here's a letter: <b>${text}</b>`; 
+});
 ```
+
+- Run the code again and you will see that when the promise *resolves*, the `.then()` method is triggered, the callback function is invoked, the random letter is passed in as the `text` variable, and the page is updated by the code
+- In the 3 `promise` logs, you can see the "life cycle" of this promise
+
 
 <hr>
 
