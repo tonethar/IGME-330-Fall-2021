@@ -12,6 +12,10 @@
   
 ## II. What's a `Promise` ?
 
+- A Promise is a JS object that "wraps" an asynchronous function 
+- When a promise successfully completes, it runs its `resolve()` method, whicj tigger 
+- We've been using the built-in 
+
 
 <hr>
 
