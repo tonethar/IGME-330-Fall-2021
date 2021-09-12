@@ -14,8 +14,63 @@
 ## II. What's a `Promise()` ?
 
 - A Promise is a JS object that "wraps" an asynchronous function 
-- When a promise successfully completes, it runs its `resolve()` method, which will trigger a callback function 
-- We've been using the built-in 
+- When a promise successfully completes, it runs its `resolve()` method, which will trigger `then()`
+- When a promise fails, it runs the `reject` method, which will trigger `.catch()`
+
+### II-A. Start Code
+
+****
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<title>Promise Demo</title>
+	<style>
+	body{
+	  font-family: sans-serif;
+	}
+	button{
+		font-size: 1.2rem;
+	}
+	</style>
+
+</head>
+<body>
+	<h2>Promise Demo</h2>
+	<hr>
+	<button id="my-button">Make a Promise</button> <-- Click button
+	<h3>Results</h3>
+	<div id="output">???</div>
+
+<script>
+"use strict";
+const output = document.querySelector("#output");
+const myButton = document.querySelector("#my-button");
+
+myButton.onclick = () => {
+	output.innerHTML = "... waiting 2 seconds to resolve promise ...";
+	
+	// I. Make a promise
+	let promise = new Promise((resolve, reject) => {
+	
+		// I-A. get a random letter
+		const randomLetter = "ABCDEFGHIJKLNMOPQRSTUVWXYZ".split("")[Math.floor(Math.random() * 26)];
+
+		// In 2 seconds, "resolve" the Promise
+		// call resolve() and pass in the random letter we want to send when .then() runs
+		window.setTimeout(() => {
+			resolve(randomLetter);
+		}, 2000);
+	})
+};
+
+</script>
+</body>
+</html>
+```
 
 <hr>
 
