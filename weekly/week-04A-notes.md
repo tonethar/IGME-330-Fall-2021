@@ -87,7 +87,7 @@ myButton.onclick = () => {
 - Add the following code to the end of the promise (where there is a `// end new Promise` comment)
 
 ```js
-then(text => output.innerHTML = `Here's a letter: <b>${text}</b>`) // run if "resolved"
+.then(text => output.innerHTML = `Here's a letter: <b>${text}</b>`) // run if "resolved"
 ```
 
 <hr>
