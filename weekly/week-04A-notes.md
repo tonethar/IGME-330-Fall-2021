@@ -63,9 +63,15 @@ myButton.onclick = () => {
 		// call resolve() and pass in the random letter we want to send when .then() runs
 		window.setTimeout(() => {
 			resolve(randomLetter);
+			console.log("... 2 seconds later ...")
+			console.log(`Promise was just resolved - randomLetter = ${randomLetter}`);
+			console.log("Promise was just resolved", promise);
 		}, 2000);
-	})
-};
+	}); // end new Promise
+	
+	console.log("Promise created ", promise);
+	 
+}; // end .onclick
 
 </script>
 </body>
