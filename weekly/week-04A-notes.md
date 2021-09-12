@@ -15,7 +15,7 @@
 
 - We've been learning how to use the `fetch()` API, which returns a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - It turns out we can code our own promises too
-- Notes: [Ajax-7 - Promises](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-7.md)
+- Notes: [Ajax-7 - JavaScript Promises](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-7.md)
 
 <hr>
 
