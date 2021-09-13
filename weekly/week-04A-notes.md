@@ -5,7 +5,7 @@
   - JSON parsing - used `JSON.parse(xhr.responseText)`
   - Any questions?
 - Look at *Chained XHR Calls* - Breakout Group/HW
-- Ajax HW (`fetch` and `asycn`/`await`
+- Ajax HW (`fetch` and `async`/`await`
   - [HW - Ajax-5 - the `fetch()` API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-5.md)
   - [HW - Ajax-6 - `async` & `await` with the `fetch()` API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-6.md)
 
