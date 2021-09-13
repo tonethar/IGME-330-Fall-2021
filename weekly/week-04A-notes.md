@@ -21,6 +21,8 @@
 
 ## III. Intro to Web Components
 
+- https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-1.md
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
