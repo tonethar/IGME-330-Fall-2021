@@ -1,7 +1,7 @@
 # Week 4A - Finish Up Ajax / Intro to Web Components
 
 ## I. Review the HW
-- [Technobabble V](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-5.md)
+- [Technobabble VI](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-6.md)
   - JSON parsing - used `JSON.parse(xhr.responseText)`
   - Any questions?
 - Look at *Chained XHR Calls* - Breakout Group/HW
