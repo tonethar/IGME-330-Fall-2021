@@ -8,6 +8,7 @@
 ## II. What else do we need to know about web components?
 - *How do we pass arrays or object values to a component, can we do that in an attribute?*
   - not really, because HTML attribute values are always strings
+    - (But actually, you hypothetically *could* pass in a stringified JSON object as an attribute value, and then have the component `JSON.parse()` it - but don't do that!)
   - the solution is to create a JS *property* in the constructor of the component - ex. `this.items=[]` - and then set that value from the "outside" by using JS rather than HTML attributes
 - *How else can we pass values to components?*
   - Answer: *Slots* - https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots
