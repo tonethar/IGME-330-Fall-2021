@@ -13,7 +13,9 @@
 - *How do we pass arrays or object values to a component, can we do that in an attribute?*
   - not really, because HTML attribute values are always strings
   - the solution is to create a JS *property* in the constructor of the component - ex. `this.items=[]` - and then set that value from the "outside" by using JS rather than HTML attributes
--*Imagine that we have a progress bar component, and that we want to have it call *outside* code that we have running in our main application - how do we do it?*
+- *Imagine that we have a progress bar component, and that when it hit 100% we want to have it call "up" to code that we have running in our main application - how do we do it?*
+  - Custom events are the cleanest way to do it
+  - See `element.dispatchEvent()` and `CustomEvent` - https://developer.mozilla.org/en-US/docs/Web/Events/Creating_and_triggering_events
 
 <hr><hr>
 
