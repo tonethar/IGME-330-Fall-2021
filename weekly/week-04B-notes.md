@@ -21,6 +21,12 @@
 ## III. Breakout Group Activity
 - See myCourses
 
+<hr>
+
+## IV. Homework
+- **HW - Web Components-2** above - this should take you less than 5 minutes
+- The **Breakout Group Activity** above - hopefully that is near completion - you may continue to work on it solo, or with your group member(s)
+- [HW - Web Service App with Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-web-service-app-with-components.md) - due start of our next class meeting
 
 <hr><hr>
 
