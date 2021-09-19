@@ -18,6 +18,41 @@
   - You betcha!
   - Demo `<swc-app>`
 
+**sw-web-app.html**
+```html
+<body>
+<sw-app></sw-app>
+</body>
+```
+
+**sw-app.js**
+```html
+import "./sw-header.js";
+import "./sw-card.js";
+import "./sw-footer.js";
+import {loadFile} from "./utils.js";
+
+const template = document.createElement("template");
+template.innerHTML = `
+<style>
+...
+</style>
+<sw-header data-title="Star Wars Character Finder"></sw-header>
+<main>
+  <select id="character-select"></select>
+  <hr>
+  <div class="card-list"></div>
+</main>
+<sw-footer data-title="Ace Coder" data-year="2021"></sw-footer>
+`;
+
+class SWApp extends HTMLElement{
+  constructor(){
+    super();
+    ...
+}
+```
+
 
 
 
