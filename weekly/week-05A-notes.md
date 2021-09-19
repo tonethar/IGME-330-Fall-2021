@@ -17,8 +17,7 @@
 - Can you put Web Components *inside* of other Web Components?
   - You betcha!
   - Demo `<sw-app>`:
-    - we get rid of **main.js**
-    - and move all if the app functionality into `<sw-app>`
+    - we get rid of **main.js**, and move all if the app functionality into `<sw-app>`
     - we also move the ajax code to **utils.js**:
       - we need to **`export`** `loadFile()` from **utils.js**
       - we need to **`import`** `loadFile()` into **sw-app.js** 
