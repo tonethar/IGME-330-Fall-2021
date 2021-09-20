@@ -106,4 +106,8 @@ For this project you are creating a JavaScript driven Web application that utili
   - *for example, a not cropped or scaled 12MP 4032 x 3024 image is too big, and not allowed*
  - Uses the [Bulma](https://bulma.io/) CSS framework
 
+## VI. Example Screenshots
+
+
+
 
