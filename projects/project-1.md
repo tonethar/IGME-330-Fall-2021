@@ -115,16 +115,10 @@ For this project you are creating a JavaScript driven Web application that utili
       - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
       - Current weather and forecasts --> [openweathermap.org/api](https://openweathermap.org/api)
       - Business and start-up info --> [data.crunchbase.com/v3.1/docs](https://data.crunchbase.com/v3.1/docs)
-    - x. **Another Option - make your own API in PHP (you can do this for ONE of the required APIs):**
-      - the data should be useful and not an otherwise widely available subset from another public API
-      - you should have **a lot** of data - 50 to 100 records at least
-      - the API must have at least 2 [*endpoints*](https://dev.socrata.com/docs/endpoints.html), and be "queryable" - meaning that parameters can be passed to it, and it won't just return the same JSON file everytime it is called
-      - the example in the *Project 3 Proposal* dropbox was a database of ice cream stands (which often don't show up in Yelp), similar things would be flea markets, farm stands, etc
-      - or another custom dataset (a comprehensive RPG web service?), or ???
-    - xi. Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
+    - x. Here are the "Blacklisted" APIs that you **MAY NOT** use for this project (but if you can envision a compelling use case, just ask us, in advance):
       - Any API from GIPHY - https://developers.giphy.com/docs/ (we love Giphy, but we don't want a bunch of "Giphy Finder++" Apps)
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-    - xii. **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
+    - xi. **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
       - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
@@ -193,13 +187,11 @@ For this project you are creating a JavaScript driven Web application that utili
 ## IV. Code
 
 1) Code style/standards - [IGME-330 - Course Code Style Requirements](./code-style.md)
-    - ES6 modules - at least 4 distinct code files in a **src** folder - ex. **src/loader.js**, **src/main.js**, **src/utils.js**, **src/classes.js**:
+    - ES6 modules - multiple distinct code files in a **src** folder - ex. **src/main.js**, **src/utils.js**, **src/my-component.js**:
+      - *each component gets its own JS file*
       - *No JS code is allowed in your HTML file*
-      - Instead, use a single `<script>` element to load in the JS code you wrote - ex. `<script src="src/loader.js" type="module"></script>`
+        - Instead, use a single `<script>` element to load in the JS code you wrote - ex. `<script src="src/main.js" type="module"></script>`
       - your modules will use the [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and/or [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) keywords as needed
-    - ES6 classes - at least 2 - put them in **classes.js**
-    - Functions
-    - Arrays
  
 2) Ajax
     - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [`fetch.then()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch):
@@ -207,20 +199,10 @@ For this project you are creating a JavaScript driven Web application that utili
       - you MUST handle errors with either `.catch()` or `try/catch`
       - *do NOT use `XHR` or `jQuery.ajax()` with this project*
 
-3) PHP
-    - a PHP "wrapper" script to your web service is required
-    - it must be run from the banjo web server
-    - it will accept at least 2 GET parameters (ex. **taco-finder-proxy.php?type=fish&limit=10&location=Rochester,NY**)
+3) `localStorage` - you have already done this in IGME-235 - [9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
 
-4) localStorage - you have already done this in IGME-235 - [9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
+4) Utilize at least 3 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
-5) Utilizes at least 2 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
-
-6) Code Validation:
-    - ESLint validation required
-
-7) Other prohibited (in addition to what was mentioned above):
-    - *inline event handlers - ex. `<button onclick="doStuff()">Do Stuff!</button>`*
     
 <hr>
 
