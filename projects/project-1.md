@@ -116,6 +116,17 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ## VI. Example Screenshots
 
+- This example meets the basic requirements, and is mobile friendly
+- This example would earn about a 90% - to earn a higher grade:
+  - **about.html**
+  - **app.html**
+    - pretty barebones app overall, as the API doesn't give us much to work with (an API that also produced location data would transform the app into a "Dog Adoption" app
+  - **favorites.html**
+    - better display of results using some sort of a "card" for layout
+    - ability to delete and reorder the favorites
+  - **sources.html**
+ 
+
 ### VI-A. Desktop Version
 
 <hr>
