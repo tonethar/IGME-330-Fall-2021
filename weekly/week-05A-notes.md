@@ -2,7 +2,7 @@
 
 ## I. Review
 - **[Project 1 - VanillaJS App of Awesomeness](../projects/project-1.md)**:
-  - Executive summary: - `fetch()` with error handling, 1 web service or more, 3 web components or more, 4 pages, navigation system, local storage, Bulma, mobile friendly, ES6 modules, and follow the [IGME-330 JS style guide](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/code-style.md)
+  - Executive summary: - `fetch()` with error handling, 1 web service or more, 3 web components or more, 4 HTML pages linked by a navigation system, `window.localStorage`, Bulma, mobile friendly, ES6 modules, and follow the [IGME-330 JS style guide](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/code-style.md)
   - Checkpoints/Deliverables (see myCourses for exact due dates & times):
     - Friday 09/24 (end of week 5) - Idea posted to the myCourses discussion thread
     - Friday 10/01 (end of week 6) - Working Prototype due (Bulma not required) 
