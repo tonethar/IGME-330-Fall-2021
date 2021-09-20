@@ -36,7 +36,7 @@
 ```
 
 **sw-app.js**
-```html
+```js
 import "./sw-header.js";
 import "./sw-card.js";
 import "./sw-footer.js";
