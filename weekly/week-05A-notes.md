@@ -7,9 +7,9 @@
 <hr>
 
 ## II. Lecture/HW Notes
-- [HW - Web Components-3 - Build a component driven web app](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md)
 - Web Components-4: passing Objects/Arrays to web components
-- Web Components-5: web components and custom events
+- [HW - Web Components-3 - Build a component driven web app](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md)
+<!-- - Web Components-5: web components and custom events -->
 
 <hr>
 
