@@ -54,6 +54,8 @@ For this project you are creating a JavaScript driven Web application that utili
 
 3) A **styles** folder
 
+4) You might also have **fonts**, **images** or **data** folders
+
 <hr>
 
 <a id="functionality"/>
