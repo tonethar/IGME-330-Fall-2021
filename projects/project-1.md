@@ -42,7 +42,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <a id="structure"/>
 
-## II. Structure and Functionality
+## II. Structure
 
 1) 4 distinct web pages
     - About (**about.html**) - a "landing" page that tells the users what the app can do
