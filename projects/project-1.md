@@ -4,7 +4,7 @@
 
 [II. Structure](#structure)
 
-[III. Functionality & User Experience](#functionlaity)
+[III. Functionality & User Experience](#functionality)
 
 [IV. Code](#code)
 
