@@ -9,8 +9,8 @@
 
 - "web" file names (HTML/CSS/JS/images etc) will be in all lower case letters, with words separated by dashes:
   - example **user-form.html** is ok, **user-form.html** is NOT allowed
-  - spaces are not allowed in file names - ex. **user form.html** or **user%20form.html** is NOT allowed
-  - capitals not allowed anywhere in file name (ex. camel case not allowed)
+  - spaces are NOT allowed in file names - ex. **user form.html** or **user%20form.html** is NOT allowed
+  - capitals NOT allowed anywhere in file name (ex. camel case not allowed)
   - exceptions:
     - ES6 class names may begin in an uppercase letter (ex. **Sprite.js**)
     - font file names may have uppercase latters
@@ -25,7 +25,7 @@
   - the above applies to ES6 class method names, and class method parameter names
   - object literal property names will also begin in a lower-case letter, and spaces in property names are not allowed
   - camel casing for all of the above - ex `btnSeach` IS allowed
-- class names always begin in and uppercase letter - ex. `Class Sprite{}`
+- class names always begin in an uppercase letter - ex. `Class Sprite{}`
 
 <hr>
 
