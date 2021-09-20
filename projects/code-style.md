@@ -13,7 +13,7 @@
   - capital letters are NOT allowed anywhere in file name (ex. camel case not allowed)
   - exceptions:
     - ES6 class names may begin in an uppercase letter (ex. **Sprite.js**)
-    - font file names may have uppercase latters
+    - font file names may have uppercase letters
     
 <hr>
 
