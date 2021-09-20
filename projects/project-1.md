@@ -146,30 +146,33 @@ For this project you are creating a JavaScript driven Web application that utili
 <hr>
 
 ### III-B. Design & Interaction (All pages)
-1) Pleasing graphic design:
-    - must use Bulma
+
+1) Global Navigation System with "you are here" cues
+
+2) Pleasing graphic design:
+    - must use the [Bulma](https://bulma.io/) CSS framework
     - must be mobile friendly (Bulma does this by default)
     - an *embedded* font must be used - for example from https://fonts.google.com:
       - be cautious about using an ornamental or cursive embedded font for UI labels
       - instead, utilize the embedded font on ornamental elements, like a title or copyright notice
     
-2) Widgets are well labeled and follow interface conventions, for example:
+3) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
     
-3) Users should be able to figure out how to use the app with minimal instruction:
+4) Users should be able to figure out how to use the app with minimal instruction:
     - be sure to provide instruction and tooltips if necessary
     
-4) User errors must be handled gracefully:
+5) User errors must be handled gracefully:
     - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
     
-5) Users must know what *state* the app is in at all times:
+6) Users must know what *state* the app is in at all times:
     - for example, when they click the search button, there should some indication that a search is happening:
       - text that says "Searching for 'Tacos' near you" and so on
       - a "spinner" or other "indeterminate progress" animation --> [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
       - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
       
 
-6) Optional Features:
+7) Optional Features:
     - Sound:
       - Subtle UI sound *might* be a nice extra, depending on the theme and function of the app
       - Keep your sound file sizes as small as possible. Primarily use MP3's; WAV's are OK for short sound effects
