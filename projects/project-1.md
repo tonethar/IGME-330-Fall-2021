@@ -62,15 +62,11 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ## IV. Code
 
-1) Code standards:
+1) Code style/standards - [IGME-330 - JS Code Style Requirements](./code-style.md)
     - ES6 modules - at least 4 distinct code files in a **src** folder - ex. **src/loader.js**, **src/main.js**, **src/utils.js**, **src/classes.js**:
       - *No JS code is allowed in your HTML file*
       - Instead, use a single `<script>` element to load in the JS code you wrote - ex. `<script src="src/loader.js" type="module"></script>`
       - your modules will use the [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and/or [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) keywords as needed
-    - declare variables with `const` & `let` only:
-      - *never use `var`* in this class
-    - Select DOM elements (aka "DOM Traversal") with `document.querySelector()` and `document.querySelectorAll()`:
-      - *never use `document.getElementById()`, `document.getElementsByTagName()` etc, or *jQuery* in this class
     - ES6 classes - at least 2 - put them in **classes.js**
     - Functions
     - Arrays
