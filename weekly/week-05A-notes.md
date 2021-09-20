@@ -63,6 +63,12 @@ class SWApp extends HTMLElement{
 }
 ```
 
+**main.js** looks like this:
+
+```js
+import "./sw-app.js";
+```
+
 
 
 
