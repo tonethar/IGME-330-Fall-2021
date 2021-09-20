@@ -25,6 +25,8 @@
   - the above also applies to ES6 class method names, and class method parameter names
   - object literal property names will also begin in a lower-case letter, and spaces in property names are not allowed
   - camel casing for all of the above - ex `btnSeach` IS allowed
+  - *Q: So why is camel-casing allowed with variable names, but not with file names, function names, id names etc?
+    - *A: Because we can't use dashes in JS variable names, they would be interpreted as a minus sign*
 - class names always begin in an uppercase letter - ex. `Class Sprite{}`
 - code shall be consistently indented and "line up" so that it is readable:
   - you can use 2-spaces, 4-spaces, or tabs - it just has to be  *consistent* and *readable*
@@ -33,6 +35,7 @@
 
 ## III. DOM Traversal
 
+- HTML `id` and `class` attribute names will be in all lower case letters, with words separated by dashes
 - Select DOM elements (aka "DOM Traversal") with `document.querySelector()` and `document.querySelectorAll()`:
   - *NEVER* use `document.getElementById()`, `document.getElementsByTagName()` etc, or *jQuery* in this class
 - Hooking up events:
