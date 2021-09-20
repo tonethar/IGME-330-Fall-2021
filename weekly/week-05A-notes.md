@@ -7,8 +7,10 @@
 <hr>
 
 ## II. Lecture/HW Notes
-- [Web Components-4 - Walk through a `<my-list>` web component](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-4.md)
-- [HW - Web Components-3 - Build a component driven web app](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md)
+- [Web Components-4 - Walk through a `<my-list>` web component](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-4.md):
+  - this is pretty straightforward, and there isn't a HW assignment associated with it, so we will cover it first
+- [HW - Web Components-3 - Build a component driven web app](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md):
+  - the code is a little more elaborate, and there's a HW  assignment
 <!-- - Web Components-5: web components and custom events -->
 
 <hr>
