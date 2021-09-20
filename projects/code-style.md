@@ -26,6 +26,8 @@
   - object literal property names will also begin in a lower-case letter, and spaces in property names are not allowed
   - camel casing for all of the above - ex `btnSeach` IS allowed
 - class names always begin in an uppercase letter - ex. `Class Sprite{}`
+- code shall be consistently indented and "line up" so that it is readable:
+  - you can use 2-spaces, 4-spaces, or tabs - it just has to be  *consistent* and *readable*
 
 <hr>
 
