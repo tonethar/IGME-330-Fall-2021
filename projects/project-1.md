@@ -108,6 +108,20 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ## VI. Example Screenshots
 
+### VI-A. Desktop Version
+
+<hr>
+
+### VI-B. Mobile Version
+
+![screenshot](_images/p1-mobile-ss-1.png)
+
+![screenshot](_images/p1-mobile-ss-2.png)
+
+![screenshot](_images/p1-mobile-ss-3.png)
+
+![screenshot](_images/p1-mobile-ss-4.png)
+
 
 
 
