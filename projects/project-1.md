@@ -1,4 +1,4 @@
-# Project 1 - *VanillaJS App of Awesomeness* (DRAFT)
+# Project 1 - *VanillaJS App of Awesomeness*
 
 [I. Overview](#overview)
 
