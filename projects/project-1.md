@@ -198,7 +198,7 @@ For this project you are creating a JavaScript driven Web application that utili
       - your modules will use the [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and/or [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) keywords as needed
  
 2) Ajax
-    - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [`fetch.then()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch):
+    - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API):
       - you may use `.then()` or `await` according to your preference
       - you MUST handle errors with either `.catch()` or `try/catch`
       - *do NOT use `XHR` or `jQuery.ajax()` with this project*
