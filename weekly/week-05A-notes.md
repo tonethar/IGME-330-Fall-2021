@@ -7,7 +7,7 @@
     - Friday 09/24 (end of week 5) - Idea posted to discussion thread
     - Friday 10/01 (end of week 6) - Working Prototype due (Bulma not required) 
     - Friday 10/08 (end of week 7) - Final Version 
-- Looking ahead to Project 2 - which is ***Improved* VanillaJS App of Awesomeness** :
+- **Looking ahead to Project 2 - which is *Improved VanillaJS App of Awesomeness*** :
   - we will be "rolling" right into Project 2 as we are completing Project 1, so be sure to get Project 1 done on time
   - Firebase (store data in cloud) and MapBox will be covered in class. To take advantage of MapBox and increase , you might want to pick a web service that has location data in it
   - The use of Firebase is required in Project 2
