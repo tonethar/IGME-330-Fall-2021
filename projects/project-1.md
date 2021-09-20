@@ -231,11 +231,11 @@ For this project you are creating a JavaScript driven Web application that utili
 - This example meets the basic requirements, and is mobile friendly
 - This example would earn about a 90% - to earn a higher grade:
   - **about.html**
-    - could use more "flare" - like a component that rotates dog images every 10 seconds or so
+    - could use more "flare" - ([YouTube - Office Space - Minimum Flair](https://www.youtube.com/watch?v=3vdcw415OcQ) & [YouTube - Joanna Quits With Flair](https://www.youtube.com/watch?v=F7SNEdjftno)) - like a component that rotates dog images every 10 seconds or so
   - **app.html**
     - an initial result should "auto load" when the user comes to the page
     - add the ability to get more than 1 result at a time
-    - pretty barebones app overall, as the API doesn't give us much to work with (get an additional API)
+    - pretty barebones app overall, as the API doesn't give us much to work with (get an additional API?)
     - an API that also produced location data would transform the app into a "Dog Adoption" app
   - **favorites.html**
     - better display of results using some sort of a consistently sized "card" for display, and use `float` or `flex` for layout
