@@ -118,6 +118,22 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ### VI-A. Desktop Version
 
+**about.html**
+
+![screenshot](_images/p1-desktop-ss-1.png)
+
+**app.html**
+
+![screenshot](_images/p1-desktop-ss-2.png)
+
+**favorites.html**
+
+![screenshot](_images/p1-desktop-ss-3.png)
+
+**sources.html**
+
+![screenshot](_images/p1-desktop-ss-4.png)
+
 <hr>
 
 ### VI-B. Mobile Version
