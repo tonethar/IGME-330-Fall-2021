@@ -36,7 +36,7 @@
   - the above also applies to ES6 class method names, and class method parameter names
   - object literal property names will also begin in a lower-case letter, and spaces in property names are not allowed
   - camel casing for all of the above - ex `btnSeach` IS allowed
-  - *Q: So why is camel-casing allowed with variable names, but not with file names, function names, id names etc?
+  - *Q: So why is camel-casing allowed with variable names, but not with file names, function names, id names etc?*
     - *A: Because we can't use dashes in JS variable names, they would be interpreted as a minus sign*
 - class names always begin in an uppercase letter - ex. `Class Sprite{}`
 - code shall be consistently indented and "line up" so that it is readable:
