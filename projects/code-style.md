@@ -17,7 +17,18 @@
     
 <hr>
 
-## II. JavaScript
+## II. DOM Traversal
+
+- HTML `id` and `class` attribute names will be in all lower case letters, with words separated by dashes
+- Selecting DOM elements (aka "DOM Traversal") will be done with `document.querySelector()` and/or `document.querySelectorAll()`:
+  - *NEVER* use `document.getElementById()`, `document.getElementsByTagName()` etc, or *jQuery* in this class
+- Hooking up events:
+  - *Event listeners* (ex. `myButton.addEventListener("click",doStuff)`) and *Event Handlers* (ex. `myButton.onclick = doStuff)`) are both allowed
+  - NEVER use inline event handlers in the HTML - ex. `<button onclick="doStuff()">Click Me</button>`
+
+<hr>
+
+## III. JavaScript
 
 - declare variables with `const` & `let` only:
   - *NEVER* use `var` in this class
@@ -30,14 +41,3 @@
 - class names always begin in an uppercase letter - ex. `Class Sprite{}`
 - code shall be consistently indented and "line up" so that it is readable:
   - you can use 2-spaces, 4-spaces, or tabs - it just has to be  *consistent* and *readable*
-
-<hr>
-
-## III. DOM Traversal
-
-- HTML `id` and `class` attribute names will be in all lower case letters, with words separated by dashes
-- Selecting DOM elements (aka "DOM Traversal") will be done with `document.querySelector()` and/or `document.querySelectorAll()`:
-  - *NEVER* use `document.getElementById()`, `document.getElementsByTagName()` etc, or *jQuery* in this class
-- Hooking up events:
-  - *Event listeners* (ex. `myButton.addEventListener("click",doStuff)`) and *Event Handlers* (ex. `myButton.onclick = doStuff)`) are both allowed
-  - NEVER use inline event handlers in the HTML - ex. `<button onclick="doStuff()">Click Me</button>`
