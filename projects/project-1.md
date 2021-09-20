@@ -46,9 +46,9 @@ For this project you are creating a JavaScript driven Web application that utili
 
 1) 4 distinct web pages
     - About (**about.html**) - a "landing" page that tells the users what the app can do
-    - App  (**app.html**) - your 
-    - Favorites (**favorites.html**)
-    - Sources (**sources.html**)
+    - App  (**app.html**) - the main functionality of your app 
+    - Favorites (**favorites.html**) - a screen where users can view their "favorites"
+    - Sources (**sources.html**) - documentation of your sources and a link to your demo video
 
 2) A **src** folder
 
