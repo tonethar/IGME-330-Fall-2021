@@ -15,7 +15,7 @@
 
 <hr>
 
-## III. Demo
+## III. Demo - nested web components
 - Can you put Web Components *inside* of other Web Components?
   - You betcha!
   - Demo `<sw-app>`:
@@ -23,6 +23,8 @@
     - we also move the ajax code to **utils.js**:
       - we need to **`export`** `loadFile()` from **utils.js**
       - we need to **`import`** `loadFile()` into **sw-app.js** 
+    - got rid of global varaibles and functions like `swcJSON`, and instead made everything a property of `SWApp`
+    - another tricky thing is the ajax callback code - because of `this` issued we needed to use [`function.bind()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
 
 **sw-web-app.html**
 ```html
