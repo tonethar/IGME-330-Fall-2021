@@ -83,6 +83,7 @@ For this project you are creating a JavaScript driven Web application that utili
       - [RiTa.js](https://rednoise.org/rita/)
       - [Wordnik API](https://developer.wordnik.com/faq)
     - v. Game APIs
+      - [Pokemon Go API ](https://rapidapi.com/chewett/api/pokemon-go1)
       - [Giant Bomb Game API](http://www.giantbomb.com/api/)
       - [League of Legends API](https://developer.riotgames.com)
       - [Programmable Web - Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
