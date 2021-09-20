@@ -42,7 +42,7 @@
 **sw-web-app.html**
 ```html
 <body>
-<sw-app></sw-app>
+  <sw-app></sw-app>
 </body>
 ```
 
