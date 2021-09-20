@@ -15,7 +15,7 @@
 ## II. JavaScript
 
 - declare variables with `const` & `let` only:
-  - *never use `var`* in this class
+  - *NEVER* use `var` in this class
 - function and variable and constant names will begin in a lower case letter - ex. `function queryService()`, `const numSprites = 10`
   - camel casing - ex `btnSeach` IS allowed
 - class names always begin in and uppercase letter - ex. `Class Sprite{}`
