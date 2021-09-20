@@ -8,7 +8,7 @@
 ## I. Web file naming conventions
 
 - "web" file names (HTML/CSS/JS/images etc) will be in all lower case letters, with words separated by dashes:
-  - example **user-form.html** is ok, **user-form.html** is NOT allowed
+  - example **user-form.html** is ok, **userForm.html** is NOT allowed
   - spaces are NOT allowed in file names - ex. **user form.html** or **user%20form.html** is NOT allowed
   - capitals NOT allowed anywhere in file name (ex. camel case not allowed)
   - exceptions:
