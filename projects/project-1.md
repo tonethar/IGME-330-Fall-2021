@@ -234,6 +234,7 @@ For this project you are creating a JavaScript driven Web application that utili
     - could use more "flare" - ([YouTube - Office Space - Minimum Flair](https://www.youtube.com/watch?v=3vdcw415OcQ) & [YouTube - Joanna Quits With Flair](https://www.youtube.com/watch?v=F7SNEdjftno)) - like a component that rotates dog images every 10 seconds or so
   - **app.html**
     - an initial result should "auto load" when the user comes to the page
+    - add a "breed" input field that the user can type into
     - add the ability to get more than 1 result at a time
     - pretty barebones app overall, as the API doesn't give us much to work with (get an additional API?)
     - an API that also produced location data would transform the app into a "Dog Adoption" app
