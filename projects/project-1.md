@@ -62,7 +62,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ## IV. Code
 
-1) Code style/standards - [IGME-330 - JS Code Style Requirements](./code-style.md)
+1) Code style/standards - [IGME-330 - Course Code Style Requirements](./code-style.md)
     - ES6 modules - at least 4 distinct code files in a **src** folder - ex. **src/loader.js**, **src/main.js**, **src/utils.js**, **src/classes.js**:
       - *No JS code is allowed in your HTML file*
       - Instead, use a single `<script>` element to load in the JS code you wrote - ex. `<script src="src/loader.js" type="module"></script>`
@@ -72,8 +72,10 @@ For this project you are creating a JavaScript driven Web application that utili
     - Arrays
  
 2) Ajax
-    - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [`fetch.then()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-      - *do not use `XHR` or `await fetch(...)` or `jQuery.ajax()` with this project*
+    - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [`fetch.then()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch):
+      - you may use `.then()` or `await` according to your preference
+      - you MUST handle errors with either `.catch()` or `try/catch`
+      - *do NOT use `XHR` or `jQuery.ajax()` with this project*
 
 3) PHP
     - a PHP "wrapper" script to your web service is required
