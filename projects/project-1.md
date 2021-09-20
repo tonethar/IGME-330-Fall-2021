@@ -151,9 +151,10 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <hr>
 
-### III-B. Design & Interaction
+### III-B. Design & Interaction (All pages)
 1) Pleasing graphic design:
     - must use Bulma
+    - must be mobile friendly (Bulma does this by default)
     - an *embedded* font must be used - for example from https://fonts.google.com:
       - be cautious about using an ornamental or cursive embedded font for UI labels
       - instead, utilize the embedded font on ornamental elements, like a title or copyright notice
@@ -173,11 +174,8 @@ For this project you are creating a JavaScript driven Web application that utili
       - a "spinner" or other "indeterminate progress" animation --> [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
       - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
       
-6) While the app doesn't need to be fully responsive, it should look good on a range of displays. 
-    - For example, don't design it just to work on your huge 24" screen at home, as I'll be grading it on a laptop with a 15" screen
-    - The main controls of the application must fit in a 1200x800 window (or smaller)
 
-7) Optional Features:
+6) Optional Features:
     - Sound:
       - Subtle UI sound *might* be a nice extra, depending on the theme and function of the app
       - Keep your sound file sizes as small as possible. Primarily use MP3's; WAV's are OK for short sound effects
