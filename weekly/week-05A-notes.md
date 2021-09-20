@@ -1,9 +1,20 @@
 # Week 5A - Finish up (mostly) Web Components
 
 ## I. Review
-- 4B Breakout Activity - Counters of Awesomeness:
+- **[Project 1 - VanillaJS App of Awesomeness](../projects/project-1.md)**:
+  - Executive summary: - `fetch()` with error handling, 1 web service or more, 3 web components or more, 4 pages, navigation system, local storage, Bulma, mobile friendly, ES6 modules, and follow the [IGME-330 JS style guide](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/code-style.md)
+  - Checkpoints (see myCourses for exact due dates & times):
+    - Friday 09/24 (end of week 5) - Idea posted to discussion thread
+    - Friday 10/01 (end of week 6) - Working Prototype due (Bulma not required) 
+    - Friday 10/08 (end of week 7) - Final Version 
+- Looking ahead to Project 2 - which is ***Improved* VanillaJS App of Awesomeness** :
+  - we will be "rolling" right into Project 2 as we are completing Project 1, so be sure to get Project 1 done on time
+  - Firebase (store data in cloud) and MapBox will be covered in class. To take advantage of MapBox and increase , you might want to pick a web service that has location data in it
+  - The use of Firebase is required in Project 2
+  - Project 2 will be due Friday 10/22 (end of week 9)
+- **4B Breakout Activity - Counters of Awesomeness**:
   - we did this last time, the instructions are in myCourses
-- Project 1
+
 
 <hr>
 
