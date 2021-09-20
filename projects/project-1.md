@@ -62,7 +62,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ## III. Functionality & User Experience
 
-### III-A. Functional Requirements
+### III-A. Functional Requirements (for the App page)
 1. You must use at least **ONE** distinctive web service APIs in your completed project:
     - i. Try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
     - ii. **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
@@ -70,7 +70,6 @@ For this project you are creating a JavaScript driven Web application that utili
       - The Spotify API requires server authentication, and most of the sample code uses Node.js - AVOID 
       - Yelp uses server-side authentication - BUT we posted some sample code in myCourses that you could adapt for your use
       - "Sports Scores" APIs tend to have very short trial periods (7-10 days) and onerous rate limits - AVOID!
-        - but some students have had luck with this one --> https://developer.sportradar.com
       - Always verify that the API returns current data. There's a "gasoline prices" API out there that has 4 year-old data ...
     - iii. Here are some lists of web services:
       - https://github.com/toddmotto/public-apis
