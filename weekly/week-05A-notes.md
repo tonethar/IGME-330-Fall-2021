@@ -1,4 +1,4 @@
-# Week 5A - Finish up Web Components
+# Week 5A - Finish up (mostly) Web Components
 
 ## I. Review
 - 4B Breakout Activity - Counters of Awesomeness (Instructions in myCourses)
