@@ -63,8 +63,8 @@ For this project you are creating a JavaScript driven Web application that utili
 ## III. Functionality & User Experience
 
 ### III-A. Functional Requirements
-1. You must use **TWO** distinctive web service APIs in your completed project:
-    - i. Try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data (you ***MAY NOT*** use a [CORS service](https://nordicapis.com/10-free-to-use-cors-proxies/) to do this, you must write this code yourself) 
+1. You must use at least **ONE** distinctive web service APIs in your completed project:
+    - i. Try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
     - ii. **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
       - The YouTube API is severely rate limited - AVOID
       - The Spotify API requires server authentication, and most of the sample code uses Node.js - AVOID 
@@ -130,15 +130,13 @@ For this project you are creating a JavaScript driven Web application that utili
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
 
 
-2. You will automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+2. On the app page, you will automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
     - we are going to test this capability by typing in a search term, selecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
 
 
-3) You must have a "reset" button that clears the search text field (in any) and resets other UI elements to their default state. This button will also clear out the values in local storage - the `.clear()` method accomplishes this  (Important: this "reset" button doesn't count towards the 3 control requirement below)
 
-
-4. Other required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
+3. Other required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count, and the "reset" button mentioned above does not count either)
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
@@ -156,11 +154,9 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ### III-B. Design & Interaction
 1) Pleasing graphic design:
-    - must be *usable*
-    - minimally, it must be "not ugly"
-    - the interface must not resemble the GIPHY homework's UI at all
+    - must use Bulma
     - an *embedded* font must be used - for example from https://fonts.google.com:
-      - be cautious about using an embedded font - especially a cursive font - for UI labels
+      - be cautious about using an ornamental or cursive embedded font for UI labels
       - instead, utilize the embedded font on ornamental elements, like a title or copyright notice
     
 2) Widgets are well labeled and follow interface conventions, for example:
@@ -184,13 +180,12 @@ For this project you are creating a JavaScript driven Web application that utili
 
 7) Optional Features:
     - Sound:
-      - Subtle UI sound can be a nice extra
+      - Subtle UI sound *might* be a nice extra, depending on the theme and function of the app
       - Keep your sound file sizes as small as possible. Primarily use MP3's; WAV's are OK for short sound effects
     - UI Animations:
       - https://www.creativebloq.com/features/create-cool-ui-animations-with-css
       - https://www.mockplus.com/blog/post/css-animation-examples
     - Canvas Drawing/Animation:
-      - &lt;canvas> visualization of web service data can be a nice extra
       - Drawing libraries such as Pixi.js, Three.js, Processing.js and D3.js are allowed
       - Charting web services like Google Charts could also be a nice thing to use (and would count as a second web service)
 
