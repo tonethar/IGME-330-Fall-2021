@@ -122,11 +122,19 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ### VI-B. Mobile Version
 
+**about.html**
+
 ![screenshot](_images/p1-mobile-ss-1.png)
+
+**app.html**
 
 ![screenshot](_images/p1-mobile-ss-2.png)
 
+**favorites.html**
+
 ![screenshot](_images/p1-mobile-ss-3.png)
+
+**sources.html**
 
 ![screenshot](_images/p1-mobile-ss-4.png)
 
