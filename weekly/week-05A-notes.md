@@ -26,7 +26,7 @@
       - we need to **`export`** `loadFile()` from **utils.js**
       - we need to **`import`** `loadFile()` into **sw-app.js** 
     - got rid of global variables and functions like `swcJSON`, and instead made everything a property of `SWApp`
-    - another tricky thing is the ajax callback code - because of `this` issued we needed to use [`function.bind()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
+    - another tricky thing is the ajax callback code - because of `this` issues we needed to use [`function.bind()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
 
 **sw-web-app.html**
 ```html
