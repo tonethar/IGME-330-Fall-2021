@@ -1,5 +1,10 @@
 # IGME-330 - Course Code Style Requirements
 
+- Although we won't be using a linter to check out JS code in this course, there are still benefits to having a clear code style:
+  - https://guide.meteor.com/code-style.html
+
+<hr>
+
 ## I. Web file naming conventions
 
 - "web" file names (HTML/CSS/JS/images etc) will be in all lower case letters, with words separated by dashes:
@@ -16,8 +21,10 @@
 
 - declare variables with `const` & `let` only:
   - *NEVER* use `var` in this class
-- function and variable and constant names will begin in a lower case letter - ex. `function queryService()`, `const numSprites = 10`
-  - camel casing - ex `btnSeach` IS allowed
+- function and variable and constant and function parameter *names* will begin in a lower case letter - ex. `function queryService()`, `const numSprites = 10`
+  - the above applies to ES6 class method names, and class method parameter names
+  - object literal property names will also begin in a lower-case letter, and spaces in property names are not allowed
+  - camel casing for all of the above - ex `btnSeach` IS allowed
 - class names always begin in and uppercase letter - ex. `Class Sprite{}`
 
 <hr>
