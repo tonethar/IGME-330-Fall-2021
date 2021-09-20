@@ -32,7 +32,7 @@
 ## III. DOM Traversal
 
 - Select DOM elements (aka "DOM Traversal") with `document.querySelector()` and `document.querySelectorAll()`:
-  - *never use `document.getElementById()`, `document.getElementsByTagName()` etc, or *jQuery* in this class
+  - *NEVER* use `document.getElementById()`, `document.getElementsByTagName()` etc, or *jQuery* in this class
 - Hooking up events:
   - *Event listeners* (ex. `myButton.addEventListener("click",doStuff)`) and *Event Handlers* (ex. `myButton.onclick = doStuff)`) are both allowed
   - NEVER use inline event handlers in the HTML - ex. `<button onclick="doStuff()">Click Me</button>`
