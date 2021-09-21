@@ -12,7 +12,7 @@
   - Firebase (store data in cloud) and MapBox will be covered in class. To take advantage of MapBox for P2, you might want to pick a P1 web service that has location data in it
   - The use of Firebase is required in Project 2
   - Project 2 will be due Friday 10/22 (end of week 9)
-- **4B Breakout Activity - Counters of Awesomeness**:
+- **Look at 4B Breakout Activity - Counters of Awesomeness**:
   - we did this last time, the instructions are in myCourses
 
 
