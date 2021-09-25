@@ -5,7 +5,7 @@
 - Coming Soon: a P1 working prototype - see dropbox for details
 - ES6 Module Pattern - it is required in Project 1, and was covered in WC-3 - let's review that right now:
   - all the JS code in each JS file is now *private* to that file, and specific functions/classes/variables are only visible when they are exported via the `export` statement
-  - note that we now only need ONE `<script>` tag in our HTML file (for the JavaScript code we write)
+  - note that we now only need ONE `<script>` tag in our HTML file (for the JavaScript code we write) and if one JS file needs a function that is declared in another JS file, it needs to explicitly `import` it
 
 <hr>
 
@@ -21,7 +21,7 @@
 - [WC-3 - Build a component driven web app](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md):
   - in this exercise we converted a Star Wars Character app to use web components - here `<sw-header>`, `<sw-footer>` and `<sw-card>`
   - we were exposed to `??` - JavaScript's new *nullish coalescing operator*
-  - we saw how ES6 JS modules with the `import` and `export` statements
+  - we saw how ES6 JS modules work with the `import` and `export` statements
   - we also looked at a version of the SW App that had an `<sw-app>` component that contained the majority of the app logic, and also our 3 previous components. So yes, it's possible (and desirable) to have components nested inside of other components
 - [WC-4 - Walk through a `<my-list>` web component](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-4.md):
   - we saw how to pass array and object data to a `<my-list>` web component (which is an issue because the values of HTML attributes must be strings). The trick is to NOT use an attribute, but instead declare a regular JS property on the component, and pass the array or object data in as a value of that property
