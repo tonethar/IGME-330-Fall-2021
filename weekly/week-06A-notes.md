@@ -27,7 +27,7 @@
 - [WC-5 - Dispatching Custom Events](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-5.md):
   - how do you pass information *out* of a web component and communicate with the rest of your program?
   - one answer: Custom Events implemented via the `CustomEvent` class and `EventTarget.dispatchEvent()`
-  - we will give the <my-list> component from last time the ability to emit a "lengthchanged" event, this event will be broadcast by the component whenever the `.length` of the `items` array changes
+  - we will give the `<my-list>` component from last time the ability to emit a "lengthchanged" event, this event will be broadcast by the component whenever the `.length` of the `items` array changes
 
 
 <hr><hr>
