@@ -19,6 +19,7 @@
   - we were exposed to `??` - JavaScript's new *nullish coalescing operator*
   - we also looked at a version of the SW App that had an `<sw-app>` component that contained the majority of the app logic, and also our 3 previous components. So yes, it's possible (and desirable) to have components nested inside of other components
 - [WC-4 - Walk through a `<my-list>` web component](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-4.md):
+  - we saw how to pass array and object data to a web component (which is an issue because the values of HTML attributes must be strings). The trick is to NOT use an attribute, but instead declare a regular JS property on the component, and pass the array or object data in as a value of that property
 - [WC-5 - Dispatching Custom Events](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-5.md)
 
 
