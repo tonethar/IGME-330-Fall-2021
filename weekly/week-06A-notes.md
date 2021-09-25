@@ -1,4 +1,4 @@
-# Week 6A - More Project 1 Topics
+# Week 6A - Working on Project 1
 
 ## I. Project
 - Discuss [Project 1 - VanillaJS App of Awesomeness](../projects/project-1.md) topic submissions
