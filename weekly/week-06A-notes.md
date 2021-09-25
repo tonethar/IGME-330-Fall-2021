@@ -1,7 +1,8 @@
 # Week 6A - More Project 1 Topics
 
-## I. Recent HW
-- Project 1 Topics
+## I. Project
+- Discuss [Project 1 - VanillaJS App of Awesomeness](../projects/project-1.md) topic submissions
+- Coming Soon: a P1 working prototype - see dropbox for details
 
 <hr>
 
