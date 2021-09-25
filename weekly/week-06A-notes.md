@@ -9,8 +9,9 @@
 
 - [WC-1 - Intro to Web Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-1.md):
   - we learned about Custom Elements, the Shadow DOM and HTML templates
-  - we saw how to extend the `HTMLElement` class, the 
-- [WC-2 - more lifecycle methods](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-2.md)
+  - we saw how to extend the `HTMLElement` class, what needs to go into the `contructor()` and the `connectedCallback` lifecycle method
+- [WC-2 - more lifecycle methods](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-2.md):
+  - 
 - [WC-3 - Build a component driven web app](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md)
 - [WC-4 - Walk through a `<my-list>` web component](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-4.md)
 - [WC-5 - Dispatching Custom Events](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-5.md)
