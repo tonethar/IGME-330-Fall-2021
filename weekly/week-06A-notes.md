@@ -26,7 +26,7 @@
 - [WC-4 - Walk through a `<my-list>` web component](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-4.md):
   - we saw how to pass array and object data to a `<my-list>` web component (which is an issue because the values of HTML attributes must be strings). The trick is to NOT use an attribute, but instead declare a regular JS property on the component, and pass the array or object data in as a value of that property
 
-**NEW**
+**\*NEW\***
 
 - [WC-5 - Dispatching Custom Events](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-5.md):
   - how do you pass information *out* of a web component and communicate with the rest of your program?
