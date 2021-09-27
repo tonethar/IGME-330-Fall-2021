@@ -7,7 +7,7 @@
     -  in a browser window AND
     -  from `fetch()` or `XHR` JavaScript code
     -  test your web service - SOON - and stay after class today if you are having any issues connecting to it
-    -  also, note the **CORS** folder of proxy-server demo code that's in myCourses *(the Content section) - that might be a big help to some of you
+  -  also, note the **CORS** folder of proxy-server demo code that's in myCourses (the Content section) - that might be a big help to some of you
 - ES6 Module Pattern:
   - it is required in Project 1, and was covered in WC-3 - let's review that right now:
     - all the JS code in each JS file is now *private* to that file, and specific functions/classes/variables are only visible when they are exported via the `export` statement
