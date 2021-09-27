@@ -2,10 +2,16 @@
 
 ## I. Project
 - Discuss [Project 1 - VanillaJS App of Awesomeness](../projects/project-1.md) topic submissions
-- Coming Soon: a P1 working prototype - see dropbox for details
-- ES6 Module Pattern - it is required in Project 1, and was covered in WC-3 - let's review that right now:
-  - all the JS code in each JS file is now *private* to that file, and specific functions/classes/variables are only visible when they are exported via the `export` statement
-  - note that we now only need ONE `<script>` tag in our HTML file (for the JavaScript code we write) and if one JS file needs a function that is declared in another JS file, it needs to explicitly `import` it
+  - Due Soon: a P1 working prototype - see dropbox for details
+  - **IMPORTANT** - be sure that your web service works:
+    -  in a browser window AND
+    -  from `fetch()` or `XHR` JavaScript code
+    -  test your web service - SOON - and stay after class today if you are having any issues connecting to it
+- ES6 Module Pattern:
+  - it is required in Project 1, and was covered in WC-3 - let's review that right now:
+    - all the JS code in each JS file is now *private* to that file, and specific functions/classes/variables are only visible when they are exported via the `export` statement
+    - note that we now only need ONE `<script>` tag in our HTML file (for the JavaScript code we write) and if one JS file needs a function that is declared in another JS file, it needs to explicitly `import` it
+   - [ES6 Module Pattern](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES6-module-pattern-2211.md) - let's look at these notes
 
 <hr>
 
