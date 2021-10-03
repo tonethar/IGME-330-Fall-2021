@@ -11,8 +11,8 @@
 - your `<script>` tags MUST be at the "top" of each HTML file (i.e. in the `<head>` section)
 - your `<script>` tags MUST be be of `type="module"`
 - ES6 modules:
-  - by default, will [`defer`](https://www.w3schools.com/tags/att_script_defer.asp) code execution until the DOM has loaded, so you most likely don't need any `window.onload` code anywhere in P1
-  - run in ["strict mode"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) by default, so you will not need any `"use strict";` declarations at the top of any of your code files
+  - by default, will [`defer`](https://www.w3schools.com/tags/att_script_defer.asp) code execution until the DOM has loaded, so you most likely DO NOT need any `window.onload` code anywhere in P1
+  - run in ["strict mode"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) by default, so you WILL NOT need any [`"use strict";`](https://www.w3schools.com/js/js_strict.asp) declarations at the top of any of your code files
 
 
 <hr>
