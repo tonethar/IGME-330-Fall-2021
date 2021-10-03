@@ -8,10 +8,13 @@
 
 ## TOC:
 
-- [**I - Code Tips**](#code-tips)
-- [**II - Component Tips**](#component-tips)
-- [**III - Bulma/CSS Tips**](#css-tips)
-- [**IV - Other Tips**](#other-tips)
+[**I - Code Tips**](#code-tips)
+
+[**II - Component Tips**](#component-tips)
+
+[**III - Bulma/CSS Tips**](#css-tips)
+
+[**IV - Other Tips**](#other-tips)
  
 <hr><hr>
 
