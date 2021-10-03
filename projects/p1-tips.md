@@ -1,10 +1,14 @@
 # Project 1 - Tips & Tricks
 
+## Notes:
+
 - [Project 1 Requirements](project-1.md)
 - [Project 1 Coding Standards](code-style.md)
 - We will keep updating this page - so check back periodically!
 
 <br>
+
+## Navigation:
 
 - [**Code Tips**](#code-tips)
 - [**Component Tips**](#conmponent-tips)
