@@ -103,3 +103,10 @@ import * as "utils" from './utils.js';
 <hr><hr>
 
 ## II. Component Tips
+
+### II-A. Don't "over engineer" your components
+
+- Unlike our components HW, most of your P! components won't be need to be updated after the HTML page loads
+- For example, if you have a `<p1-footer>` component that appears on every page of your P!, and it takes `projectname` and `authorname` attributes, and these values will NEVER change after each of the page loads - it means:
+  - you won't need to "watch" for any attribute changes after `connectedCallback` is called
+  - meaning you don't need to implement `observedAttributes()` or `attributeChangedCallback()`
