@@ -70,15 +70,21 @@ window.onload = () => {
 
 <hr>
 
-### I-D. `utils.js`
+### I-E. `utils.js`
 
 - this will have code (functions and/or classes) that is utilized by your the other script files (**app.js** & **pavorites.js** and maybe others)
 - you WILL NOT link to this **utils.js** with a `<script>` tag
 - you will instead `import` this file into your other script files where it is needed - example:
 
 ```js
+// first style - specify what you want to import
+import {loadDataFetch,calcRating} from './utils.js';
 
+// second style - import everything that was exported under the `utils` namespace
+import * as "utils" from './utils.js';
 ```
+
+- and don't forget to `export` functions/classes from **utils.js**
 
 <hr><hr>
 
