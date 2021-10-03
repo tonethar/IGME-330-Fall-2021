@@ -106,7 +106,16 @@ import * as "utils" from './utils.js';
 
 ### II-A. Don't "over engineer" your components
 
-- Unlike our components HW, most of your P! components won't be need to be updated after the HTML page loads
+- Unlike our components HW, most of your P1 components won't be need to be updated after the HTML page loads
 - For example, if you have a `<p1-footer>` component that appears on every page of your P!, and it takes `projectname` and `authorname` attributes, and these values will NEVER change after each of the page loads - it means:
   - you won't need to "watch" for any attribute changes after `connectedCallback` is called
   - meaning you don't need to implement `observedAttributes()` or `attributeChangedCallback()`
+
+<hr>
+
+### II-B. A `<p1-nav>` component
+
+- A very useful component (not required, but it would be a good one to implement), because that `<nav>` HTML is repeated on each of your P1 pages (at least 4 times):
+  - But you will also need to move the "hamburger JS" from **loader.js** to your component
+  - Hint: in the component constructor, initialize `this.burgerIcon` and `this.navbarMenu` and make them *properties* of the `<p1-nav>` component
+
