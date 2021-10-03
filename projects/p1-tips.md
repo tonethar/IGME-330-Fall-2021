@@ -68,6 +68,18 @@ window.onload = () => {
 <script src="src/favorites.js" type="module"></script>
 ```
 
+<hr>
+
+### I-D. `utils.js`
+
+- this will have code (functions and/or classes) that is utilized by your the other script files (**app.js** & **pavorites.js** and maybe others)
+- you WILL NOT link to this **utils.js** with a `<script>` tag
+- you will instead `import` this file into your other script files where it is needed - example:
+
+```js
+
+```
+
 <hr><hr>
 
 ## II. Component Tips
