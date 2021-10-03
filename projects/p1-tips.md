@@ -121,3 +121,18 @@ import * as "utils" from './utils.js';
   - But you will also need to move the "hamburger JS" from **loader.js** to your component
   - Hint: in the component constructor, initialize `this.burgerIcon` and `this.navbarMenu` and make them *properties* of the `<p1-nav>` component
 
+<a id="css-tips" />
+
+<hr><hr>
+
+## III. Bumla/CSS Tips
+
+
+<a id="other-tips" />
+
+<hr><hr>
+
+## IV. Other Tips
+
+
+<hr><hr>
