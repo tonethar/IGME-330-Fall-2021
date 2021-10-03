@@ -6,7 +6,7 @@
 - [Project 1 Coding Standards](code-style.md)
 - We will keep updating this page - so check back periodically!
 
-## Navigation:
+## Local Navigation:
 
 - [**Code Tips**](#code-tips)
 - [**Component Tips**](#conmponent-tips)
