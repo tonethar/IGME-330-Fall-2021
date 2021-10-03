@@ -1,12 +1,12 @@
 # Week 7A - Working on Project 1 Prototypes
 
-## I. Project 1 Prototypes
+## I. P1 Prototypes
 
 - Let's look at some P1 Prototypes
 
 <hr>
 
-## II. Project 1 Questions/Issues?
+## II. P1 Questions/Issues?
 
 - [Project 1 - Tips & Tricks](../projects/p1-tips.md)
 
