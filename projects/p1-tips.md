@@ -119,7 +119,7 @@ import * as "utils" from './utils.js';
 
 ### II-B. A `<p1-nav>` component
 
-- A very useful component (not required, but it would be a good one to implement), because that `<nav>` HTML is repeated on each of your P1 pages (at least 4 times):
+- A very useful component (not required, but it would be a good one to implement), because all of that `<nav>` HTML is repeated on each of your P1 pages (at least 4 times!):
   - But you will also need to move the "hamburger JS" from **loader.js** to your component
   - Hint: in the component constructor, initialize `this.burgerIcon` and `this.navbarMenu` and make them *properties* of the `<p1-nav>` component
 
