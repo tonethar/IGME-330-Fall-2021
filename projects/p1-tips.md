@@ -6,9 +6,20 @@
 
 ## I. Code Tips
 
-### I-A. `loader.js`
+### I-A. General tips (and requirements)
 
-- The "hamburger" code that was in **index.js** is something that every one of your P1 pages needs. You will need to convert this file over to an ES6 module for this project, which is easy! First, rename **index.js** to **loader.js**, and the make it look like this:
+- your `<script>` tags MUST be at the "top" of each HTML file (i.e. in the `<head>` section)
+- your `<script>` tags MUST be be of `type="module"`
+- ES6 modules:
+  - by default, will [`defer`](https://www.w3schools.com/tags/att_script_defer.asp) code execution until the DOM has loaded, so you most likely don't need any `window.onload` code anywhere in P1
+  - run in ["strict mode"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) by default, so you will not need any `"use strict";` declarations at the top of any of your code files
+
+
+<hr>
+
+### I-B. `loader.js`
+
+- The "hamburger" code that was in **index.js** is something that every one of your P1 pages needs. You will need to convert this file over to an ES6 module for this project, which is easy! First, rename **index.js** to **loader.js**, and then make it look like this:
 
 **loader.js**
 
@@ -26,8 +37,6 @@ window.onload = () => {
 };
 ```
 
-
-
 - Now link to it from every one of your P1 pages:
 
 ```html
@@ -35,7 +44,7 @@ window.onload = () => {
 ```
 <hr>
 
-### I-B. `app.js`
+### I-C. `app.js`
 
 - **app.js**
   - contains your main app functionality
@@ -47,7 +56,7 @@ window.onload = () => {
 
 <hr>
 
-### I-C. `favorites.js`
+### I-D. `favorites.js`
 
 - **favorites.js**
   - contains your main app functionality
