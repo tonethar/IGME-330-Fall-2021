@@ -4,6 +4,8 @@
 - [Project 1 Coding Standards](code-style.md)
 - We will keep updating this page - so check back periodically!
 
+<hr><hr>
+
 ## I. Code Tips
 
 ### I-A. General tips (and requirements)
