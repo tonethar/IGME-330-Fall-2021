@@ -4,7 +4,14 @@
 - [Project 1 Coding Standards](code-style.md)
 - We will keep updating this page - so check back periodically!
 
+<br>
+
+- [**Code Tips**](#code-tips)
+- [**Component Tips**](#conmponent-tips)
+
 <hr><hr>
+
+<a id="code-tips" />
 
 ## I. Code Tips
 
@@ -88,6 +95,8 @@ import * as "utils" from './utils.js';
 ```
 
 - and don't forget to `export` functions/classes from **utils.js**
+
+<a id="component-tips" />
 
 <hr><hr>
 
