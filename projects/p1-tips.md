@@ -33,7 +33,30 @@ window.onload = () => {
 ```html
 <script src="src/loader.js" type="module"></script>
 ```
+<hr>
+
+### I-B. `app.js`
+
+- **app.js**
+  - contains your main app functionality
+  - is linked to from **app.html**
+
+```html
+<script src="src/app.js" type="module"></script>
+```
 
 <hr>
+
+### I-C. `favorites.js`
+
+- **favorites.js**
+  - contains your main app functionality
+  - is linked to from **favorites.html**
+
+```html
+<script src="src/favorites.js" type="module"></script>
+```
+
+<hr><hr>
 
 ## II. Component Tips
