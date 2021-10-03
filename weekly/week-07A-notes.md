@@ -9,6 +9,8 @@
 ## II. P1 Questions/Issues?
 
 - [Project 1 - Tips & Tricks](../projects/p1-tips.md)
+- Still have CORS issues? - refer to the **CORS** folder in myCourses, and get with your Prof ASAP
+- What else?
 
 <hr><hr>
 
