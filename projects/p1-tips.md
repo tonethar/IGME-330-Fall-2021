@@ -48,7 +48,7 @@ import "./components/my-component-3.js";
 
 const burgerIcon = document.querySelector("#burger");
 const navbarMenu = document.querySelector("#nav-links");
-burgerIcon.onclick = () => navbarMenu.classList.toggle('is-active');
+if (burgerIcon) burgerIcon.onclick = () => navbarMenu.classList.toggle('is-active');
 
 ```
 
