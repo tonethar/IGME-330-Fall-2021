@@ -46,11 +46,10 @@ import "./components/my-component-1.js";
 import "./components/my-component-2.js";
 import "./components/my-component-3.js";
 
-window.onload = () => {
-  const burgerIcon = document.querySelector("#burger");
-  const navbarMenu = document.querySelector("#nav-links");
-  burgerIcon.onclick = () => navbarMenu.classList.toggle('is-active');
-};
+const burgerIcon = document.querySelector("#burger");
+const navbarMenu = document.querySelector("#nav-links");
+burgerIcon.onclick = () => navbarMenu.classList.toggle('is-active');
+
 ```
 
 - Now link to it from every one of your P1 pages:
