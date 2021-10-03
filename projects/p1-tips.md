@@ -134,5 +134,14 @@ import * as "utils" from './utils.js';
 
 ## IV. Other Tips
 
+### IV-A. App Usability
+
+- Each page must have "you are here" cues
+- "Let the user know what's going on"
+
+### IV-B. Spelling
+
+- Fix any spelling & grammar errors
+- This includes you file names - ex. you should be spelling words like "component" and "utilities" correctly - we don't want to see files named something like **footer-compnent.js**
 
 <hr><hr>
