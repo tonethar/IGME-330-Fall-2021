@@ -6,8 +6,6 @@
 - [Project 1 Coding Standards](code-style.md)
 - We will keep updating this page - so check back periodically!
 
-<br>
-
 ## Navigation:
 
 - [**Code Tips**](#code-tips)
