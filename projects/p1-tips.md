@@ -16,7 +16,7 @@
   - by default, will [`defer`](https://www.w3schools.com/tags/att_script_defer.asp) code execution until the DOM has loaded, so you most likely DO NOT need any `window.onload` code anywhere in P1
   - run in ["strict mode"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) by default, so you WILL NOT need any [`"use strict";`](https://www.w3schools.com/js/js_strict.asp) declarations at the top of any of your code files
   - ES6 Module Notes are here - [ES6 Module Pattern](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES6-module-pattern-2211.md)
-  - Look at this ZIP of ["Module Demos"]()
+  - Look at this ZIP of ["Module Demos"](https://github.com/tonethar/IGME-330-Master/blob/master/notes/_files/Module%20Demos%202211.zip)
 
 
 <hr>
