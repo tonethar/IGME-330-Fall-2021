@@ -9,7 +9,7 @@
 ## TOC:
 
 - [**I - Code Tips**](#code-tips)
-- [**II - Component Tips**](#conmponent-tips)
+- [**II - Component Tips**](#component-tips)
 
 <hr><hr>
 
