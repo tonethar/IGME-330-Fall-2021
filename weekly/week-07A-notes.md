@@ -9,8 +9,12 @@
 ## II. P1 Questions/Issues?
 
 - [Project 1 Requirements](../projects/project-1.md)
-- [Project 1 Coding Standards](../projects/code-style.md) - ***\*SEE 2 new sections at end\***
-- [Project 1 - Tips & Tricks](../projects/p1-tips.md) - ***\*NEW\****
+  - [Project 1 Functionality section reorganized for clarity](../projects/project-1.md#functionality)
+  - [Project 1 Rubric ](../projects/project-1.md#rubric)
+- [Project 1 Coding Standards](../projects/code-style.md)
+  - ***\*SEE the 2 new sections at end\***
+- [Project 1 - Tips & Tricks](../projects/p1-tips.md)
+  - ***\*THIS DOC IS NEW\****
 - Still have CORS issues? - refer to the **CORS** folder in myCourses, and get with your Prof ASAP
 - What else?
 
