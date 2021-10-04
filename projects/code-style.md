@@ -31,7 +31,7 @@
 ## III. JavaScript
 
 - declare variables with `const` & `let` only:
-  - *NEVER* use `var` in this class
+  - *NEVER* use `var` in this course
 - function, variable, constant and function parameter *names* will begin in a lower case letter - ex. `function queryService()`, `const numSprites = 10`
   - the above also applies to ES6 class method names, and class method parameter names
   - object literal property names will also begin in a lower-case letter, and spaces in property names are not allowed
