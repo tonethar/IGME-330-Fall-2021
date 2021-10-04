@@ -95,7 +95,7 @@ For this project you are creating a JavaScript driven Web application that utili
 <details>
 <summary>List of web services</summary>
 
-1. You must use at least **ONE** web service API in your completed project:
+1. You MUST use at least **ONE** web service API in your completed project:
     - i. Try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
     - ii. **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
       - The YouTube API is severely rate limited - AVOID
@@ -157,12 +157,12 @@ For this project you are creating a JavaScript driven Web application that utili
     
 </details>
 
-2. On the app page, you will automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+2. On the app page, you WILL automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
     - we are going to test this capability by typing in a search term, selecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
     - ***\*THIS REQUIREMENT HAS BEEN DEFERRED TO [PROJECT 2](project-2.md)\****
 
-3. Other required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
+3. Other required controls - there WILL be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count)
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
@@ -182,9 +182,9 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ### III-C. Functional Requirements (*Favorites page*)
 
-- The favorites (or lists or bookmarks) will be stored in `localStorage` and can be viewed on this page
+- The favorites (or lists or bookmarks) WILL be stored in `localStorage` and can be viewed on this page
 - There MUST be a be a *Delete* button that clears `localStorage` (thus removing the favorites from the page)
-- The user will probably be able to interact with the favorites in some way - "View Next 5" and "View Previous 5" buttons etc... especially if there are a lot of favorites
+- The user will probably be able to interact with the favorites in some other way - "View Next 5" and "View Previous 5" buttons etc... especially if there are a lot of favorites.
 - *Optional - the user can also sort, re-order and delete individual favorites*
 
 
@@ -196,13 +196,13 @@ For this project you are creating a JavaScript driven Web application that utili
 
 - Have the following sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-screenshots) below
   - PROJECT REQUIREMENTS:
-    - provide  a link to this page
+    - provide a link to this page
   - RESOURCES UTILIZED:
     - cite any and all resources you used on this project, the specific link, including:
       - fonts and images
       - reference sites - ex. developer.mozilla.org
       - "help" sites - ex. stackoverflow.com
-      - code snippet sites - ex. CodePen or gists.github.com 
+      - code snippet sites - ex. CodePen or gists.github.com or copying starter code from the Bulma site etc
       - tutorial sites - ex. w3schools.com
       - video sites - ex. YouTube or LinkedIn Learning or Udemy
       - blog postings etc
@@ -399,14 +399,16 @@ Your project will be graded on the following criteria:
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
 | **A. [Functionality - App & Favorites Pages](#rubric-functionality)** | **40** | |
-|    1. Implements all required functional requirements
-|    2. Saves/restores last search term and other UI *state* (DEFERRED TO [PROJECT 2](project-2.md)  | |
-|    3. Has other required controls | |
-|    - *Web Service does not work* | *(-30)* |
-|    - *Does not save/restore UI state* | *(-10)* |
-|    - *Missing controls* | *(-10 each)* |
-|    - *Favorites not stored in localstorage* | *(-15)* |
-|    - *Missing Favorites "Delete" button* | *(-5)* |
+|    1. App Page implements all required functional requirements
+|    2. App Page saves/restores last search term and other UI *state* (DEFERRED TO [PROJECT 2](project-2.md)  | |
+|    3. App Page has other required controls | |
+|    4. Favorites Page uses local storage to display favorites  | |
+|    5. Favorites Page has required "Delete Button"  | |
+|    - *Web Service does not work (App Page)* | *(-30)* |
+|    - *Does not save/restore UI state (App Page)* | *(-10)* |
+|    - *Missing required # of controls (App Page)* | *(-10 each)* |
+|    - *Favorites not stored in localstorage (Favorites Page)* | *(-15)* |
+|    - *Missing Favorites "Delete" button (Favorites Page)* | *(-5)* |
 | **B. [Content - Home & Documentation Pages](#rubric-content)** | **10** | |
 |    1. Required content is present | |
 | **C. [Design & Interaction](#rubric-design)** | **20** | |
