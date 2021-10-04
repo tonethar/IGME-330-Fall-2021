@@ -6,6 +6,12 @@
 
 [III. App Functionality & User Experience](#functionality)
 
+- [Home Page](#page-home)
+- [App Page](#page-app)
+- [Favorites Page](#page-favorites)
+- [Documentation Page](#page-documentation)
+- [Design & Interaction for ALL pages](#page-design-interaction)
+
 [IV. Code](#code)
 
 [V. Media](#media)
@@ -45,16 +51,16 @@ For this project you are creating a JavaScript driven Web application that utili
 ## II. Structure
 
 1) 4 distinct web pages
-    - About (**about.html**) - a "landing" page that tells the users what the app can do
+    - About (**home.html** or **about.html**) - a "landing" page that tells the users what the app can do
     - App  (**app.html**) - the main functionality of your app 
-    - Favorites (**favorites.html**) - a screen where users can view their "favorites"
-    - Sources (**sources.html**) - documentation of your sources and a link to your demo video
+    - Favorites (**favorites.html** or **bookmarks.html** or another name that makes sense) - a screen where users can view their "favorites"
+    - Sources (**documentation.html** or **sources.html**) - documentation of your sources and a link to your demo video
 
 2) A **src** folder
 
 3) A **styles** folder
 
-4) You might also have **fonts**, **images** or **data** folders
+4) You might also have **fonts/**, **images/** or **data/** or **src/components/** folders
 
 <hr>
 
@@ -62,7 +68,17 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ## III. App Functionality & User Experience
 
-### III-A. Functional Requirements (App page)
+<a id="#page-home"/>
+
+### III-A. Content Requirements (*Home page*)
+
+
+
+<a id="#page-app"/>
+
+<hr>
+
+### III-B. Functional Requirements (*App page*)
 1. You must use at least **ONE** web service API in your completed project:
     - i. Try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
     - ii. **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
@@ -146,7 +162,23 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <hr>
 
-### III-B. Design & Interaction (All pages)
+<a id="#page-favorites"/>
+
+<hr>
+
+### III-C. Functional Requirements (*Favorites page*)
+
+<a id="#page-documentation"/>
+
+<hr>
+
+### III-D. Content Requirements (*Documentation page*)
+
+<hr>
+
+<a id="#page-design-interaction"/>
+
+### III-E. Design & Interaction (*All pages*)
 
 1) Global Navigation System with "you are here" cues
 
