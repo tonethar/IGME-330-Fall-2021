@@ -175,7 +175,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 - The favorites (or lists or bookmarks) will be stored in `localStorage` and can be viewed on this page
 - There MUST be a be a *Delete* button that clears `localStorage` (thus removing the favorites from the page)
-- The user will probably be able to interact with the favorites in some way - "View Next 5" and "View Previous 5" etc if there are alot of favorites
+- The user will probably be able to interact with the favorites in some way - "View Next 5" and "View Previous 5" buttons etc... especially if there are a lot of favorites
 - *Optional - the user can also sort, re-order and delete individual favorites*
 
 
