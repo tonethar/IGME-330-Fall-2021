@@ -16,6 +16,9 @@
 - [Project 1 - Tips & Tricks](../projects/p1-tips.md)
   - ***\*THIS DOC IS NEW\****
 - Still have CORS issues? - refer to the **CORS** folder in myCourses, and get with your Prof ASAP
+- myCourses:
+  - Due dates have been updated/pushed back to where they need to be
+  - Let's check those updates now - P1-Final was previously due Friday night 10/8
 - What else?
 
 <hr><hr>
