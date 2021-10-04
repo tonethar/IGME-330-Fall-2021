@@ -398,7 +398,7 @@ Your project will be graded on the following criteria:
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
-| **A. [Functionality - App & Favorites Pages](#rubric-functionality)** | **40** | |
+| **A. [Functionality - App & Favorites Pages](#functionality)** | **40** | |
 |    1. [App Page](#page-app) implements all required functional requirements
 |    2. App Page saves/restores last search term and other UI *state* (DEFERRED TO [P2](project-2.md))  | |
 |    3. App Page has other required controls | |
@@ -409,9 +409,9 @@ Your project will be graded on the following criteria:
 |    - *Missing required # of controls (App Page)* | *(-10 each)* |
 |    - *Favorites not stored in localstorage (Favorites Page)* | *(-15)* |
 |    - *Missing Favorites "Delete" button (Favorites Page)* | *(-5)* |
-| **B. [Content - Home & Documentation Pages](#rubric-content)** | **10** | |
+| **B. [Content - Home & Documentation Pages](#)** | **10** | |
 |    1. Required content is present on [Home](#page-home) & [Documentation](#page-documentation) Pages | |
-| **C. [Design & Interaction](#rubric-design)** | **20** | |
+| **C. [Design & Interaction](#page-design-interaction)** | **20** | |
 |    1. Global Navigation System with "you are here" cues: | |
 |    2. Pleasing graphic design: | |
 |    3. Widgets are well labeled and follow interface conventions | |
@@ -433,14 +433,14 @@ Your project will be graded on the following criteria:
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Missing required HTML5 semantic elements* | *(-5)* |
 |    - *Images larger than 50KB* | *(-2 each)* |
-| **E. [Code](#rubric-code)**  | | |
+| **E. [Code](#code)**  | | |
 |    - *ES6 Module pattern not used* | *(-25)* |
 |    - *`fetch()` not used* | *(-25)* |
 |    - *Code Conventions NOT followed* | *(-1 to -5 per incident)* |
 |    - *Code that is NOT allowed* | *(-1 to ? per incident)* |
 |    - *Code shows errors in console* | *(-5 per incident)* |
 |    - *App does not function on banjo or locally* | *(-10 to ?)* |
-| **F. [Impact](#rubric-impact)**  | **20** | |
+| **F. [Impact](#)**  | **20** | |
 |    - If the app meets the requirements above, we will award a 10% in this category, which means the base overall grade is 90% | |
 |    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
 |    - *App UI design goes beyond what we did in class* | *(+1 to +10)* |
