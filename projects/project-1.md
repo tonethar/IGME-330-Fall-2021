@@ -157,7 +157,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 
 3. Other required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
-    - a search button (which doesn't count, and the "reset" button mentioned above does not count either)
+    - a search button (which doesn't count)
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
 
@@ -392,15 +392,13 @@ Your project will be graded on the following criteria:
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
-| **A. [Functionality](#functionality)** | **40** | |
-|    1. TWO web services are used | |
+| **A. [Functionality - App & Favorites Page](#functionality)** | **40** | |
+|    1. Web service is used | |
 |    2. Saves/restores last search term and other UI *state*  | |
-|    3. Has "reset" button | |
-|    4. Has other required Controls | |
-|    - *Missing web services* | *(-20 each)* |
+|    3. Has other required Controls | |
+|    - *Web Service does not work* | *(-40)* |
 |    - *Does not save/restore UI state* | *(-10)* |
-|    - *Missing reset button* | *(-10)* |
-|    - *Missing other controls* | *(-10 each)* |
+|    - *Missing controls* | *(-10 each)* |
 | **B. [Design & Interaction](#design)** | **20** | |
 |    1. Visual design is at a minimum, usable and "not ugly" | |
 |    2. Widgets are well labeled and follow interface conventions | |
@@ -439,5 +437,5 @@ Your project will be graded on the following criteria:
 |    - *App is "portfolio quality" (or nearly so)* | *(+1 to +10)* |
 | **Maximum Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
-| *Deduction if required proposal/prototypes are not submitted to dropbox on time* | *(-10 each)* | |
+| *Deduction if required prototype was not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final documentation is not submitted to dropbox on time* | *(-10)* | |
