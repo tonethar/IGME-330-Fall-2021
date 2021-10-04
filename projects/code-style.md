@@ -52,6 +52,11 @@
   - repeated blocks of code that have not been factored out into a common function (i.e. violating the D.R.Y. principle)
   - and so on
   - the amount of the grade deduction will vary in proportion to the severity of the violation
+- **What we *won't* deduct points for**:
+  - the use of regular functions instead of the more compact syntax of ES6 Arrow Functions (regular JS functions are OK to use!)
+  - minor stylistic differences (ex. we don't care where you place your curly braces, or whether you use spaces or tabs for indenting)
+  - if you never use [array/object destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) (*although you really should use these when it makes sense!*)
+  - if you prefer longer `if/else` syntax instead of the more terse versions such as the [ternary operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator), [logical short circuiting](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c?gi=523775959546), the [nullish-coalesing operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator), [logical nullish assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_nullish_assignment) or [optional chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining) etc (*although you really should use these!*)
 
 
 ## III-B. JS Errors
