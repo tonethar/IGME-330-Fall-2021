@@ -182,6 +182,6 @@ import * as "utils" from './utils.js';
 ### V-B. Spelling
 
 - Fix spelling & grammar errors
-- This includes your file names - ex. you should be spelling words like "component" and "utilities" correctly - we DO NOT want to see files named something like **footer-compnent.js**
+- This includes your file names - ex. you should be spelling words like "component" and "utilities" correctly - we DO NOT want to see files named something like **footer-compnent.js** or **utilties.js**
 
 <hr><hr>
