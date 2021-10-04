@@ -168,11 +168,19 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ### III-C. Functional Requirements (*Favorites page*)
 
-<a id="#page-documentation"/>
+<a id="#page-documentation" />
 
 <hr>
 
 ### III-D. Content Requirements (*Documentation page*)
+
+- Have the following sub-headings on your page (see the example screenshots below)
+  - PROJECT REQUIREMENTS
+  - RESOURCES UTILIZED
+  - API
+  - NOTEWORTHY
+  - GRADING
+  - TO DO
 
 <hr>
 
