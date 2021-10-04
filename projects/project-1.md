@@ -68,13 +68,13 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ## III. App Functionality & User Experience
 
-<a id="#page-home" />
+<a id="page-home" />
 
 ### III-A. Content Requirements (*Home page*)
 
 
 
-<a id="#page-app" />
+<a id="page-app" />
 
 <hr>
 
@@ -162,13 +162,13 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <hr>
 
-<a id="#page-favorites"/>
+<a id="page-favorites" />
 
 <hr>
 
 ### III-C. Functional Requirements (*Favorites page*)
 
-<a id="#page-documentation" />
+<a id="page-documentation" />
 
 <hr>
 
@@ -182,9 +182,11 @@ For this project you are creating a JavaScript driven Web application that utili
   - GRADING
   - TO DO
 
+
+<a id="page-design-interaction" />
+
 <hr>
 
-<a id="#page-design-interaction"/>
 
 ### III-E. Design & Interaction (*All pages*)
 
@@ -226,7 +228,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <hr>
 
-<a id="code"/>
+<a id="code" />
 
 ## IV. Code
 
