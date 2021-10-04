@@ -124,7 +124,7 @@ import * as "utils" from './utils.js';
 ### II-B. Don't "over engineer" your components
 - Do not write more code then you have to
 - Unlike our components HW assignments, most of your P1 components won't be need to be updated after the HTML page loads
-- For example, if you have a `<p1-footer>` component that appears on every page of your P!, and it takes `year` and `authorname` attributes, and these values will NEVER change after each of the page loads - it means:
+- For example, if you have a `<p1-footer>` component that appears on every page of your P1, and it takes `year` and `authorname` attributes, and these values will NEVER change after each of the page loads - it means:
   - you won't need to "watch" for any attribute changes after `connectedCallback` is called
   - meaning you don't need to implement `observedAttributes()` or `attributeChangedCallback()`
   - meaning that you could set the state of the HTML (ex. the `year` and `authorname`) in the `constructor()`, thus you wouldn't need a `render()` helper method
