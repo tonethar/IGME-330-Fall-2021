@@ -155,6 +155,7 @@ import * as "utils" from './utils.js';
 - [HW - Ajax-6 - `async` & `await` with the `fetch()` API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-6.md)
 - [HW - Ajax-7 - JavaScript Promises](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-7.md)
 
+<a id="other-tips" />
 
 <hr><hr>
 
