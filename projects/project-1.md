@@ -400,7 +400,7 @@ Your project will be graded on the following criteria:
 | -------- | ------ | ---------- |
 | **A. [Functionality - App & Favorites Pages](#rubric-functionality)** | **40** | |
 |    1. App Page implements all required functional requirements
-|    2. App Page saves/restores last search term and other UI *state* (DEFERRED TO [PROJECT 2](project-2.md)  | |
+|    2. App Page saves/restores last search term and other UI *state* (DEFERRED TO [P2](project-2.md)  | |
 |    3. App Page has other required controls | |
 |    4. Favorites Page uses local storage to display favorites  | |
 |    5. Favorites Page has required "Delete Button"  | |
