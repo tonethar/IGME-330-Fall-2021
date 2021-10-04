@@ -74,7 +74,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 - Tell the user what your app does
 - Have some sort of "brand" for your page:
-  - it could be a `navbar-brand` like in the Bulam template - an image or font awesome icon
+  - it could be a `navbar-brand` like in the Bulma template - an image or font awesome icon
   - it could be a stylized logo you create yourself
 - You might want to use a Bulma `hero`
 - There must be at least one image on this page (in addition to whatever appears in `navbar-brand`)
