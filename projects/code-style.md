@@ -41,3 +41,22 @@
 - class names always begin in an uppercase letter - ex. `Class Sprite{}`
 - code shall be consistently indented and "line up" so that it is readable:
   - you can use 2-spaces, 4-spaces, or tabs - it just has to be  *consistent* and *readable*
+
+## III-A. Extraneous or Unnecessary Code
+
+- There may be grade deductions for *unnecessary* code such as:
+  - unused variables or functions
+  - code that doesn't do anything (ex. `"use strict"` in a module)
+  - looping through an array that always has only one element in it
+  - highly *inefficient* code that could easily be simplified
+  - repeated blocks of code that have not been factored out into a common function (i.e. violating the D.R.Y. principle)
+  - and so on
+  - the amount of the grade deduction will vary in proportion to the severity of the 
+
+
+## III-B. JS Errors
+- Potential errors must be guarded against:
+  - ex. checking to see if an object is "not nil" before trying to access a property of it
+- Code that could throw an exception needs a `try/catch` or a `.catch()`:
+  - ex. `JSON.parse()` throws an exception when the string can't be converted to valid JSON
+  - ex. `fetch()` throws an exception when there is a network error
