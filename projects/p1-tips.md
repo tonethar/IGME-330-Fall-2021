@@ -90,10 +90,12 @@ if (burgerIcon) burgerIcon.onclick = () => navbarMenu.classList.toggle('is-activ
 
 ### I-E. `utils.js`
 
-- this will have code (functions and/or classes) that is utilized by your the other script files (**app.js** & **favorites.js** and maybe others)
+- this will have code (functions and/or classes) that is utilized by your other script files (**app.js** & **favorites.js** and maybe others)
 - you WILL NOT link to this **utils.js** with a `<script>` tag
 - you will instead `import` this file into your other script files where it is needed - example:
 
+
+**app.js**
 ```js
 // first style - specify what you want to import
 import {loadDataFetch,calcRating} from './utils.js';
