@@ -393,7 +393,7 @@ Your project will be graded on the following criteria:
 | -------- | ------ | ---------- |
 | **A. [Functionality - App & Favorites Pages](#rubric-functionality)** | **40** | |
 |    1. Implements all required functional requirements
-|    2. Saves/restores last search term and other UI *state*  | |
+|    2. Saves/restores last search term and other UI *state* (DEFERRED TO [PROJECT 2](project-2.md)  | |
 |    3. Has other required controls | |
 |    - *Web Service does not work* | *(-30)* |
 |    - *Does not save/restore UI state* | *(-10)* |
