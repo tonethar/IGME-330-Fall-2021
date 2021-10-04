@@ -78,7 +78,7 @@ For this project you are creating a JavaScript driven Web application that utili
   - it could be a stylized logo you create yourself
 - You might want to use a Bulma `hero`
 - There must be at least one image on this page (in addition to whatever appears in `navbar-brand`)
-- Consider (optional) adding some sort interactive content or "flare" to this page - an image carousel, random quotes from happy users, etc
+- *Optional: Consider adding some sort interactive content or "flare" to this page - an image carousel, random quotes from happy users, etc*
 
 
 <a id="page-app" />
