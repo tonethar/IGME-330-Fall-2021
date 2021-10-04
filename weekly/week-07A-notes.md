@@ -10,7 +10,7 @@
 
 - [Project 1 Requirements](project-1.md)
 - [Project 1 Coding Standards](code-style.md)
-- [Project 1 - Tips & Tricks](../projects/p1-tips.md)
+- [Project 1 - Tips & Tricks](../projects/p1-tips.md) - ***\*NEW\****
 - Still have CORS issues? - refer to the **CORS** folder in myCourses, and get with your Prof ASAP
 - What else?
 
