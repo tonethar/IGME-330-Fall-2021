@@ -40,7 +40,7 @@
 
 ### I-B. `loader.js`
 
-- The "hamburger" code that was in **index.js** is something that every one of your P1 pages needs. You will need to convert this file over to an ES6 module for this project, which is easy! First, rename **index.js** to **loader.js**, and then make it look like this:
+- The "hamburger" code that was in **index.js** of the Bulma starter is something that every one of your P1 pages needs. You will need to convert this file over to an ES6 module for this project, which is easy! First, rename **index.js** to **loader.js**, and then make it look like this:
 
 **loader.js**
 
