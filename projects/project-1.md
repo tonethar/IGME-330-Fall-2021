@@ -176,7 +176,7 @@ For this project you are creating a JavaScript driven Web application that utili
 - The favorites (or lists or bookmarks) will be stored in `localStorage` and can be viewed on this page
 - There MUST be a be a *Delete* button that clears `localStorage` (thus removing the favorites from the page)
 - The user will probably be able to interact with the favorites in some way - "View Next 5" and "View Previous 5" etc if there are alot of favorites
-- *Optional - the user can also re-order and delete favorites*
+- *Optional - the user can also sort, re-order and delete individual favorites*
 
 
 <a id="page-documentation" />
@@ -185,14 +185,31 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ### III-D. Content Requirements (*Documentation page*)
 
-- Have the following sub-headings on your page (see the example screenshots below)
+- Have the following sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-screenshots) below
   - PROJECT REQUIREMENTS:
-    - 
-  - RESOURCES UTILIZED
-  - API
-  - NOTEWORTHY
+    - provide  a link to this page
+  - RESOURCES UTILIZED:
+    - cite any and all resources you used on this project, the specific link, including:
+      - fonts and images
+      - reference sites - ex. developer.mozilla.org
+      - "help" sites - ex. stackoverflow.com
+      - code snippet sites - ex. CodePen or gists.github.com 
+      - tutorial sites - ex. w3schools.com
+      - video sites - ex. YouTube or LinkedIn Learning or Udemy
+      - blog postings etc
+    - Exception: you need not cite any IGME-330 resources/tutorials/HWs:
+      - but you MUST cite resources from other courses including IGME-235 
+  - API:
+    - Link to the API Home, documentation, and endpoints used (but don't include your API key!)
+  - NOTEWORTHY:
+    - Talk the project up - list the tecnologies you used (web components, Bulma, fetch, promises, etc)
+    - Be sure to emphasize what you did outside of what we covered in class
   - GRADING
+    - Describe how you met project requirements
+    - Describe how you went "above and beyond" project requirements
+    - In the comments field of the dropbox, grade your Project 1 submission
   - TO DO
+    - List any 
 
 
 <a id="page-design-interaction" />
@@ -298,6 +315,8 @@ For this project you are creating a JavaScript driven Web application that utili
     - if there are no favorites, it should say "No favorites yet" or something like that
   - **sources.html**
  
+
+<a id="desktop-screenshots"/>
 
 ### VI-A. Desktop Version
 
