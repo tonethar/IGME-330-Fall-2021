@@ -153,8 +153,7 @@ For this project you are creating a JavaScript driven Web application that utili
 2. On the app page, you will automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
     - we are going to test this capability by typing in a search term, selecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
-
-
+    - ***THIS REQUIREMENT HAS BEEN DEFERRED TO [PROJECT 2](project-2.md)***
 
 3. Other required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count)
