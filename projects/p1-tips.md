@@ -121,7 +121,7 @@ import * as "utils" from './utils.js';
 
 <hr>
 
-### II-B. A `<p1-nav>` component
+### II-B. Creating a `<p1-nav>` component
 
 - A very useful component (not required, but it would be a good one to implement), because all of that `<nav>` HTML is repeated on each of your P1 pages (at least 4 times!):
   - But you will also need to move the "hamburger JS" from **loader.js** to your component
