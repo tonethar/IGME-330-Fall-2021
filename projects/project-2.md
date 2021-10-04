@@ -16,4 +16,5 @@
 <hr>
 
 ## II. Requirements
+- ALL of the Project 1 requirements are still in effect. If you did not meet them the first time around, here is you
 - You must add MapBox OR Firebase capability to your project (you can add both if you wish)
