@@ -49,6 +49,7 @@
   - code that doesn't do anything (ex. `"use strict"` in a module)
   - looping through an array that always has only one element in it
   - highly *inefficient* code that could easily be simplified
+  - misuse of `for` or `while` loops in such a way that the resources of the browser are taxed
   - repeated blocks of code that have not been factored out into a common function (i.e. violating the D.R.Y. principle)
   - and so on. The amount of the grade deduction will vary in proportion to the severity of the violation
 - **What we *won't* deduct points for**:
