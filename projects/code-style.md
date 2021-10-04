@@ -12,7 +12,7 @@
   - spaces are NOT allowed in file names - ex. **user form.html** or **user%20form.html** are NOT allowed
   - capital letters are NOT allowed anywhere in file name (ex. camel case not allowed)
   - exceptions:
-    - ES6 class names may begin in an uppercase letter (ex. **Sprite.js**)
+    - ES6 class names will begin in an uppercase letter (ex. **Sprite.js**)
     - font file names may have uppercase letters
     
 <hr>
