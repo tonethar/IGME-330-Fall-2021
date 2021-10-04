@@ -79,7 +79,7 @@ if (burgerIcon) burgerIcon.onclick = () => navbarMenu.classList.toggle('is-activ
 ### I-D. `favorites.js`
 
 - **favorites.js**
-  - contains your main app functionality
+  - contains your favorites page functionality
   - is linked to from **favorites.html**
 
 ```html
