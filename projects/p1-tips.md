@@ -110,7 +110,17 @@ import * as "utils" from './utils.js';
 
 ## II. Component Tips
 
-### II-A. Don't "over engineer" your components
+### III-A. HW Assignments
+
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+
+<hr>
+
+### II-B. Don't "over engineer" your components
 - Do not write more code then you have to
 - Unlike our components HW assignments, most of your P1 components won't be need to be updated after the HTML page loads
 - For example, if you have a `<p1-footer>` component that appears on every page of your P!, and it takes `year` and `authorname` attributes, and these values will NEVER change after each of the page loads - it means:
@@ -121,7 +131,7 @@ import * as "utils" from './utils.js';
 
 <hr>
 
-### II-B. Creating a `<p1-nav>` component
+### II-C. Creating a `<p1-nav>` component
 
 - A very useful component (not required, but it would be a good one to implement), because all of that `<nav>` HTML is repeated on each of your P1 pages (at least 4 times!):
   - But you will also need to move the "hamburger JS" from **loader.js** to your component
