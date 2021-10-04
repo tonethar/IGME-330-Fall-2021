@@ -68,13 +68,13 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ## III. App Functionality & User Experience
 
-<a id="#page-home"/>
+<a id="#page-home" />
 
 ### III-A. Content Requirements (*Home page*)
 
 
 
-<a id="#page-app"/>
+<a id="#page-app" />
 
 <hr>
 
