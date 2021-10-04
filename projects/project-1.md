@@ -4,7 +4,7 @@
 
 [II. Structure](#structure)
 
-[III. App Functionality & User Experience](#functionality)
+[III. App Functionality & User Experience](#functionality):
 
 - [Home Page](#page-home)
 - [App Page](#page-app)
