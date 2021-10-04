@@ -132,7 +132,7 @@ import * as "utils" from './utils.js';
 
 <hr><hr>
 
-## III. Bumla/CSS Tips
+## III. Bulma/CSS Tips
 
 ### III-A. HW Assignments
 
@@ -167,7 +167,7 @@ import * as "utils" from './utils.js';
 
 ### V-B. Spelling
 
-- Fix any spelling & grammar errors
+- Fix spelling & grammar errors
 - This includes your file names - ex. you should be spelling words like "component" and "utilities" correctly - we DO NOT want to see files named something like **footer-compnent.js**
 
 <hr><hr>
