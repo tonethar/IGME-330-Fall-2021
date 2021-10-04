@@ -89,6 +89,10 @@ For this project you are creating a JavaScript driven Web application that utili
 <hr>
 
 ### III-B. Functional Requirements (*App page*)
+
+<details>
+<summary>1. You must use at least **ONE** web service API in your completed project:</summary>
+    
 1. You must use at least **ONE** web service API in your completed project:
     - i. Try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
     - ii. **CAUTION:** if an API requires an API Key, be sure that there is a generous "free tier", and that the API does not have a short trial period. Approach the following APIs with caution:
@@ -148,7 +152,8 @@ For this project you are creating a JavaScript driven Web application that utili
     - xi. **Important note:** - This is a Web programming class so I expect you to "roll your own" when it comes to adding Web service capability to your pages:
       - That means that JavaScript "widgets" that display (for example) Twitter feeds or the current weather are expressly forbidden
       - You have the knowledge to write these yourself if you desire this sort of functionality in your project.
-
+    
+</details>
 
 2. On the app page, you will automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
