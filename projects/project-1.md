@@ -171,9 +171,13 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <a id="page-favorites" />
 
-<hr>
-
 ### III-C. Functional Requirements (*Favorites page*)
+
+- The favorites (or lists or bookmarks) will be stored in `localStorage` and can be viewed on this page
+- There MUST be a be a *Delete* button that clears `localStorage` (thus removing the favorites from the page)
+- The user will probably be able to interact with the favorites in some way - "View Next 5" and "View Previous 5" etc if there are alot of favorites
+- *Optional - the user can also re-order and delete favorites*
+
 
 <a id="page-documentation" />
 
@@ -182,7 +186,8 @@ For this project you are creating a JavaScript driven Web application that utili
 ### III-D. Content Requirements (*Documentation page*)
 
 - Have the following sub-headings on your page (see the example screenshots below)
-  - PROJECT REQUIREMENTS
+  - PROJECT REQUIREMENTS:
+    - 
   - RESOURCES UTILIZED
   - API
   - NOTEWORTHY
