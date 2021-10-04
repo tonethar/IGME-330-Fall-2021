@@ -325,6 +325,10 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ![screenshot](_images/p1-desktop-ss-4.png)
 
+![screenshot](_images/p1-desktop-ss-4B.png)
+
+![screenshot](_images/p1-desktop-ss-4C.png)
+
 <hr>
 
 ### VI-B. Mobile Version
