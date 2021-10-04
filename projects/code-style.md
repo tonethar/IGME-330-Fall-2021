@@ -17,7 +17,7 @@
     
 <hr>
 
-## II. DOM Traversal
+## II. HTML & DOM Traversal
 - HTML source code elements will be properly indented
 - HTML `id` and `class` attribute names will be in all lower case letters, with words separated by dashes
 - Selecting DOM elements (aka "DOM Traversal") will be done with `document.querySelector()` and/or `document.querySelectorAll()`:
