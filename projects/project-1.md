@@ -392,25 +392,29 @@ Your project will be graded on the following criteria:
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
-| **A. [Functionality - App & Favorites Page](#functionality)** | **40** | |
-|    1. Web service is used | |
+| **A. [Functionality - App & Favorites Pages](#rubric-functionality)** | **40** | |
+|    1. Implements all required functional requirements
 |    2. Saves/restores last search term and other UI *state*  | |
-|    3. Has other required Controls | |
-|    - *Web Service does not work* | *(-40)* |
+|    3. Has other required controls | |
+|    - *Web Service does not work* | *(-30)* |
 |    - *Does not save/restore UI state* | *(-10)* |
 |    - *Missing controls* | *(-10 each)* |
-| **B. [Design & Interaction](#design)** | **20** | |
-|    1. Visual design is at a minimum, usable and "not ugly" | |
-|    2. Widgets are well labeled and follow interface conventions | |
-|    3. Users should be able to figure out how to use the app with minimal instruction | |
+|    - *Favorites not stored in localstorage* | *(-15)* |
+|    - *Missing Favorites "Delete" button* | *(-5)* |
+| **B. [Content - Home & Documentation Pages](#rubric-content)** | **10** | |
+|    1. Required content is present | |
+| **C. [Design & Interaction](#rubric-design)** | **20** | |
+|    1. Global Navigation System with "you are here" cues: | |
+|    2. Pleasing graphic design: | |
+|    3. Widgets are well labeled and follow interface conventions | |
 |    4. User errors must be handled gracefully | |
-|    5. The *state* the application is in is obvious | |
-|    6. The app should look good on a range of displays. | |
+|    5. Users should be able to figure out how to use the app with minimal instruction | |
+|    6. The *state* the application is in is obvious | |
 |    - *Missing embedded font* | *(-5)* |
 |    - *Missing "state" cues like status text or "spinners"* | *(-5)* |
-|    - *Interface looks like GIF Finder HW* | *(-15)* |
+|    - *Interface looks like GIF Finder HW from IGME-235* | *(-15)* |
 |    - *Interface "broken" at 1200x800 or higher resolutions* | *(-10)* |
-| **C. [HTML/CSS/Media](#media)**  | **10** | |
+| **D. [HTML/CSS/Media](#rubric-media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Uses HTML5 Semantic elements | |
@@ -421,17 +425,15 @@ Your project will be graded on the following criteria:
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Missing required HTML5 semantic elements* | *(-5)* |
 |    - *Images larger than 50KB* | *(-2 each)* |
-| **D. [Code](#code)**  | | |
+| **E. [Code](#rubric-code)**  | | |
 |    - *ES6 Module pattern not used* | *(-25)* |
-|    - *Ajax not used* | *(-25)* |
-|    - *ES6 Custom Class missing* | *(-5)* |
-|    - *Conventions NOT followed* | *(-1 to -5 per incident)* |
+|    - *`fetch()` not used* | *(-25)* |
+|    - *Code Conventions NOT followed* | *(-1 to -5 per incident)* |
 |    - *Code that is NOT allowed* | *(-1 to ? per incident)* |
 |    - *Code shows errors in console* | *(-5 per incident)* |
-|    - *App does not function on banjo* | *(-10)* |
-|    - *App does not run locally or on banjo* | *(-10 to ?)* |
-| **E. [Impact](#impact)**  | **30** | |
-|    - If the app meets the requirements above, we will award a 20% in this category, which means the base overall grade is 90% | |
+|    - *App does not function on banjo or locally* | *(-10 to ?)* |
+| **F. [Impact](#rubric-impact)**  | **20** | |
+|    - If the app meets the requirements above, we will award a 10% in this category, which means the base overall grade is 90% | |
 |    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
 |    - *App UI design goes beyond what we did in class* | *(+1 to +10)* |
 |    - *App is "portfolio quality" (or nearly so)* | *(+1 to +10)* |
