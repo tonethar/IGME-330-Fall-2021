@@ -42,7 +42,7 @@
 - code shall be consistently indented and "line up" so that it is readable:
   - you can use 2-spaces, 4-spaces, or tabs - it just has to be  *consistent* and *readable*
 
-## III-A. Extraneous or Unnecessary Code
+### III-A. Extraneous or Unnecessary Code
 
 - There may be grade deductions for *unnecessary* code such as:
   - unused variables or functions
@@ -59,7 +59,7 @@
   - if you prefer longer `if/else` syntax instead of the more terse versions such as the [ternary operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator), [logical short circuiting](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c?gi=523775959546), the [nullish-coalesing operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator), [logical nullish assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_nullish_assignment) or [optional chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining) etc (*although you really should use these!*)
 
 
-## III-B. JS Errors
+### III-B. JS Errors
 - Potential errors must be guarded against:
   - ex. checking to see if an object is "not nil" before trying to access a property of it
 - Code that could throw an exception needs a `try/catch` or a `.catch()`:
