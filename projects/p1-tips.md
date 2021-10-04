@@ -112,12 +112,12 @@ import * as "utils" from './utils.js';
 
 ### III-A. HW Assignments
 
--[HW - Web Components-1 - Intro to Web Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-1.md)
--[HW - Web Components-2 - more lifecycle methods](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-2.md)
--[HW - Web Components-3 - Build a component driven web app](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md)
--[HW - Web Components-4 - Walk through a <my-list> web component (how to pass array data to a component)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-4.md)
--[HW - Web Components-5 - Dispatching Custom Events (you may or may not need this in your P1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-5.md)
--[HW - Web Components-6 - Building a "pubsub" object aka "Publish/Subscribe" (optional alternative to cutom events)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-6.md)
+- [HW - Web Components-1 - Intro to Web Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-1.md)
+- [HW - Web Components-2 - more lifecycle methods](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-2.md)
+- [HW - Web Components-3 - Build a component driven web app](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md)
+- [HW - Web Components-4 - Walk through a <my-list> web component (how to pass array data to a component)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-4.md)
+- [HW - Web Components-5 - Dispatching Custom Events (you may or may not need this in your P1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-5.md)
+- [HW - Web Components-6 - Building a "pubsub" object aka "Publish/Subscribe" (optional alternative to cutom events)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-6.md)
 
 <hr>
 
