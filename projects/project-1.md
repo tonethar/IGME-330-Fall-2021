@@ -202,14 +202,15 @@ For this project you are creating a JavaScript driven Web application that utili
   - API:
     - Link to the API Home, documentation, and endpoints used (but don't include your API key!)
   - NOTEWORTHY:
-    - Talk the project up - list the tecnologies you used (web components, Bulma, fetch, promises, etc)
+    - Talk the project up - list the technologies you used (web components, Bulma, fetch, promises, etc)
     - Be sure to emphasize what you did outside of what we covered in class
   - GRADING
     - Describe how you met project requirements
     - Describe how you went "above and beyond" project requirements
     - In the comments field of the dropbox, grade your Project 1 submission
   - TO DO
-    - List any 
+    - List any features that you would have liked to add if you had time
+    - These could potentially be added to the app for Project 2, or over break/summer when you have time
 
 
 <a id="page-design-interaction" />
