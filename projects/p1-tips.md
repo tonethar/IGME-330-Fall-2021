@@ -14,7 +14,9 @@
 
 [**III - Bulma/CSS Tips**](#css-tips)
 
-[**IV - Other Tips**](#other-tips)
+[**IV - Ajax Tips**](#ajax-tips)
+
+[**V - Other Tips**](#other-tips)
  
 <hr><hr>
 
@@ -29,8 +31,8 @@
 - ES6 modules:
   - by default, will [`defer`](https://www.w3schools.com/tags/att_script_defer.asp) code execution until the DOM has loaded, so you most likely DO NOT need any `window.onload` code anywhere in P1
   - run in ["strict mode"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) by default, so you WILL NOT need any [`"use strict";`](https://www.w3schools.com/js/js_strict.asp) declarations at the top of any of your code files
-  - ES6 Module Notes are here - [ES6 Module Pattern](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES6-module-pattern-2211.md)
-  - Look at this ZIP of ["Module Demos"](https://github.com/tonethar/IGME-330-Master/blob/master/notes/_files/Module%20Demos%202211.zip) - we looked at these on 6A
+  - ES6 Module class notes are here - [ES6 Module Pattern](https://github.com/tonethar/IGME-330-Master/blob/master/notes/ES6-module-pattern-2211.md)
+  - here is the ZIP of ["Module Demos"](https://github.com/tonethar/IGME-330-Master/blob/master/notes/_files/Module%20Demos%202211.zip) - we looked at these on 6A
   - Recall that [HW - Web Components-3 - Build a component driven web app](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md) also used ES6 modules
 
 
@@ -88,7 +90,7 @@ if (burgerIcon) burgerIcon.onclick = () => navbarMenu.classList.toggle('is-activ
 
 ### I-E. `utils.js`
 
-- this will have code (functions and/or classes) that is utilized by your the other script files (**app.js** & **pavorites.js** and maybe others)
+- this will have code (functions and/or classes) that is utilized by your the other script files (**app.js** & **favorites.js** and maybe others)
 - you WILL NOT link to this **utils.js** with a `<script>` tag
 - you will instead `import` this file into your other script files where it is needed - example:
 
@@ -109,11 +111,13 @@ import * as "utils" from './utils.js';
 ## II. Component Tips
 
 ### II-A. Don't "over engineer" your components
-
-- Unlike our components HW, most of your P1 components won't be need to be updated after the HTML page loads
-- For example, if you have a `<p1-footer>` component that appears on every page of your P!, and it takes `projectname` and `authorname` attributes, and these values will NEVER change after each of the page loads - it means:
+- Do not write more code then you have to
+- Unlike our components HW assignments, most of your P1 components won't be need to be updated after the HTML page loads
+- For example, if you have a `<p1-footer>` component that appears on every page of your P!, and it takes `year` and `authorname` attributes, and these values will NEVER change after each of the page loads - it means:
   - you won't need to "watch" for any attribute changes after `connectedCallback` is called
   - meaning you don't need to implement `observedAttributes()` or `attributeChangedCallback()`
+  - meaning that you could set the state of the HTML (ex. the `year` and `authorname`) in the `constructor()`, thus you wouldn't need a `render()` helper method
+  - and, if your component doesn't have any JavaScript, you won't even need to implement `connectedCallback` or `disconnectedCallback`
 
 <hr>
 
@@ -122,7 +126,7 @@ import * as "utils" from './utils.js';
 - A very useful component (not required, but it would be a good one to implement), because all of that `<nav>` HTML is repeated on each of your P1 pages (at least 4 times!):
   - But you will also need to move the "hamburger JS" from **loader.js** to your component
   - Hint: in the component constructor, initialize `this.burgerIcon` and `this.navbarMenu` and make them *properties* of the `<p1-nav>` component
-  - Hint: a `currentPage` attribute would be really helpful - then you can (for example) make the current page name **bold** - so that the user has an additional "where am I" cue 
+  - Hint: a `currentPage` attribute would be really helpful - then you can (for example) make the current page name **bold** - so that the user has an additional "where am I?" cue 
 
 <a id="css-tips" />
 
@@ -136,18 +140,24 @@ import * as "utils" from './utils.js';
 - [HW - Bulma II - Bulma & Web Components](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-bulma-2.md)
   - Covers how to get Bulma & Web Components working together
 
-<a id="other-tips" />
+<a id="ajax-tips" />
 
 <hr><hr>
 
-## IV. Other Tips
+## IV. Ajax Tips
 
-### IV-A. App Usability
+
+
+<hr><hr>
+
+## V. Other Tips
+
+### V-A. App Usability
 
 - Each page must have "you are here" cues
 - "Let the user know what's going on"
 
-### IV-B. Spelling
+### V-B. Spelling
 
 - Fix any spelling & grammar errors
 - This includes your file names - ex. you should be spelling words like "component" and "utilities" correctly - we DO NOT want to see files named something like **footer-compnent.js**
