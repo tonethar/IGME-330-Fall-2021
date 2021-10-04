@@ -18,6 +18,9 @@
 
 [VI. Examples](#examples)
 
+[VII. Rubric](#rubric)
+
+
 <!--
 
 [VII. Rubric](#rubric)
@@ -377,4 +380,64 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ![screenshot](_images/p1-mobile-ss-4.png)
 
+
+<a id="rubric" />
+
 <hr>
+
+## VII. Grading Rubric
+
+
+Your project will be graded on the following criteria:
+
+| Criteria | Weight | Your Score |
+| -------- | ------ | ---------- |
+| **A. [Functionality](#functionality)** | **40** | |
+|    1. TWO web services are used | |
+|    2. Saves/restores last search term and other UI *state*  | |
+|    3. Has "reset" button | |
+|    4. Has other required Controls | |
+|    - *Missing web services* | *(-20 each)* |
+|    - *Does not save/restore UI state* | *(-10)* |
+|    - *Missing reset button* | *(-10)* |
+|    - *Missing other controls* | *(-10 each)* |
+| **B. [Design & Interaction](#design)** | **20** | |
+|    1. Visual design is at a minimum, usable and "not ugly" | |
+|    2. Widgets are well labeled and follow interface conventions | |
+|    3. Users should be able to figure out how to use the app with minimal instruction | |
+|    4. User errors must be handled gracefully | |
+|    5. The *state* the application is in is obvious | |
+|    6. The app should look good on a range of displays. | |
+|    - *Missing embedded font* | *(-5)* |
+|    - *Missing "state" cues like status text or "spinners"* | *(-5)* |
+|    - *Interface looks like GIF Finder HW* | *(-15)* |
+|    - *Interface "broken" at 1200x800 or higher resolutions* | *(-10)* |
+| **C. [HTML/CSS/Media](#media)**  | **10** | |
+|    1. Valid HTML | |
+|    2. Valid CSS | |
+|    3. Uses HTML5 Semantic elements | |
+|    4. Images properly optimized | |
+|    5. Has embedded font (see above) | |
+|    - *Fails HTML Validation* | *(-5)* |
+|    - *Fails CSS Validation* | *(-5)* |
+|    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
+|    - *Missing required HTML5 semantic elements* | *(-5)* |
+|    - *Images larger than 50KB* | *(-2 each)* |
+| **D. [Code](#code)**  | | |
+|    - *ES6 Module pattern not used* | *(-25)* |
+|    - *Ajax not used* | *(-25)* |
+|    - *ES6 Custom Class missing* | *(-5)* |
+|    - *Conventions NOT followed* | *(-1 to -5 per incident)* |
+|    - *Code that is NOT allowed* | *(-1 to ? per incident)* |
+|    - *Code shows errors in console* | *(-5 per incident)* |
+|    - *App does not function on banjo* | *(-10)* |
+|    - *App does not run locally or on banjo* | *(-10 to ?)* |
+| **E. [Impact](#impact)**  | **30** | |
+|    - If the app meets the requirements above, we will award a 20% in this category, which means the base overall grade is 90% | |
+|    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
+|    - *App UI design goes beyond what we did in class* | *(+1 to +10)* |
+|    - *App is "portfolio quality" (or nearly so)* | *(+1 to +10)* |
+| **Maximum Possible Total Points** | **100** | |
+| **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
+| *Deduction if required proposal/prototypes are not submitted to dropbox on time* | *(-10 each)* | |
+| *Deduction if final documentation is not submitted to dropbox on time* | *(-10)* | |
