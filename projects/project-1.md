@@ -384,7 +384,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <hr>
 
-## VII. Grading Rubric
+## VII. Grading Rubric (DRAFT)
 
 
 Your project will be graded on the following criteria:
