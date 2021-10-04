@@ -134,6 +134,8 @@ import * as "utils" from './utils.js';
 
 ## III. Bumla/CSS Tips
 
+### III-A. HW Assignments
+
 - [HW - Bulma I - Intro to Bulma](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-bulma-1.md)
   - here is the Bulma walkthrough where you build a P1 starter site
   - there is not a dropbox for this nor a due date, but you will very likely need to go through this fairly soon in order to meet the Bulma requirement for Project 1
@@ -146,6 +148,12 @@ import * as "utils" from './utils.js';
 
 ## IV. Ajax Tips
 
+### IV-A. HW Assignments
+
+- [HW - Ajax-4 - loading and parsing JSON files](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-4.md)
+- [HW - Ajax-5 - the `fetch()` API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-5.md)
+- [HW - Ajax-6 - `async` & `await` with the `fetch()` API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-6.md)
+- [HW - Ajax-7 - JavaScript Promises](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-7.md)
 
 
 <hr><hr>
