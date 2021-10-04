@@ -50,8 +50,7 @@
   - looping through an array that always has only one element in it
   - highly *inefficient* code that could easily be simplified
   - repeated blocks of code that have not been factored out into a common function (i.e. violating the D.R.Y. principle)
-  - and so on
-  - the amount of the grade deduction will vary in proportion to the severity of the violation
+  - and so on. The amount of the grade deduction will vary in proportion to the severity of the violation
 - **What we *won't* deduct points for**:
   - the use of regular functions instead of the more compact syntax of ES6 Arrow Functions (regular JS functions are OK to use!)
   - minor stylistic differences (ex. we don't care where you place your curly braces, or whether you use spaces or tabs for indenting)
