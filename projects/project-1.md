@@ -91,7 +91,7 @@ For this project you are creating a JavaScript driven Web application that utili
 ### III-B. Functional Requirements (*App page*)
 
 <details>
-<summary>1. You must use at least **ONE** web service API in your completed project:</summary>
+<summary>1 - You must use at least **ONE** web service API in your completed project:</summary>
     
 1. You must use at least **ONE** web service API in your completed project:
     - i. Try to use an API that supports *CORS* (Cross-origin resource sharing) - but if it does not, you might be able to write a PHP proxy server to fetch the data
