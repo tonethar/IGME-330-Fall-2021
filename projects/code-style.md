@@ -51,7 +51,7 @@
   - highly *inefficient* code that could easily be simplified
   - repeated blocks of code that have not been factored out into a common function (i.e. violating the D.R.Y. principle)
   - and so on
-  - the amount of the grade deduction will vary in proportion to the severity of the 
+  - the amount of the grade deduction will vary in proportion to the severity of the violation
 
 
 ## III-B. JS Errors
@@ -60,3 +60,4 @@
 - Code that could throw an exception needs a `try/catch` or a `.catch()`:
   - ex. `JSON.parse()` throws an exception when the string can't be converted to valid JSON
   - ex. `fetch()` throws an exception when there is a network error
+- the amount of the grade deduction will vary in proportion to the severity of the error
