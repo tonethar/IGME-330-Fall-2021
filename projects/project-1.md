@@ -399,10 +399,10 @@ Your project will be graded on the following criteria:
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
 | **A. [Functionality - App & Favorites Pages](#rubric-functionality)** | **40** | |
-|    1. App Page implements all required functional requirements
-|    2. App Page saves/restores last search term and other UI *state* (DEFERRED TO [P2](project-2.md)  | |
+|    1. [App Page](#page-app) implements all required functional requirements
+|    2. App Page saves/restores last search term and other UI *state* (DEFERRED TO [P2](project-2.md))  | |
 |    3. App Page has other required controls | |
-|    4. Favorites Page uses local storage to display favorites  | |
+|    4. [Favorites Page](#page-favorites) uses local storage to display favorites  | |
 |    5. Favorites Page has required "Delete Button"  | |
 |    - *Web Service does not work (App Page)* | *(-30)* |
 |    - *Does not save/restore UI state (App Page)* | *(-10)* |
@@ -410,7 +410,7 @@ Your project will be graded on the following criteria:
 |    - *Favorites not stored in localstorage (Favorites Page)* | *(-15)* |
 |    - *Missing Favorites "Delete" button (Favorites Page)* | *(-5)* |
 | **B. [Content - Home & Documentation Pages](#rubric-content)** | **10** | |
-|    1. Required content is present | |
+|    1. Required content is present on [Home](#page-home) & [Documentation](#page-documentation) Pages | |
 | **C. [Design & Interaction](#rubric-design)** | **20** | |
 |    1. Global Navigation System with "you are here" cues: | |
 |    2. Pleasing graphic design: | |
