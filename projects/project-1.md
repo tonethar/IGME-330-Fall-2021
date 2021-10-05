@@ -241,7 +241,7 @@ For this project you are creating a JavaScript driven Web application that utili
 3) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
     
-4) Users should be able to figure out how to use the app with minimal instruction:
+4) Users must be able to figure out how to use the app with minimal instruction:
     - be sure to provide instruction and tooltips if necessary
     
 5) User errors must be handled gracefully:
@@ -413,15 +413,19 @@ Your project will be graded on the following criteria:
 |    1. Required content is present on [Home](#page-home) & [Documentation](#page-documentation) Pages | |
 | **C. [Design & Interaction](#page-design-interaction)** | **20** | |
 |    1. Global Navigation System with "you are here" cues: | |
-|    2. Pleasing graphic design: | |
+|    2. Pleasing graphic design (embedded font, Bulma, mobile friendly) | |
 |    3. Widgets are well labeled and follow interface conventions | |
 |    4. User errors must be handled gracefully | |
-|    5. Users should be able to figure out how to use the app with minimal instruction | |
+|    5. Users must be able to figure out how to use the app with minimal instruction | |
 |    6. The *state* the application is in is obvious | |
-|    - *Missing embedded font* | *(-5)* |
 |    - *Missing "state" cues like status text or "spinners"* | *(-5)* |
-|    - *Interface looks like GIF Finder HW from IGME-235* | *(-15)* |
-|    - *Interface "broken" at 1200x800 or higher resolutions* | *(-10)* |
+|    - *Missing embedded font* | *(-5)* |
+|    - *Bulma not used/utilized ineffectively* | *(-20)* |
+|    - *Interface looks like "amatuerish"  or like GIF Finder HW* | *(-15)* |
+|    - *Widgets NOT well labeled/do not follow interface conventions* | *(-?)* |
+|    - *User errors NOT handled gracefully* | *(-?)* |
+|    - *App NOT intuitive to use* | *(-?)* |
+|    - *App state NOT obvious* | *(-?)* |
 | **D. [HTML/CSS/Media](#rubric-media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
