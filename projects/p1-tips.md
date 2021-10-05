@@ -140,8 +140,10 @@ import * as "utils" from './utils.js';
   - But you will also need to move the "hamburger JS" from **loader.js** to your component
   - Hint: in the component constructor, initialize `this.burgerIcon` and `this.navbarMenu` and make them *properties* of the `<p1-nav>` component
   - Hint: a `currentPage` attribute would be really helpful - then you can (for example) make the current page name **bold** - so that the user has an additional "where am I?" cue 
+
+<hr>
  
-### II-D. Naming requirements
+### II-D. Custom element & attribute naming requirements
 - Custom element names MUST have a dash in them:
   - YES! - `<my-header>`
   - NO! - `<myHeader>`
