@@ -444,6 +444,7 @@ Your project will be graded on the following criteria:
 |    - *Code that is NOT allowed* | *(-1 to ? per incident)* |
 |    - *Code shows errors in console* | *(-5 per incident)* |
 |    - *App does not function on banjo or locally* | *(-10 to ?)* |
+|    - *App has fewer than 3 web components* | *(-5 each)* |
 | **F. [Impact](#)**  | **20** | |
 |    - If the app meets the requirements above, we will award a 10% in this category, which means the base overall grade is 90% | |
 |    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
