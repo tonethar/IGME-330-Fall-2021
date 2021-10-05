@@ -4,6 +4,7 @@
 
 - [Project 1 Requirements](project-1.md)
 - [Project 1 Coding Standards](code-style.md)
+- [Project 2 Requirements](project-2.md)
 - We will keep updating this page - so check back periodically!
 
 ## TOC:
