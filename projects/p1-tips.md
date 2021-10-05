@@ -132,6 +132,7 @@ import * as "utils" from './utils.js';
   - meaning you don't need to implement `observedAttributes()` or `attributeChangedCallback()`
   - meaning that you could set the state of the HTML (ex. the `year` and `authorname`) in the `constructor()`, thus you wouldn't need a `render()` helper method
   - and, if your component doesn't have any JavaScript, you won't even need to implement `connectedCallback` or `disconnectedCallback`
+ - so in this example, all your component needs is a `constructor()`
 
 <hr>
 
