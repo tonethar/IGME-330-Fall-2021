@@ -1,4 +1,4 @@
-# Project 1 - Tips & Tricks
+# Project 1 & 2 - Tips & Tricks
 
 ## Notes:
 
