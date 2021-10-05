@@ -420,8 +420,8 @@ Your project will be graded on the following criteria:
 |    6. The *state* the application is in is obvious | |
 |    - *Missing "state" cues like status text or "spinners"* | *(-5)* |
 |    - *Missing embedded font* | *(-5)* |
-|    - *Bulma not used/utilized ineffectively* | *(-20)* |
-|    - *Interface looks like "amatuerish"  or like GIF Finder HW* | *(-15)* |
+|    - *Bulma not used or utilized ineffectively* | *(-20/-?)* |
+|    - *Interface looks "amatuerish"  or like GIF Finder HW* | *(-15)* |
 |    - *Widgets NOT well labeled/do not follow interface conventions* | *(-?)* |
 |    - *User errors NOT handled gracefully* | *(-?)* |
 |    - *App NOT intuitive to use* | *(-?)* |
