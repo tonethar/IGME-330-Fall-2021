@@ -15,6 +15,7 @@
     - Users must know what state the app is in at all times (hint: Bulma buttons have an `is-loading` class)
   - Rubric
   - Demo Video
+- FYI - this is where we're going next week with [Project 2](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/project-2.md)
 
 <hr>
 
