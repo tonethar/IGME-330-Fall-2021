@@ -3,7 +3,7 @@
 ## I. Review Project 1 Requirements
 - [Project 1 Requirements](../projects/project-1.md):
   - [Home/Landing/About Page](../projects/project-1.md#page-home)
-  - [App Page](../projects/project-1.md#page-home)
+  - [App Page](../projects/project-1.md#page-app)
   - [Favorites/Bookmarks Page](../projects/project-1.md#page-favorites)
   - [Documentation/Sources Page](../projects/project-1.md#page-documentation)
   - [Design & Interaction (All pages)](../projects/project-1.md#page-design-interaction):
