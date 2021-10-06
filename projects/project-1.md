@@ -10,7 +10,7 @@
 - [App Page](#page-app)
 - [Favorites Page](#page-favorites)
 - [Documentation Page](#page-documentation)
-- [Design & Interaction for ALL pages](#page-design-interaction)
+- [Design & Interaction requirements for ALL pages](#page-design-interaction)
 
 [IV. Code](#code)
 
