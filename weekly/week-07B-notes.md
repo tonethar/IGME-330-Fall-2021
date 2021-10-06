@@ -13,6 +13,8 @@
     - Users must be able to figure out how to use the app (provide instruction and tooltips if necessary)
     - User errors must be handled gracefully
     - Users must know what state the app is in at all times (hint: Bulma buttons have an `is-loading` class)
+  - Rubric
+  - Demo Video
 
 <hr>
 
