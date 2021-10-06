@@ -431,21 +431,17 @@ Your project will be graded on the following criteria:
 | **D. [HTML/CSS/Media](#rubric-media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
-|    3. Uses HTML5 Semantic elements | |
-|    4. Images properly optimized | |
-|    5. Has embedded font (see above) | |
+|    3. Images properly optimized | |
 |    - *Fails HTML Validation* | *(-5)* |
 |    - *Fails CSS Validation* | *(-5)* |
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
-|    - *Missing required HTML5 semantic elements* | *(-5)* |
-|    - *Images larger than 50KB* | *(-2 each)* |
+|    - *Images larger than 100KB* | *(-2 each)* |
 | **E. [Code](#code)**  | | |
 |    - *ES6 Module pattern not used* | *(-25)* |
 |    - *`fetch()` not used* | *(-25)* |
 |    - *Code Conventions NOT followed* | *(-1 to -5 per incident)* |
-|    - *Code that is NOT allowed* | *(-1 to ? per incident)* |
 |    - *Code shows errors in console* | *(-5 per incident)* |
-|    - *App does not function on banjo or locally* | *(-10 to ?)* |
+|    - *App does not function on banjo and/or locally* | *(-10 to ?)* |
 |    - *App has fewer than 3 web components* | *(-5 each)* |
 | **F. [Impact](#)**  | **20** | |
 |    - If the app meets the requirements above, we will award a 10% in this category, which means the base overall grade is 90% | |
@@ -455,4 +451,4 @@ Your project will be graded on the following criteria:
 | **Maximum Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if required prototype was not submitted to dropbox on time* | *(-10)* | |
-| *Deduction if final documentation is not submitted to dropbox on time* | *(-10)* | |
+| *Deduction if video is not submitted to dropbox on time* | *(-10)* | |
