@@ -6,7 +6,13 @@
   - App Page
   - Favorites/Bookmarks Page
   - Documentation/Sources Page
-  - Design & Interaction (All pages)
+  - Design & Interaction (All pages):
+    - Global Navigation System with "you are here" cues
+    - Pleasing graphic design (Must use Bulma, mobile friendly, embedded font)
+    - Widgets are well labeled and follow interface convention
+    - Users must be able to figure out how to use the app (provide instruction and tooltips if necessary)
+    - User errors must be handled gracefully
+    - Users must know what state the app is in at all times (hint: Bulma buttons have an `is-active` class)
 
 <hr>
 
