@@ -274,10 +274,10 @@ For this project you are creating a JavaScript driven Web application that utili
 ## IV. Code
 
 1) Code style/standards - [IGME-330 - Course Code Style Requirements](./code-style.md)
-    - ES6 modules - multiple distinct code files in a **src** folder - ex. **src/main.js**, **src/utils.js**, **src/my-component.js**:
+    - ES6 modules - multiple distinct code files in a **src** folder - ex. **src/app.js**, **src/favorites.js**, **src/loader.js**, **src/my-component.js**:
       - *each component gets its own JS file*
       - *No JS code is allowed in your HTML file*
-        - Instead, use a single `<script>` element to load in the JS code you wrote - ex. `<script src="src/main.js" type="module"></script>`
+        - Instead, use a `<script>` element to load in the JS code you wrote - ex. `<script src="src/app.js" type="module"></script>`
       - your modules will use the [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and/or [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) keywords as needed
  
 2) Ajax
@@ -288,7 +288,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 3) `localStorage` - you have already done this in IGME-235 - [9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
 
-4) Utilize at least 3 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+4) Utilize at least 3 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) classes in your project
 
     
 <hr>
