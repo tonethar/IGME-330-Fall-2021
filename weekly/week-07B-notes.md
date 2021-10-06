@@ -1,9 +1,16 @@
 # Week 7B - Finishing up Project 1
 
-## I. 
+## I. Review Project 1 Requirements
+- [Project 1 Requirements](../projects/project-1.md):
+  - Home/Landing/About Page
+  - App Page
+  - Favorites/Bookmarks Page
+  - Documentation/Sources Page
+  - Design & Interaction (All pages)
 
+<hr>
 
-
+## II. Work Day!
 
 <hr><hr>
 
