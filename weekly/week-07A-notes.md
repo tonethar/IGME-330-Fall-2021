@@ -26,4 +26,4 @@
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-06B-notes.md**](week-06B-notes.md)     |  [**IGME-330 Schedule**](../schedule.md) | :-\
+| [**week-06B-notes.md**](week-06B-notes.md)     |  [**IGME-330 Schedule**](../schedule.md) | [**week-07B-notes.md**](week-07B-notes.md)
