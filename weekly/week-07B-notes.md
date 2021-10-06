@@ -12,7 +12,7 @@
     - Widgets are well labeled and follow interface convention
     - Users must be able to figure out how to use the app (provide instruction and tooltips if necessary)
     - User errors must be handled gracefully
-    - Users must know what state the app is in at all times (hint: Bulma buttons have an `is-active` class)
+    - Users must know what state the app is in at all times (hint: Bulma buttons have an `is-loading` class)
 
 <hr>
 
