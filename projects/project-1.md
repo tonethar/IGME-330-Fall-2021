@@ -400,7 +400,8 @@ For this project you are creating a JavaScript driven Web application that utili
 ![screenshot](_images/p1-mobile-ss-4.png)
 
 
-<a id="rubric" />
+<a id="rubric" name="rubric" />
+
 
 <hr>
 
