@@ -22,8 +22,10 @@
 <hr>
 
 ## II. Requirements
-- ALL of the Project 1 requirements are still in effect. If you did not meet them the first time around, here is your chance to get them done
-- Be sure to incorporate your prof's Project 1 feedback into Project 2:
+- ALL of the Project 1 requirements are still in effect. If you did not meet them the first time around, here is your chance to get them done:
+  - [Project 1](project-1.md)
+  - [Course Code Style Requirements](code-style.md)
+- Be sure to incorporate your Prof's Project 1 feedback into Project 2:
   - You may not yet have a firm grade on that Project, but you should have received feebdback about any obvious changes that were needed. If not, contact your prof.
 - One of the Project 1 requirements for the App page, III-B - #2 - *On the app page, you will automatically save the last term searched by the user and other UI *state* in the browser's local storage*, was deferred to this project. Don't forget to complete this requirement.
 - You must add MapBox OR Firebase capability to your project (you can add both if you wish)
