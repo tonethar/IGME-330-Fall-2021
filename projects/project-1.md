@@ -437,12 +437,13 @@ Your project will be graded on the following criteria:
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Images larger than 100KB* | *(-2 each)* |
 | **E. [Code](#code)**  | | |
-|    - *ES6 Module pattern not used* | *(-25)* |
-|    - *`fetch()` not used* | *(-25)* |
+|    - *ES6 Module pattern not used* | *(-20)* |
+|    - *`fetch()` not used* | *(-20)* |
 |    - *Code Conventions NOT followed* | *(-1 to -5 per incident)* |
 |    - *Code shows errors in console* | *(-5 per incident)* |
 |    - *App does not function on banjo and/or locally* | *(-10 to ?)* |
 |    - *App has fewer than 3 web components* | *(-5 each)* |
+|    - *Web component NOT in its own JS file* | *(-5)* |
 | **F. [Impact](#)**  | **20** | |
 |    - If the app meets the requirements above, we will award a 10% in this category, which means the base overall grade is 90% | |
 |    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
