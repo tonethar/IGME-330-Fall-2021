@@ -407,7 +407,7 @@ Your project will be graded on the following criteria:
 |    4. [Favorites Page](#page-favorites) uses local storage to display favorites  | |
 |    5. Favorites Page has required "Delete Button"  | |
 |    - *Web Service does not work (App Page)* | *(-30)* |
-|    - *Does not save/restore UI state (App Page)* | *(-10)* |
+|    - *Does not save/restore UI state (App Page) (DEFERRED TO [P2](project-2.md))* | *(-10)* |
 |    - *Missing required # of controls (App Page)* | *(-10 each)* |
 |    - *Favorites not stored in localstorage (Favorites Page)* | *(-15)* |
 |    - *Missing Favorites "Delete" button (Favorites Page)* | *(-5)* |
