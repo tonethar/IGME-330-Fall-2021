@@ -17,7 +17,7 @@
       - [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
       - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
       - [4 - Firebase "Draw & Share" App (optional extra credit)](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-4.md)
-      - Note that the first two HW assignments above are required for EVERYONE even if you choose to use Mapbox instead
+      - Note that the first three HW assignments above are required for EVERYONE even if you choose to use Mapbox instead
 
 <hr>
 
