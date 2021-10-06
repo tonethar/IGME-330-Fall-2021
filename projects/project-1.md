@@ -16,18 +16,11 @@
 
 [V. Media](#media)
 
-[VI. Examples](#examples)
+[VI. Demo Video](#video)
 
-[VII. Rubric](#rubric)
+[VII. Examples](#examples)
 
-
-<!--
-
-[VII. Rubric](#rubric)
-
-[VIII. Documentation & Submission](#submission)
-
--->
+[VIII. Rubric](#rubric)
 
 <a id="overview"/>
 
@@ -305,11 +298,23 @@ For this project you are creating a JavaScript driven Web application that utili
   - *for example, a not cropped or scaled 12MP 4032 x 3024 image is too big, and not allowed*
  - Uses the [Bulma](https://bulma.io/) CSS framework
 
+<a id="video"/>
+
+<hr>
+
+## VI. Demo Video
+
+- a 1 to 2-minute narrated “demo reel” of the completed project is required - post it to YouTube & put the URL in the comments field. If you decide to upload a video file instead, it must be in the MP4 format.  The easiest way to record a demo reel is to use Zoom - here is a 2-minute video on how to do this: https://www.youtube.com/watch?v=D617OXKhSYw
+- don't forget to "Share Screen" so that I can see you interacting with the project. Please don't stress out over this requirement - I am the only one who will see the video - I won't be sharing or posting these
+- 10% from project 1 grade if the video requirement is not completed
+
+
+
 <a id="examples"/>
 
 <hr>
 
-## VI. Example Screenshots
+## VII. Example Screenshots
 
 - This example meets most of the basic requirements, and is mobile friendly
 - This example is missing some basic controls and other requirements, here are some ideas on how it could be improved:
@@ -330,7 +335,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <a id="desktop-screenshots"/>
 
-### VI-A. Desktop Version
+### VII-A. Desktop Version
 
 <hr>
 
@@ -362,7 +367,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <hr>
 
-### VI-B. Mobile Version
+### VII-B. Mobile Version
 
 <hr>
 
@@ -393,7 +398,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 <hr>
 
-## VII. Grading Rubric (DRAFT)
+## VIII. Grading Rubric (DRAFT)
 
 
 Your project will be graded on the following criteria:
