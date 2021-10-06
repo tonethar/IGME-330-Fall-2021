@@ -439,7 +439,7 @@ Your project will be graded on the following criteria:
 |    - *User errors NOT handled gracefully* | *(-?)* |
 |    - *App NOT intuitive to use* | *(-?)* |
 |    - *App state NOT obvious* | *(-?)* |
-| **D. [HTML/CSS/Media](#rubric-media)**  | **10** | |
+| **D. [HTML/CSS/Media](#media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
