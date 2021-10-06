@@ -2,7 +2,7 @@
 
 ## I. Overview
 - This project is a continuation of Project 1, with **at least ONE** of the following additions:
-  - An integrated [MapBox](https://www.mapbox.com/) map
+  - An integrated [Mapbox](https://www.mapbox.com/) map
     - you would choose this option if your API returns location data
     - The following HW will help you get comfortable with Mapbox:
       - [Mapbox I - Mapbox Intro](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-1.md)
