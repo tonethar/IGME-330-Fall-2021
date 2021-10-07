@@ -12,7 +12,7 @@
     - Widgets are well labeled and follow interface convention
     - Users must be able to figure out how to use the app (provide instruction and tooltips if necessary)
     - User errors must be handled gracefully
-    - Users must know what state the app is in at all times (hint: Bulma buttons have an `is-loading` class - so you can use `.classList.toggle('is-loading')`)
+    - Users must know what state the app is in at all times (hint: Bulma buttons have an `is-loading` class - so you can use `buttonRef.classList.toggle('is-loading')`)
   - [Demo Video](../projects/project-1.md#video)
   - [Rubric](../projects/project-1.md#rubric)
 - FYI - this is where we're going next week with [Project 2](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/project-2.md)
