@@ -60,5 +60,6 @@
 - Post to the "Project 2 Changes" discussion thread before it closes:
   - tell us whether you are going to utilize Mapbox or Firebase
   - tell us what features you will implement with the above API
+  - tell us what other features you plan to add to the project
   - -10% from project grade if not done
 
