@@ -1,4 +1,4 @@
-# Project 2 - *VanillaJS App - now with Maps or Cloud Storage* (DRAFT)
+# Project 2 - *VanillaJS App - now with Maps or Cloud Storage*
 
 ## I. Overview
 - This project is a continuation of Project 1, with **at least ONE** of the following additions:
@@ -28,7 +28,23 @@
 - Be sure to incorporate your Prof's Project 1 feedback into Project 2:
   - You may not yet have a firm grade on that Project, but you should have received feebdback about any obvious changes that were needed. If not, contact your prof.
 - One of the Project 1 requirements for the App page, III-B - #2 - *On the app page, you will automatically save the last term searched by the user and other UI *state* in the browser's local storage*, was deferred to this project. Don't forget to complete this requirement.
-- You must add MapBox OR Firebase capability to your project (you can add both if you wish)
+- You must add Mapbox OR Firebase capability to your project (you can add both if you wish)
+- You must update your *Sources* page to describe all of the changes you made since P1, and how you utilized Mapbox or Firebase on the project
+
+### II-A. Mapbox Guidelines
+
+- Don't make the map any bigger than it needs to be - the HW assignments used fullscreen maps - but you will likely only need a smaller map (ex. head to yelp.com to see how they use maps - they are not full screen)
+- You must have markers in the map - these will likely show a user's search results
+- The markers must be clickable and display useful information
+- There must be map controls for the user
+- New searches will probaby wipe out "old" markers from previous searches
+- If you want to add layers to your map, see the **Mapbox-III - Virus Map** extra credit assignment
+
+### II-B. Firebase requirements
+- You must to save some sort of web site data to "the cloud" using Firebase (typed in user search terms, favorited Pokemon, etc):
+ - **2 - Firebase Highscore App** covers how to *save* data to the cloud using Firebase
+- You must add a **community.html** page that will display at least some of this data to your users
+  - **3 - Firebase Highscore Viewer** covers how to *read* data from the cloud using Firebase
 
 <hr>
 
