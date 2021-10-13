@@ -1,6 +1,6 @@
 # Week 8B - Mapbox
 
-# I. Project 1
+## I. Project 1
 - Welcome back!
 - Let's look at some!
 
