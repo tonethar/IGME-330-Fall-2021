@@ -56,8 +56,9 @@
 
 ## IV. Get Started
 - Make a copy of your **project-1** folder (or whatever you called it) and name it **project-2**
+  - ***Start fixing any bugs and implement any missing requirements NOW***
 - IMPORTANT: Do not delete or modify the files in your **project-1** folder on banjo - leave it be - we need to see what changes you make between Project 1 and Project 2
-- Post to the "Project 2 Changes" discussion thread before it closes:
+- Post to the "Project 2 Changes" discussion thread before it closes Sunday night:
   - tell us whether you are going to utilize Mapbox or Firebase
   - tell us what features you will implement with the above API
   - tell us what other features you plan to add to the project
