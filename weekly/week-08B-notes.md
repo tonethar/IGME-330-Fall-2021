@@ -1,8 +1,11 @@
 # Week 8B - Mapbox
 
-- Welcome back!
+# I. Project 1
+- Let's look at a few
 
-## I. Project 2
+<hr>
+
+## II. Project 2
 
 - [Project 2](../projects/project-2.md)
 - [Project 1 & 2 - Tips & Tricks](../projects/p1-tips.md)
@@ -14,7 +17,7 @@
 
 <hr>
 
-## II. Mapbox
+## III. Mapbox
 
 - [Mapbox I - Mapbox Intro](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-1.md)
 - [Mapbox II - RIT Coffee Finder](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-2.md)
