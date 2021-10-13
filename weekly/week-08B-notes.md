@@ -11,10 +11,12 @@
 - [Project 2](../projects/project-2.md)
 - [Project 1 & 2 - Tips & Tricks](../projects/p1-tips.md)
 - [Course Code Style Requirements](../projects/code-style.md)
-- myCourses Discussion Thread *Project 2 Changes*:
+- myCourses Discussion Thread - *Project 2 Changes*:
   - closes Sunday night 10/17/21
   - tell us whether you are going to utilize Mapbox or Firebase
   - tell us what features you will implement with the above API
+  - tell us what other features you plan to add to the project
+  - -10% to Project 2 grade if not done
 
 <hr>
 
