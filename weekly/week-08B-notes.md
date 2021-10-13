@@ -1,7 +1,8 @@
 # Week 8B - Mapbox
 
 # I. Project 1
-- Let's look at a few
+- Welcome back!
+- Let's look at some!
 
 <hr>
 
