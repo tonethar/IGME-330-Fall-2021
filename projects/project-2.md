@@ -45,6 +45,9 @@
   - **2 - Firebase Highscore App** covers how to *save* data to the cloud using Firebase
 - You must add a **community.html** page that will display at least some of this data to your users
   - **3 - Firebase Highscore Viewer** covers how to *read* data from the cloud using Firebase
+- Important Note:
+  - *Individual data* - such as favorites and other user data (such as the last term searched by the user and other UI state) are still stored in the browser's local storage
+  - your app will still have a **favorites.html** (which shows the current user's favorites) page in addition to the **community.html** (which shows favorites - or other data - for ALL of the users)
 
 <hr>
 
