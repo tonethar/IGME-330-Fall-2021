@@ -67,6 +67,8 @@
   - tell us what other features you plan to add to the project
   - -10% from project grade if not done
 
+<a id="examples" />
+
 <hr>
 
 ## V. Examples
