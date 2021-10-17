@@ -71,3 +71,7 @@
 
 ## V. Examples
 
+**Community Page**
+
+![screenshot](_images/p2-example-1.png)
+
