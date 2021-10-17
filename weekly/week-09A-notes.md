@@ -10,7 +10,7 @@
 
 ## II. Project 2
 
-- [Project 2](../projects/project-2.md)
+- [Project 2 (with *Community* page example)](../projects/project-2.md#examples)
 - [Project 1 & 2 - Tips & Tricks](../projects/p1-tips.md)
 - [Course Code Style Requirements](../projects/code-style.md)
 
