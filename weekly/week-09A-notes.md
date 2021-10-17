@@ -24,7 +24,7 @@
   - "cloud-hosted" means that it can be accessed by multiple users and devices from anywhere on the Internet
   - "NoSQL" in this case means that all of your data is stored in what is essentially a single JSON object, as opposed to being broken out into seperate SQL tables (ex.  `Person` and `Address` or `BlogPost`)
   - "sync data in realtime" - means that data changes can be immediately (within milliseconds) propogated to all of the users of your web app
-  - the realtime databse will also continue to work when the user is offline (by caching changes) and will automatically sync itself with the cloud when the user re-connects
+  - the realtime database will also continue to work when the user is offline (by caching changes) and will automatically sync itself with the cloud when the user re-connects
 - Even though Firebase is NoSQL, our app still needs Firebase to do the same things that a SQL database does - specifically the **CRUD** operations:
   - ***C*reate** - in the *DogFinder* app page, we need to create a new favorite (in the cloud) everytime a user favorites a dog picture
   - ***R*ead** - on the DogFinder Community page, we need to download the `url` and `like` values for 10 most popular dog pictures
@@ -34,8 +34,13 @@
 ### III-B. HW Intro to Firebase walkthrough
 
 - [1 - Intro to Firebase - the Realtime Database](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
-- 
-
+- Note that you first create a *project*, then an *app*:
+  - "A Firebase project is the top-level entity for Firebase. In a project, you create Firebase apps by registering your iOS, Android, or web apps" - the idea being that you could build different apps for Web, iOS, Android, Unity, different OS versions etc - and have them all talk to the same backend
+  - https://firebase.google.com/docs/projects/learn-more
+- Note that you can use the Firebase realtime databse control panel to perform all of the **CRUD** operations on your app's data 
+- Note that we are using an `import` statement rather than a `<script>` tag to load in the firebase libraries, and that we are specifying the symbols that wee need:
+  - `import { getDatabase, ref, set, push, onValue } from  "https://www.gstatic.com/firebasejs/9.1.3/firebase-database.js";
+`
 
 
 
