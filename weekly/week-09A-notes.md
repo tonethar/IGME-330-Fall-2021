@@ -22,7 +22,7 @@
 
 - "The Firebase Realtime Database is a cloud-hosted NoSQL database that lets you store and sync data between your users in realtime."
   - "cloud-hosted" means that it can be accessed by multiple users and devices from anywhere on the Internet
-  - "NoSQL" in this case means that all of your data is stored in what is essentially a single JSON object, as opposed to being broken out into seperate SQL tables (ex.  `Person` and `Address` or `BlogPost`)
+  - "NoSQL" in this case means that all of your data is stored in what is essentially a single JSON object, as opposed to being broken out into separate SQL tables (ex.  `Person` and `Address` or `BlogPost`)
   - "sync data in realtime" - means that data changes can be immediately (within milliseconds) propogated to all of the users of your web app
   - the realtime database will also continue to work when the user is offline (by caching changes) and will automatically sync itself with the cloud when the user re-connects
 - Even though Firebase is NoSQL, our app still needs Firebase to do the same things that a SQL database does - specifically the **CRUD** operations:
