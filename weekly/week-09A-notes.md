@@ -60,6 +60,7 @@
     - Go check the Firebase Control panel to see the changes
    - Note that by adding data with `set()` and providing a path that is a unique user ID,  we are essentially providing the unique *key* by which this data can be updated or deleted
      - this means that when we do a `set()` with the same user path, it will *over-write* the old user data, and NOT create new user data on `users/`
+       - meanign that `writeUserData("xyz9876","Ima Graduate","ima@realworld.com");` would **Update** "Ima Student" to "Ima Gradute" (another **CR*U*D** operation
      - test this by reloading the **firebase-test.html** page multiple times and then checking the `users/` path in the Firebase Control Panel - you should still only see these 2 users
 
 #### `push()` -  another way to *Create* data in the cloud
