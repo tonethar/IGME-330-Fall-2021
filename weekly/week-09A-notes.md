@@ -121,8 +121,17 @@ function scoresChanged(snapshot){
 onValue(scoresRef,scoresChanged);
 ```
 
+- Let's use the **firebase-high-score.html** page from last time to add some high scores to the `scores/` path
+- Check **firebase-admin.html** - the new scores should instantly appear!
 
 
+<hr>
+
+## IV. What else?
+
+- The HW assignments covered quite a bit, but there's still a little bit more about Firebase we'll cover at our next class meeting:
+ - `get()`
+  - 
 
 <hr><hr>
 
