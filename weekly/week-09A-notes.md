@@ -37,7 +37,7 @@
 - Note that you first create a *project*, then an *app*:
   - "A Firebase project is the top-level entity for Firebase. In a project, you create Firebase apps by registering your iOS, Android, or web apps" - the idea being that you could build different apps for Web, iOS, Android, Unity, different OS versions etc - and have them all talk to the same backend
   - https://firebase.google.com/docs/projects/learn-more
-- Note that you can use the Firebase realtime databse control panel to perform all of the **CRUD** operations on your app's data 
+- Note that you can use the Firebase realtime database control panel to perform all of the **CRUD** operations on your app's data 
 - Let's walk through **firebase-test.html**
   - Note that we are using an `import` statement rather than a `<script>` tag to load in the Firebase libraries, and that we are specifying the symbols that wee need:
     - `import { getDatabase, ref, set, push, onValue } from  "https://www.gstatic.com/firebasejs/9.1.3/firebase-database.js";
