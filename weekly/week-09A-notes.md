@@ -47,7 +47,7 @@
   - Note how we initialize the **Realtime Database**
     - `const db = getDatabase();`
     - check out `db` in the debugger - it's a mostly *opaque* object - we won't be calling any methods on it - instead we'll be passing it as a parameter into the various **Realtime Database** functions such as `set()` and `ref()`
-  - Now we'll **CREATE** some data with **`set()`**:
+  - Now we'll **CREATE** some data with **`set()`** - and **UPDATE** it too:
     - the `ref()` function (which we imported)
       - *returns a Reference representing the location in the Database corresponding to the provided path*
       - `ref(databaseRef, path)` returns a `DatabaseReference`
@@ -60,7 +60,7 @@
     - Go check the Firebase Control panel to see the changes
    - Note that by adding data with `set()` and providing a path that is a unique user ID,  we are essentially providing the unique *key* by which this data can be updated or deleted
      - this means that when we do a `set()` with the same user path, it will *over-write* the old user data, and NOT create new user data on `users/`
-       - meanign that `writeUserData("xyz9876","Ima Graduate","ima@realworld.com");` would **Update** "Ima Student" to "Ima Gradute" (another **CR*U*D** operation
+       - meanign that `writeUserData("xyz9876","Ima Graduate","ima@realworld.com");` would **Update** "Ima Student" to "Ima Gradute" (another **CR*U*D** operation)
      - test this by reloading the **firebase-test.html** page multiple times and then checking the `users/` path in the Firebase Control Panel - you should still only see these 2 users
 
 #### `push()` -  another way to *Create* data in the cloud
@@ -101,6 +101,7 @@ function writeHighScoreData(userId, game, score) {
 
 - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
 - A new **C*R*UD** operation - **Read** !
+- 
 
 
 
