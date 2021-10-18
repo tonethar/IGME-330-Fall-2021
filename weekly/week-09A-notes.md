@@ -58,7 +58,7 @@
       - we create a reference to `users/abc1234` in the **Realtime Database** by passing in `db` and  `"users/abc1234"`
       - we use `set()` to *write* the "Ace Coder" data (provided as an object literal) to the **Realtime Database**
     - Go check the Firebase Control panel to see the changes
-   - Note that by adding data with `set()` and poroviding a path that is a unique user ID,  we are essentially providing the unique *key* by which this data can be updated or deleted
+   - Note that by adding data with `set()` and providing a path that is a unique user ID,  we are essentially providing the unique *key* by which this data can be updated or deleted
      - test this by
       
 
