@@ -59,7 +59,8 @@
       - we use `set()` to *write* the "Ace Coder" data (provided as an object literal) to the **Realtime Database**
     - Go check the Firebase Control panel to see the changes
    - Note that by adding data with `set()` and providing a path that is a unique user ID,  we are essentially providing the unique *key* by which this data can be updated or deleted
-     - test this by
+     - this means that when we do a `set()` with the same user path, it will *over-write* the old user data, and NOT create new user data on `users/`
+     - test this by reloading the **firebase-test.html** page multiple times and then checking the Firebase Control Pnale - you should still only see these 2 users
       
 
 
