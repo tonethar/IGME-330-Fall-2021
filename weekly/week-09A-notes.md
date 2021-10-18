@@ -48,8 +48,20 @@
     - `const db = getDatabase();`
     - check out `db` in the debugger - it's a mostly *opaque* object - we won't be calling any methods on it - instead we'll be passing it as a parameter into the various **Realtime Database** functions such as `set()` and `ref()`
   - Now we'll **CREATE** some data:
-    - the `set()` function (which we imported) 
-    - 
+    - the `ref()` function (which we imported)
+      - *returns a Reference representing the location in the Database corresponding to the provided path*
+      - `ref(databaseRef, path)` returns a `DatabaseReference`
+    - the `set()` function (which we inported)
+      - *writes data to a database location*
+      - `set(DatabaseReference, value)`
+    - take a look in `writeUserData(userId, name, email)` and see how it adds "Ace Coder" to the Database
+      - we create a reference to `users/abc1234` in the **Realtime Database** by passing in `db` and  `"users/abc1234"`
+      - we use `set()` to *write* the "Ace Coder" data (provided as an object literal) to the **Realtime Database**
+    - Go check the Firebase Control panel to see the changes
+   - Note that by adding data with `set()` and poroviding a path that is a unique user ID,  we are essentially providing the unique *key* by which this data can be updated or deleted
+     - test this by
+      
+
 
 
 
