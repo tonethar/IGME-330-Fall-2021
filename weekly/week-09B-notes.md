@@ -26,7 +26,67 @@
 **gab-dog-1-start.html**
 
 ```html
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>GabDog</title>
+	<style>
+	*{
+		font-family: sans-serif;
+	}
+	</style>
+</head>
+<body>
+<h1>GabDog&trade;</h1>
+<h3>We want to know - what's a good dog name?</h3>
+<p>Name --> <input value="Rover" id="nameField"></p>
+<button id="btnSubmit">Send Name to Server</button>
+<hr>
+<h3>Popular Names</h3>
+<ol id="favoritesList"></ol>
 
+<script type="module">
+
+// TODO: ADD YOUR imports and Firebase setup code HERE
+
+//
+
+	const writeFavNameData = name => {
+		const db = getDatabase();
+		const favRef = ref(db, 'favorites/' + name);
+		set(favRef, {
+				name,
+				likes: 1
+		});
+	};
+
+	function favoritesChanged(snapshot){
+		// TODO: clear #favoritesList
+    snapshot.forEach(score => {
+      const childKey = score.key;
+      const childData = score.val();
+      //console.log(childKey,childData);
+			// TODO: update #favoritesList
+    });
+  }
+
+	const init = () => {
+		const db = getDatabase();
+  	const favoritesRef = ref(db, 'favorites/');
+		onValue(favoritesRef,favoritesChanged);
+	
+		btnSubmit.onclick = () => {
+			writeFavNameData(nameField.value);
+		};
+	};
+
+	init();
+
+</script>
+
+</body>
+</html>
 ```
 
 <hr>
