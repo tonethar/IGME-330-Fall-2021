@@ -104,7 +104,7 @@ function writeHighScoreData(userId, game, score) {
 - Firebase makes it easy to be notified when any of your cloud values change - the `onValue` function (which we are importing)
   - *Listens for data changes at a particular location. This is the primary way to read data from a Database. Your callback will be triggered for the initial data and again whenever the data changes*
   - https://firebase.google.com/docs/reference/js/database.md#onvalue
-  - `onValue()` takes 2 parameters - a Realtime Database path to "watch", and a callback funciton to invoke:
+  - `onValue()` takes 2 parameters - a **Realtime Database** path to "watch", and a callback function to invoke:
 
 ```js
 const db = getDatabase();
