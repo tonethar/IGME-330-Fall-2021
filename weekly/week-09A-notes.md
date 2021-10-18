@@ -31,16 +31,25 @@
   - ***U*pdate** - if a user favorites a dog image that has already been favorited by someone else, we need to increase the `like` value by 1
   - ***D*elete** - if an *admin* needs to delete a favorite - maybe it's a mal-formed url, or maybe the image violates the site's standards (this has not been implemented by the DogFinder example)
 
-### III-B. HW Intro to Firebase walkthrough
+### III-B. HW - Intro to Firebase walkthrough
 
 - [1 - Intro to Firebase - the Realtime Database](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
 - Note that you first create a *project*, then an *app*:
   - "A Firebase project is the top-level entity for Firebase. In a project, you create Firebase apps by registering your iOS, Android, or web apps" - the idea being that you could build different apps for Web, iOS, Android, Unity, different OS versions etc - and have them all talk to the same backend
   - https://firebase.google.com/docs/projects/learn-more
 - Note that you can use the Firebase realtime databse control panel to perform all of the **CRUD** operations on your app's data 
-- Note that we are using an `import` statement rather than a `<script>` tag to load in the firebase libraries, and that we are specifying the symbols that wee need:
-  - `import { getDatabase, ref, set, push, onValue } from  "https://www.gstatic.com/firebasejs/9.1.3/firebase-database.js";
-`
+- Let's walk through **firebase-test.html**
+  - Note that we are using an `import` statement rather than a `<script>` tag to load in the firebase libraries, and that we are specifying the symbols that wee need:
+    - `import { getDatabase, ref, set, push, onValue } from  "https://www.gstatic.com/firebasejs/9.1.3/firebase-database.js";
+  - Note how we initialize Firebase:
+    - `const app = initializeApp(firebaseConfig);`
+    - check out `app` in the debugger - it's a mostly *opaque* object that the **Realtime Database** will utilize - we won't be calling any methods on it
+  - Note how we initialize the **Realtime Database**
+    - `const db = getDatabase();`
+    - check out `db` in the debugger - it's a mostly *opaque* object - we won't be calling any methods on it - instead we'll be passing it as a parameter into the various **Realtime Database** functions such as `set()` and `ref()`
+  - Now we'll **CREATE** some data:
+    - the `set()` function (which we imported) 
+    - 
 
 
 
