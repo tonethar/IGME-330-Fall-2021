@@ -15,11 +15,13 @@
   - if this dog name already exists in Firebase, the `likes` property of that dog name is incremented by 1
   - here is a screenshot of the completed example app (on the left), and the Fiebase console (on the right)
 
+<hr>
+
 ![screenshot](../_images/gab-dog-1.jpg)
 
 <hr>
 
-## II-A. Start Code
+### II-A. Start Code
 
 **gab-dog-1-start.html**
 
@@ -29,11 +31,11 @@
 
 <hr>
 
-## II-B. Notes
+### II-B. Notes
 
 <hr>
 
-## II-V. Documentation
+### II-C. Documentation
 - `get(path)`
    - Gets the most up-to-date result for this query.
    - https://firebase.google.com/docs/reference/js/database.md#get
