@@ -31,7 +31,7 @@
   - ***U*pdate** - if a user favorites a dog image that has already been favorited by someone else, we need to increase the `like` value by 1
   - ***D*elete** - if an *admin* needs to delete a favorite - maybe it's a mal-formed url, or maybe the image violates the site's standards (this has not been implemented by the DogFinder example)
 
-### III-B. HW - Intro to Firebase walkthrough
+### III-B. HW - *Intro to Firebase* walkthrough
 
 - [1 - Intro to Firebase - the Realtime Database](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-1.md)
 - Note that you first create a *project*, then an *app*:
@@ -47,7 +47,7 @@
   - Note how we initialize the **Realtime Database**
     - `const db = getDatabase();`
     - check out `db` in the debugger - it's a mostly *opaque* object - we won't be calling any methods on it - instead we'll be passing it as a parameter into the various **Realtime Database** functions such as `set()` and `ref()`
-  - Now we'll **CREATE** some data:
+  - Now we'll **CREATE** some data with **`set()`**:
     - the `ref()` function (which we imported)
       - *returns a Reference representing the location in the Database corresponding to the provided path*
       - `ref(databaseRef, path)` returns a `DatabaseReference`
@@ -84,9 +84,13 @@ function writeHighScoreData(userId, game, score) {
   console.log("newScoreRef",newScoreRef.key);
 }
 ```
-      
+ 
+ <hr>
+ 
+### III-C. HW - *Firebase Highscore App* walkthrough
 
-
+- [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
+- Believe it or not, there's
 
 
 <hr><hr>
