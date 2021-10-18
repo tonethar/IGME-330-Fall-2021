@@ -131,11 +131,11 @@ onValue(scoresRef,scoresChanged);
 
 - The HW assignments covered quite a bit, but there's still a little bit more about Firebase we'll cover at our next class meeting (because you may need it for P2):
  - `get(path)`
-   - Gets the most up-to-date result for this query.
+   - *Gets the most up-to-date result for this query.*
    - https://firebase.google.com/docs/reference/js/database.md#get
    - returns a *Promise* - remember those?
  - `update(path,values)`
-   - Writes multiple values to the Database at once.
+   - *Writes multiple values to the Database at once.*
    - https://firebase.google.com/docs/reference/js/database.md#update
    - returns a *Promise* - remember those?
 
