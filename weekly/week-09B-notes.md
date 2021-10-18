@@ -7,13 +7,31 @@
 
 <hr>
 
-## II. More Firebase - creatinng a `likes` counter for Dog Names
+## II. More Firebase - creating a `likes` counter for Dog Names
+
+## II-A. Overview
+- What we are going to build is "likes counter" for user submitted dog names
+  - every time a use submits a new dog name, it is added to the `favorites/` path, and given a property of `likes: 1`
+  - if this dog name already exists in Firebase, the `likes` property of that dog name is incremented by 1
+  - here is a screenshot of the completed example app (on the left), and the Fiebase console (on the right)
+
+~[screenshot](../_images/gab-dog-1.jpg)
+
+<hr>
 
 ## II-A. Start Code
 
+**gab-dog-1-start.html**
+
+```html
+
+```
+
+<hr>
 
 ## II-B. Notes
 
+<hr>
 
 ## II-V. Documentation
 - `get(path)`
