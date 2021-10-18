@@ -90,7 +90,18 @@ function writeHighScoreData(userId, game, score) {
 ### III-C. HW - *Firebase Highscore App* walkthrough
 
 - [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md)
-- Believe it or not, there's
+- Believe it or not, there are no new Firebase concepts here - it's just a working example of a (lame) game, and a UI for writing high scores to the cloud
+  - In the first part, we reuse `writeHighScoreData()`, which will `push()` scores to the Firebase `scores/` path, which allows for each user to have mulitple scores on that path
+  - In the second part, we create `writeHighScoreData2()`, which uses `set()` to create a `scores2/userId` path - which means that each `userId` can only have ONE score in the cloud
+
+<hr>
+
+### III-D. HW - *Firebase Highscore Viewer* walkthrough
+
+- [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md)
+- A new **C*R*UD** operation - **Read** !
+
+
 
 
 <hr><hr>
