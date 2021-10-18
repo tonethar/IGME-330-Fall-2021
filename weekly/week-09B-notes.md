@@ -15,7 +15,7 @@
   - if this dog name already exists in Firebase, the `likes` property of that dog name is incremented by 1
   - here is a screenshot of the completed example app (on the left), and the Fiebase console (on the right)
 
-~[screenshot](../_images/gab-dog-1.jpg)
+![screenshot](../_images/gab-dog-1.jpg)
 
 <hr>
 
