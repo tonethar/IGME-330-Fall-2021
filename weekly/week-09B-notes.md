@@ -52,36 +52,36 @@
 
 //
 
-	const writeFavNameData = name => {
-		const db = getDatabase();
-		const favRef = ref(db, 'favorites/' + name);
-		set(favRef, {
-				name,
-				likes: 1
-		});
-	};
+const writeFavNameData = name => {
+  const db = getDatabase();
+  const favRef = ref(db, 'favorites/' + name);
+  set(favRef, {
+      name,
+      likes: 1
+  });
+};
 
-	function favoritesChanged(snapshot){
-		// TODO: clear #favoritesList
-    snapshot.forEach(score => {
-      const childKey = score.key;
-      const childData = score.val();
-      //console.log(childKey,childData);
-			// TODO: update #favoritesList
-    });
-  }
+function favoritesChanged(snapshot){
+  // TODO: clear #favoritesList
+  snapshot.forEach(score => {
+    const childKey = score.key;
+    const childData = score.val();
+    //console.log(childKey,childData);
+    // TODO: update #favoritesList
+  });
+}
 
-	const init = () => {
-		const db = getDatabase();
-  	const favoritesRef = ref(db, 'favorites/');
-		onValue(favoritesRef,favoritesChanged);
+const init = () => {
+  const db = getDatabase();
+  const favoritesRef = ref(db, 'favorites/');
+  onValue(favoritesRef,favoritesChanged);
 	
-		btnSubmit.onclick = () => {
-			writeFavNameData(nameField.value);
-		};
-	};
+  btnSubmit.onclick = () => {
+    writeFavNameData(nameField.value);
+  };
+};
 
-	init();
+init();
 
 </script>
 
