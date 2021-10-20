@@ -176,8 +176,9 @@ const writeFavNameData = name => {
 <hr>
 
 ### II-C. Documentation
-- [`increment(value)`](https://firebase.google.com/docs/reference/kotlin/com/google/firebase/database/ServerValue#increment_1)
+- `increment(value)`
   - *Returns a placeholder value that can be used to atomically increment the current database value by the provided delta.*
+  - https://firebase.google.com/docs/reference/kotlin/com/google/firebase/database/ServerValue#increment_1
 - `get(path)`
    - *Gets the most up-to-date result for this query.*
    - https://firebase.google.com/docs/reference/js/database.md#get
