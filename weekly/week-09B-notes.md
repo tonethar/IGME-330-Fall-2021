@@ -105,11 +105,14 @@ init();
 
 #### 2) - Get "`likes ++`" working the "super easy" way
 
+- We'll use the [`ServerValue.increment()`](https://firebase.google.com/docs/reference/kotlin/com/google/firebase/database/ServerValue#increment_1)
+- You'll need to `import` this function to use it - add `increment` to your ".../firebase-database.js" import
+
 <hr>
 
 #### 3) - Get "`likes ++`" working the "harder" way
 - This technique will use `get()` and `update()`
-- It's not needed for this example (because of `increment(1)` above), but this is good to know how to do in case you want to perform updates other than incrementing
+- It's not technically needed for this example (because of `increment(1)` above), but this is good to know how to do in case you want to perform updates other than incrementing
 
 <hr>
 
