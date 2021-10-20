@@ -1,4 +1,4 @@
-# Week 10A - Intro To Canvas
+# Week 10 - Intro To Canvas
 
 Welcome to day 2! We have quite a bit to cover today. If we don't get to cover everything during the class time, you are expected to get this material by watching the video links at the bottom of this page.
 
