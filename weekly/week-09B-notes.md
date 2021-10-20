@@ -93,6 +93,24 @@ init();
 
 ### II-B. Notes
 
+**gab-dog-1.html**
+
+#### 1) - Get it working
+
+- Add the Firebase/Firebase Realtime Database setup code
+- Display the favorite dogs in `#favoritesList`
+- But note that we can't increment `likes` this way
+
+<hr>
+
+#### 2) - Get "`likes ++`" working the "super easy" way
+
+<hr>
+
+#### 3) - Get "`likes ++`" working the "harder" way
+- This technique will use `get()` and `update()`
+- It's not needed for this example (because of `increment(1)` above), but this is good to know how to do in case you want to perform updates other than incrementing
+
 <hr>
 
 ### II-C. Documentation
