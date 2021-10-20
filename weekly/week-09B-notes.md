@@ -99,7 +99,7 @@ init();
 
 - Add the Firebase/Firebase Realtime Database setup code
 - Display the favorite dogs in `#favoritesList`
-- But note that we can't increment `likes` this way
+- But note that we can't increment `likes` on existing dog names this way
 
 <hr>
 
