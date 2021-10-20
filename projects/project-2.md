@@ -77,3 +77,5 @@
 
 ![screenshot](_images/p2-example-1.png)
 
+- Note the limit of 10 community favorites being displayed at once
+
