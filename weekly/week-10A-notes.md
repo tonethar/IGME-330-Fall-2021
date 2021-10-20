@@ -6,14 +6,9 @@
 
 <hr>
 
-## II. Canvas Concepts (In-class exercise)
+## II. Canvas Concepts - Shape Viewer
 
-- Shape Viewer:
-  - Drawing State Properties: `ctx.fillStyle` & `ctx.strokeStyle` & `ctx.lineWidth`
-  - Draw rectangles with `ctx.fillRect()` & `ctx.strokeRect()`
-  - Draw rectangles with `ctx.beginPath()`, `ctx.closePath()`, `ctx.rect()`
-  - Draw circles with `ctx.arc()`
-  - Draw polygons with `ctx.moveTo()`, `ctx.lineTo()`, `ctx.fill()`
+- [HW - Shape Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer-2211.md)
 
 <hr>
 
