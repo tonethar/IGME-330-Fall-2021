@@ -124,6 +124,8 @@ const writeFavNameData = name => {
 
 <hr>
 
+**gab-dog-2.html**
+
 #### 3) - Get "`likes ++`" working the "harder" way
 - This technique will use `get()` and `update()`
 - It's not technically needed for this example (because of `increment(1)` above), but this is good to know how to do in case you want to perform updates other than incrementing
