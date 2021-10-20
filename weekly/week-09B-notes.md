@@ -107,12 +107,30 @@ init();
 
 - We'll use the [`ServerValue.increment()`](https://firebase.google.com/docs/reference/kotlin/com/google/firebase/database/ServerValue#increment_1)
 - You'll need to `import` this function to use it - add `increment` to your ".../firebase-database.js" import
+- Make `writeFavNameData()` look like this - it's only one small change to the code:
+
+```js
+const writeFavNameData = name => {
+  const db = getDatabase();
+  const favRef = ref(db, 'favorites/' + name);
+  set(favRef, {
+    name,
+    likes: increment(1)
+  });
+};
+```
+
+- test it - incrementing `likes` should now work!
 
 <hr>
 
 #### 3) - Get "`likes ++`" working the "harder" way
 - This technique will use `get()` and `update()`
 - It's not technically needed for this example (because of `increment(1)` above), but this is good to know how to do in case you want to perform updates other than incrementing
+- Make a copy of **gab-dog-1.html** and name it **gab-dog-2.html**
+- XXX
+  - X
+
 
 <hr>
 
