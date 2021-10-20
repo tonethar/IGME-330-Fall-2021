@@ -136,7 +136,7 @@ const writeFavNameData = name => {
 ```js
 // This is the "harder" way and not necessary for incrementing a counter
 // But this code is useful if you want to `get()` a value just once
-// and/or do "batch" updates of non-numeric values
+// and/or do "batch" updates of non-numeric values with `update()`
 const writeFavNameData = name => {
   const db = getDatabase();
   const favRef = ref(db, 'favorites/' + name);
