@@ -128,7 +128,7 @@ const writeFavNameData = name => {
 - This technique will use `get()` and `update()`
 - It's not technically needed for this example (because of `increment(1)` above), but this is good to know how to do in case you want to perform updates other than incrementing
 - Make a copy of **gab-dog-1.html** and name it **gab-dog-2.html**
-- XXX
+- You will need to import `get` and `update` in your ".../firebase-database.js" import
   - X
 
 
