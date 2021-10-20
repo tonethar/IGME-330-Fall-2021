@@ -129,7 +129,46 @@ const writeFavNameData = name => {
 - It's not technically needed for this example (because of `increment(1)` above), but this is good to know how to do in case you want to perform updates other than incrementing
 - Make a copy of **gab-dog-1.html** and name it **gab-dog-2.html**
 - You will need to import `get` and `update` in your ".../firebase-database.js" import
-  - X
+- Here is the new version of `` - we will walk though how this code works:
+
+```js
+// This is the "harder" way and not necessary for incrementing a counter
+// But this code is useful if you want to `get()` a value just once
+// and/or do "batch" updates of non-numeric values
+const writeFavNameData = name => {
+  const db = getDatabase();
+  const favRef = ref(db, 'favorites/' + name);
+
+  // does it already exist?
+  // get will just look once
+  get(favRef).then(snapshot => {
+    let favorite;
+    if (snapshot.exists()) {
+      // if it's already in "favorites/" - update the number of likes
+      favorite = snapshot.val();
+      console.log("found -current values=",favorite);
+      const likes = favorite.likes + 1;
+      const newData = {
+        name,
+        likes
+      };
+      const updates = {};
+      updates['favorites/' + name] = newData;
+      update(ref(db), updates);
+    } else {
+      // if it does not exist, add to "mostFavorited/"
+      console.log(`No favorite of key='${name}' found`);
+      console.log("favorite=",favorite);
+      set(favRef, {
+        name,
+        likes: 1
+      });
+    }
+  }).catch((error) => {
+    console.error(error);
+  });
+}
+```
 
 
 <hr>
