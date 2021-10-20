@@ -29,28 +29,28 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 
 We aren't always going to have video links, but here they are:
 
-- [Week 1B - Canvas Intro-1 (11:40)](https://video.rit.edu/Watch/w7CXx43H):
+- [Canvas Intro-1 (11:40)](https://video.rit.edu/Watch/w7CXx43H):
   - Intro to Canvas2D API
   - Obtaining a drawing *context* with `canvas.getContext("2d")`
   - Canvas2D *convenience method*: `ctx.fillRect()`
   - Canvas2D property: `ctx.fillStyle`
-- [Week 1B - Canvas Intro-2 (13:24)](https://video.rit.edu/Watch/Bs62Kqo5):
+- [Canvas Intro-2 (13:24)](https://video.rit.edu/Watch/Bs62Kqo5):
   - Fill and stroke rectangles, lines & circles
   - Canvas2D methods for describing a path :`ctx.beginPath()`, `ctx.closePath()`, `ctx.rect()`, `ctx.moveTo()`, `ctx.lineTo()` & `ctx.arc()`
   - Canvas2D methods for rendering a path: `ctx.fill()` & `ctx.stroke()`
   - Canvas2D state properties: `ctx.strokeStyle` & `ctx.lineWidth`
-- [Week 1B - Canvas Intro-3 (10:27)](https://video.rit.edu/Watch/j3P6BkYe):
+- [Canvas Intro-3 (10:27)](https://video.rit.edu/Watch/j3P6BkYe):
   - HW Starter code - begin building "ScreenSaver App" (*The 80's are calling and want their flying toasters back!*)
   - utilize helper functions and calling `getRandomColor()` and `getRandomInt()` from the console
   - write a helper function: `drawRandomRect()`
   - animation: `update()` function & `window.requestAnimationFrame()`
-- [Week 1B - Canvas Intro-4 (15:07)](https://video.rit.edu/Watch/d9ZMi3o7):
+- [Canvas Intro-4 (15:07)](https://video.rit.edu/Watch/d9ZMi3o7):
   - keep working on "ScreenSaver App" 
   - Canvas2D *drawing state stack* methods: `ctx.save()` & `ctx.restore()`
   - more helper functions: `drawRandomCircle()`, `drawRandomLine()` & `cls()`
   - Canvas2D *convenience method*: `ctx.clearRect()`
   - `window.setTimeout()`
-- [Week 1B - Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L):
+- [Canvas Intro-5 (08:44)](https://video.rit.edu/Watch/Ri9y7H3L):
   - finish "ScreenSaver App" 
   - Canvas2D property: `ctx.globalAlpha`
   - Demo: ES6 arrow function
