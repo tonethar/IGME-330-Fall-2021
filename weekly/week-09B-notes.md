@@ -95,7 +95,7 @@ init();
 
 **gab-dog-1.html**
 
-#### 1) - Get it working
+#### 1) - Get the basics working
 
 - Add the Firebase/Firebase Realtime Database setup code
 - Display the favorite dogs in `#favoritesList` - see screenshot above for an idea of what it should look like - but in this version, we can't record any more "likes" than 1
