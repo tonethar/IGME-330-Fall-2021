@@ -1,12 +1,21 @@
 # Week 10 - Intro To Canvas
 
 ## I. Overview
-Canvas is a 2D bitmap drawing API that allows the developer to write code that draws shapes and images into a browser window without the need for a plug-in like Flash or Java. 
+- Canvas is a 2D bitmap drawing API that allows the developer to write code that draws shapes and images into a browser window without the need for a plug-in like Flash or Java. 
+- [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
 
-## II. Required Reading & Assignments
-* "Hello Canvas" HW -> [HW-hello-canvas.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-hello-canvas.md)
-* Study Guide-1 -> [HW-SG-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-1.md)
-* Fix The Code-1 (we'll do this in class) -> [HW-fix-the-code-1.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-fix-the-code-1.md)
+<hr>
+
+## II. Canvas Concepts (In-class exercise)
+
+- Shape Viewer:
+  - Drawing State Properties: `ctx.fillStyle` & `ctx.strokeStyle` & `ctx.lineWidth`
+  - Draw rectangles with `ctx.fillRect()` & `ctx.strokeRect()`
+  - Draw rectangles with `ctx.beginPath()`, `ctx.closePath()`, `ctx.rect()`
+  - Draw circles with `ctx.arc()`
+  - Draw polygons with `ctx.moveTo()`, `ctx.lineTo()`, `ctx.fill()`
+
+<hr>
 
 ## III. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
@@ -17,10 +26,9 @@ Canvas is a 2D bitmap drawing API that allows the developer to write code that d
 - https://www.w3.org/TR/2dcontext/
 - https://html.spec.whatwg.org/multipage/canvas.html#2dcontext
 
-## IV. Presentations
-- [Intro-to-Canvas.pdf](https://github.com/tonethar/IGME-330-Master/blob/master/presentations/Intro-to-Canvas.pdf)
+<hr>
 
-## V. HW & Videos
+## IV. HW & Videos
 - [Canvas 2D Essential Skills #1 - Intro to the Drawing Context](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-canvas-intro-to-drawing-context.md)
 - [Canvas 2D Essential Skills #2 - Paths & Lines & Arcs](https://github.com/tonethar/IGME-330-Master/blob/master/notes/2-canvas-paths-lines-arcs.md)
 - [Canvas 2D Essential Skills #3 - Begin making a screensaver](https://github.com/tonethar/IGME-330-Master/blob/master/notes/3-begin-making-screensaver.md)
