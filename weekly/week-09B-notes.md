@@ -129,7 +129,7 @@ const writeFavNameData = name => {
 - It's not technically needed for this example (because of `increment(1)` above), but this is good to know how to do in case you want to perform updates other than incrementing
 - Make a copy of **gab-dog-1.html** and name it **gab-dog-2.html**
 - You will need to import `get` and `update` in your ".../firebase-database.js" import
-- Here is the new version of `` - we will walk though how this code works:
+- Here is the new version of `writeFavNameData()` - we will walk though how this code works:
 
 ```js
 // This is the "harder" way and not necessary for incrementing a counter
