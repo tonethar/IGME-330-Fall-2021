@@ -148,7 +148,7 @@ const writeFavNameData = name => {
     if (snapshot.exists()) {
       // if it's already in "favorites/" - update the number of likes
       favorite = snapshot.val();
-      console.log("found -current values=",favorite);
+      console.log("found - current values=",favorite);
       const likes = favorite.likes + 1;
       const newData = {
         name,
