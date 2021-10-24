@@ -32,12 +32,12 @@
   - Docs:
     - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
     - https://en.wikipedia.org/wiki/Canvas_element
-    - **Get a *drawing context***
+    - Get a *drawing context*
       - [`canvas.getContext("2d")`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/getContext)
-    - **Canvas *convenience* methods**:
+    - Canvas *convenience* methods:
       - [`ctx.fillRect()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/fillRect)
       - [`ctx.strokeRect()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/strokeRect)
-    - **Canvas *drawing state* properties**:
+    - Canvas *drawing state* properties:
       - [`ctx.fillStyle`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/fillStyle)
       - [`ctx.strokeStyle`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/strokeStyle)
       - [`ctx.lineWidth`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineWidth)
