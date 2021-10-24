@@ -56,7 +56,11 @@
     - [`ctx.lineTo()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineTo)
   - Arc methods:
     - [`ctx.arc()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/arc)
-- 3 - [Canvas 2D Essential Skills #3 - Begin making a screensaver](https://github.com/tonethar/IGME-330-Master/blob/master/notes/3-begin-making-screensaver.md)
+- 3 - [Canvas 2D Essential Skills #3 - Begin making a screensaver](https://github.com/tonethar/IGME-330-Master/blob/master/notes/3-begin-making-screensaver.md):
+  - Concepts:
+    - aninmation & writing a helper function
+  - Docs:
+    - [`window.requestAnimationFrame()`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 - 4 - [Canvas 2D Essential Skills #4 - Adding Controls](https://github.com/tonethar/IGME-330-Master/blob/master/notes/4-adding-controls.md)
 - 5 - [Canvas 2D Essential Skills #5 - Write some code!](https://github.com/tonethar/IGME-330-Master/blob/master/notes/5-write-some-code.md)
 
