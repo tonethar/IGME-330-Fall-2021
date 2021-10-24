@@ -62,6 +62,14 @@
   - Docs:
     - [`window.requestAnimationFrame()`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 - 4 - [Canvas 2D Essential Skills #4 - Adding Controls](https://github.com/tonethar/IGME-330-Master/blob/master/notes/4-adding-controls.md)
+  - Concepts:
+    - Adding interactivity to our screensaver with a simple UI
+    - Toggling animation on & off
+    - Getting coordinates of where the user clicks on the canvas
+    - Drawing state *stack*
+  - Docs:
+    - [`ctx.save()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/save)
+    - [`ctx.restore()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/restore)
 - 5 - [Canvas 2D Essential Skills #5 - Write some code!](https://github.com/tonethar/IGME-330-Master/blob/master/notes/5-write-some-code.md)
 
 <hr><hr>
