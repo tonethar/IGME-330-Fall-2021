@@ -72,7 +72,9 @@
     - [`ctx.save()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/save)
     - [`ctx.restore()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/restore)
 - 5 - [Canvas 2D Essential Skills #5 - Write some code!](https://github.com/tonethar/IGME-330-Master/blob/master/notes/5-write-some-code.md)
-
+  - No video
+  - You will writing code that creates new helper functions and UI
+  - Recommendation: this should not be particularly difficult, but don't put it off until an hour before it's due
 <hr><hr>
 
 
