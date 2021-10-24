@@ -67,6 +67,7 @@
     - Toggling animation on & off
     - Getting coordinates of where the user clicks on the canvas
     - Drawing state *stack*
+    - "Pure" functions with no "side effects" - https://en.wikipedia.org/wiki/Pure_function
   - Docs:
     - [`ctx.save()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/save)
     - [`ctx.restore()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/restore)
