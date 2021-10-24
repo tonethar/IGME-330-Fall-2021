@@ -43,8 +43,9 @@
       - [`ctx.lineWidth`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineWidth)
 - 2 - [Canvas 2D Essential Skills #2 - Paths & Lines & Arcs](https://github.com/tonethar/IGME-330-Master/blob/master/notes/2-canvas-paths-lines-arcs.md):
   - Concepts:
+    - Creating rectangle, line and circle (arc) *paths*
     - Filling and stroking the *current path*
-  - Path methods:
+  - Get started with paths:
     - [`ctx.beginPath()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/beginPath)
     - [`ctx.closePath()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/closePath)
     - [`ctx.rect()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/rect)
