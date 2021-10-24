@@ -24,7 +24,7 @@
 <hr>
 
 ## IV. HW & Videos
-- [<u>Canvas 2D Essential Skills #1 - Intro to the Drawing Context</u>](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-canvas-intro-to-drawing-context.md):
+- <u>[Canvas 2D Essential Skills #1 - Intro to the Drawing Context](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-canvas-intro-to-drawing-context.md)</u>:
   - Concepts:
     - What is canvas?
     - Alternative drawing APIs
