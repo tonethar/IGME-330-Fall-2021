@@ -6,24 +6,18 @@
 
 <hr>
 
-## II. Breakout for 10B - Shape Viewer
-
-- [HW - Shape Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer-2211.md)
-
-<hr>
-
-## III. Reference
+## II. Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
 
-### III-A. The canvas specification
+### II-A. The canvas specification
 *When in doubt, read the spec!*
 - https://www.w3.org/TR/2dcontext/
 - https://html.spec.whatwg.org/multipage/canvas.html#2dcontext
 
 <hr>
 
-## IV. HW & Videos
+## III. HW & Videos
 - 1 - [**Canvas 2D Essential Skills #1 - Intro to the Drawing Context**](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-canvas-intro-to-drawing-context.md):
   - Concepts:
     - What is canvas?
@@ -75,6 +69,13 @@
   - No video
   - You will writing code that creates new helper functions and UI
   - Recommendation: this should not be particularly difficult, but don't put it off until an hour before it's due
+
+<hr>
+
+## IV. Breakout Activity for 10B - Shape Viewer
+
+- [HW - Shape Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer-2211.md)
+
 <hr><hr>
 
 
