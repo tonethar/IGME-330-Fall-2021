@@ -6,7 +6,7 @@
 
 <hr>
 
-## II. Canvas Concepts - Shape Viewer
+## II. Breakout for 10B - Shape Viewer
 
 - [HW - Shape Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer-2211.md)
 
