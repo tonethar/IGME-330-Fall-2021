@@ -1,4 +1,4 @@
-# Week 11 - "Creative Coding" with Canvas
+# Week 11A - "Creative Coding" with Canvas
 
 ## I. Animating Period Functions & Algorithmic Botany
 
