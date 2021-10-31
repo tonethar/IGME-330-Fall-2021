@@ -9,7 +9,7 @@
 
 <hr>
 
-## II. Extra Credit Opportunities - You MUST complete at least one 
+## II. Extra Credit Opportunities - You MUST complete at least ONe of these 
 - Three extra credit assignments - these are potential Project 3 "starters":
   - they are all bonus "extra credit" items
   - see myCourses for due dates
