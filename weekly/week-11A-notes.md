@@ -6,7 +6,7 @@
   - [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
   - [HW - Algorithmic Botany](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-algorithmic-botany.md) 
 - ***DUE DATE: These are both due before the start fo our next class meeting***
-- 
+
 <hr>
 
 ## II. Extra Credit Opportunities - You MUST complete at least one 
