@@ -5,7 +5,7 @@
 - In-class Activity/Checkoffs:
   - [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
   - [HW - Algorithmic Botany](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-algorithmic-botany.md) 
-- ***DUE DATE: These are both due before the start fo our next class meeting***
+- ***DUE DATE: These are both due before the start of our next class meeting***
 
 <hr>
 
