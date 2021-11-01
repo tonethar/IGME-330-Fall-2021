@@ -12,7 +12,19 @@
     - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineJoin
     - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setLineDash
     - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/arcTo
-- 7 - []()
+- 7 - [Canvas 2D Essential Skills #7 - Bezier curves and gradients](https://github.com/tonethar/IGME-330-Master/blob/master/notes/7-bezier-curves-and-gradients.md)
+  - Concepts:
+    - creating linear and radial gradients - `ctx.createLinearGradient()`, `ctx.createRadialGradient()`, and `ctx.addColorStop()`
+    - creating bezier curves - `ctx.quadraticCurveTo()`, `ctx.bezierCurveTo()`
+   - Docs:
+     - Gradients:
+       - [`ctx.createLinearGradient()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/createLinearGradient)
+       - [`ctx.createRadialGradient()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/createRadialGradient)
+       - [`ctx.addColorStop()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasGradient/addColorStop)
+     - Bezier Curves:
+       - [`ctx.quadraticCurveTo()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/quadraticCurveTo)
+       - [`ctx.bezierCurveTo()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/bezierCurveTo)
+
 
 
 
