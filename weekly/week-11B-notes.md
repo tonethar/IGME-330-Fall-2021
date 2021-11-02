@@ -1,7 +1,7 @@
 # Week 11B - More Canvas / Canvas Transformations
 
 ## I. More Canvas Core Skills
-- 6 - [**Canvas 2D Essential Skills #6 - Review & More About Paths**](https://github.com/tonethar/IGME-330-Master/blob/master/notes/6-review-and-more-about-paths.md):
+- 6 - [**Canvas 2D Essential Skills #6 - Review & More About Paths**](https://github.com/tonethar/IGME-330-Master/blob/master/notes/6-review-and-more-about-paths.md)
   - Concepts:
     - Canvas Review (getting a context, creating paths, drawing rectangles, circles, lines, polygons)
     - Drawing a "ring"
@@ -25,7 +25,15 @@
        - [`ctx.quadraticCurveTo()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/quadraticCurveTo)
        - [`ctx.bezierCurveTo()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/bezierCurveTo)
 - 8 - [**Canvas 2D Essential Skills #8 - Canvas Transformations**](https://github.com/tonethar/IGME-330-Master/blob/master/notes/8-canvas-transformations.md)
-
+  - Concepts:
+    - Transformations: `ctx.translate()`, `ctx.rotate()`, `ctx.scale()`
+    - Managing transformations with `ctx.save()` and `ctx.restore()`
+  - Docs:
+    - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Transformations
+    - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/translate
+    - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/rotate
+    - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/scale
+    - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setTransform
 
 
 
