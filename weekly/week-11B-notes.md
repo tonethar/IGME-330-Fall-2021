@@ -24,7 +24,7 @@
      - Bezier Curves:
        - [`ctx.quadraticCurveTo()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/quadraticCurveTo)
        - [`ctx.bezierCurveTo()`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/bezierCurveTo)
-
+- 8 - [**Canvas 2D Essential Skills #8 - Canvas Transformations**](https://github.com/tonethar/IGME-330-Master/blob/master/notes/8-canvas-transformations.md)
 
 
 
