@@ -26,4 +26,4 @@
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-10-notes.md**](week-10A-notes.md)     |  [**IGME-330 Schedule**](../schedule.md) | :-/
+| [**week-10-notes.md**](week-10A-notes.md)     |  [**IGME-330 Schedule**](../schedule.md) | [**week-11B-notes.md**](week-11B-notes.md)
