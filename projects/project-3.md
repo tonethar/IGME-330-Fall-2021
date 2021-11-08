@@ -4,7 +4,7 @@
 
 [II. Structure](#structure)
 
-[III. Design & Interaction (*All pages*)](#structure)
+[III. Design & Interaction (*All pages*)](#design-interaction)
 
 [IV. Content](#content)
 
@@ -59,7 +59,7 @@ For this project you are creating a JavaScript driven Web application that utili
 4) You might also have **fonts/**, **images/** or **data/** or **src/components/** folders
 
 
-<a id="page-design-interaction" />
+<a id="design-interaction" />
 
 <hr>
 
