@@ -28,15 +28,20 @@
  
 ### I-B. Technologies
  - Must use:
+   - JavaScript/ES6 Modules
    - Canvas
    - Bulma
    - Web Components
-   - ES6 Modules
 - Must have:
-  - 3 HTML pages (**about.html**, **app.html**, **documentation.html**)
-  - 3 web components:
-    - One of these will be a global navigation component
-  - Controls so that the user can interact with the experience
-    - There will control *presets* that the user can choose between - these will be soted in a JSON file (ex. **presets.json**, **levels.json** etc) and loaded via the `fetch()` API
+  - 3 HTML pages
+    - about.html
+    - app.html
+    - documentation.html
+  - 3 web components
+    - One of these MUST be a global navigation component
+  - multiple (at least 3) user interface *controls* and/or widgets so that the user can interact with the experience
+  - *presets* that the user can choose between
+    - these will be stored in a JSON file (ex. **presets.json**, **levels.json** etc) and loaded via the `fetch()` API
+    - see **presets-demo.zip** in myCourses
 
 
