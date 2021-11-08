@@ -13,9 +13,6 @@
 
 [V. Sandbox App Functionality & User Experience](#functionality):
 
-
-- [Design & Interaction requirements for ALL pages](#page-design-interaction)
-
 [VI. Code](#code)
 
 [VII. Media](#media)
@@ -147,6 +144,67 @@ For this project you are creating a JavaScript driven Web application that utili
 <hr>
 
 ## V. Sandbox App Functionality & User Experience (*App page*)
+
+- Explore **one** of the *themes* that we covered in class:
+  - *Randomness*:
+    - Random walks --> see [HW-random-walker.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
+  - *Dynamical Systems*:
+    - Chaotic Systems --> see [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
+    - Periodic functions --> see [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
+    - Phyllotaxis --> see [HW - Algorithmic Botany](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-algorithmic-botany.md)
+  - *Emergence*:
+    - Conway's *Game of Life* --> see [HW - Life](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-life.md)
+    - Reaction Diffusion --> RESOURCE: Coding Train [Coding Challenge #13: Reaction Diffusion Algorithm in p5.js](https://www.youtube.com/watch?v=BV9ny785UNc)
+  - **OR** ??? (getting permission in advance is required) - here are some ideas:
+    - Evolution - YouTube [Primer's Evolution Playlist](https://www.youtube.com/watch?v=oDvzbBRiNlA&list=PLKortajF2dPBWMIS6KF4RLtQiG6KQrTdB)
+    - Economic - YouTube [Primer's Economics Playlist](https://www.youtube.com/watch?v=PNtKXWNKGN8&list=PLKortajF2dPCAHWOVNqWY2DSEdoyyj1eV)
+    - Generative Art - here's a great blog post to give you some ideas --> https://www.artnome.com/news/2018/8/8/why-love-generative-art
+    - Particle systems/falling sand app: 
+      - https://github.com/pineapplemachine/websand
+      - https://modernweb.com/creating-particles-in-html5-canvas/  (BUT, you will need to convert this code to ES6 classes)
+    - https://medium.com/better-programming/heres-what-i-learned-from-30-days-of-creative-coding-a-codevember-retrospective-8c05a8497d24
+    - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
+    - Shiffman, of course: https://www.youtube.com/user/shiffman/featured
+  - *Sprites* - do you need sprites for your Project? - [canvas-6.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md) might help!
+  - **Audio Visualizer?**
+    - See the myCourses dropboxes for a 3-part "starter":
+      - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-1.md
+      - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-2.md
+      - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-3.md
+      - https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md
+  
+  <a id="game" />
+  
+  - **Game?**
+    - An interactive game, most likely in the "casual" genre, is also acceptable as a project
+    - We like this definition of a game:
+        - *"A game is a series of interesting choices"* - https://en.wikiquote.org/wiki/Sid_Meier - and you should strive to give your players some - examples:
+          - *"When should I use one of my limited supply of  smart bombs to clear the screen?"*
+          - *"Do I try to grab the powerup, or avoid that projectile?"*
+          - *"Should I build a farm, or wait to save up enough to build a factory?"*
+    - Other elements found in fun games you will probably have in yours:
+      - A difficulty level that's not too hard, nor too easy
+      - Score
+      - Levels
+      - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" aka [Smooth Keyboard Control](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md#vi-demos) demo)
+      - *Feedback loops* that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
+      - *Emergent gameplay/complexity* (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
+- *Impact:*
+  - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective.
+    - or if adding game elements, be sure that the controls allow for the player to control the elements of the game to the greatest reasonable degree, possibly allowing for "options" in the way that the game can be played (for example, adjusting difficulty with a slider).
+  - The app must do something that would be meaningful to the user, allowing them to explore the chosen theme in a compelling way
+  - The code & functionality must go significantly beyond any of the provided "starter" code above
+  - The creator of this app should take this assignment seriously ("engage"!) and do their **best work**
+  - Here are some examples of the reverse (e.g. these are *counter examples* to be avoided):
+    - not implementing specific requirements in the [rubric](#rubric) below
+    - barely meeting "the minimum" on many elements of the rubric - for example:
+      - writing *exactly* 3 utility functions
+      - creating *exactly* 3 controls
+      - using *exactly* 3 semantic HTML elements
+      - having *exactly* 5 CSS style rules 
+      - and so on, rather than letting the amount of these to be driven by what the app requires to work well and look good
+    - copying/pasting CSS styles and layout from the demos and exercises, rather than creating their own
+    - minimal modification/extension of the in-class code that was provided
 
 
 <hr>
