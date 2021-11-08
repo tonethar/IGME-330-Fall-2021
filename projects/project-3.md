@@ -138,6 +138,7 @@
 
 ## V. Sandbox App Functionality & User Experience (*App page*)
 
+### V-A. Themes
 - Explore **one** of the *themes* that we covered in class:
   - *Dynamical Systems*:
     - Chaotic Systems --> see [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
@@ -182,11 +183,19 @@
       - *Feedback loops* that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
       - *Emergent gameplay/complexity* (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
 
+<hr>
+
+### V-B. Functional Requirements
+
+- At least 3 controls that affect the user experience in a significant way
+- Presets (see week 13 presets demo):
+  - ex. Game Difficulty Settings (Easy/Normal/Impossible)
+  - ex. Audio Visualizer Settings (slider positions, radio button and checkbox state)
 
 
 <hr>
 
-### V-A. Impact
+### V-C. Impact
 
   - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective.
     - or if adding game elements, be sure that the controls allow for the player to control the elements of the game to the greatest reasonable degree, possibly allowing for "options" in the way that the game can be played (for example, adjusting difficulty with a slider).
@@ -205,6 +214,7 @@
     - minimal modification/extension of the in-class code that was provided
 
 
+
 <a id="code" />
 
 <hr>
@@ -219,7 +229,7 @@
       - your modules will use the [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and/or [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) keywords as needed
  
 2) Ajax
-    - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API):
+    - Use [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) to load "presets" data (see week 13 presets demo):
       - you may use `.then()` or `await` according to your preference
       - you MUST handle errors with either `.catch()` or `try/catch`
       - *do NOT use `XHR` or `jQuery.ajax()` with this project*
