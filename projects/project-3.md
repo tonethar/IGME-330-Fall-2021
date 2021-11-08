@@ -139,8 +139,6 @@
 ## V. Sandbox App Functionality & User Experience (*App page*)
 
 - Explore **one** of the *themes* that we covered in class:
-  - *Randomness*:
-    - Random walks --> see [HW-random-walker.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-random-walker.md)
   - *Dynamical Systems*:
     - Chaotic Systems --> see [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
     - Periodic functions --> see [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
