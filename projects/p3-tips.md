@@ -1,0 +1,34 @@
+# Project 3 - *Interactive Sandbox of Awesomeness* - Tips & Tricks
+
+## Notes:
+
+- [Project 3 Requirements](project-3.md)
+- [Project 3 Coding Standards](code-style.md)
+- We will keep updating this page - so check back periodically!
+
+<hr>
+
+## I. Executive Summary of Project
+
+### I-A. Theme
+
+- "You will create a compelling interactive media experience that allows the user to explore a media-related theme  (of your choice) - examples:
+  - An audio visualizer - perhaps enhanced by user interaction via Teachable Machine --> https://teachablemachine.withgoogle.com/train
+  - A game - *Cage Clicker* could be a good start on one --> https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-cage-clicker-1.md
+  - A simulation:
+    - Evolution - YouTube [Primer's Evolution Playlist](https://www.youtube.com/watch?v=oDvzbBRiNlA&list=PLKortajF2dPBWMIS6KF4RLtQiG6KQrTdB)
+  - Generative Art/Dynamical Systems/Emergence:
+    - Here's a great blog post to give you some ideas --> https://www.artnome.com/news/2018/8/8/why-love-generative-art
+    - [Intro to Creative Coding](https://github.com/mattdesl/workshop-p5-intro/blob/master/README.md)
+    - Chaotic Systems --> see [HW - Lorenz Attractor](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-lorenz-attractor.md)
+    - Periodic functions --> see [HW - Sine Wave](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
+    - Phyllotaxis --> see [HW - Algorithmic Botany](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-algorithmic-botany.md)
+    - Conway's *Game of Life* --> see [HW - Life](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-life.md)
+    - Reaction Diffusion --> RESOURCE: Coding Train [Coding Challenge #13: Reaction Diffusion Algorithm in p5.js]
+ 
+### I-B. Technologies
+ - Must use:
+   - Bulma
+   - Web Components
+   - 
+
