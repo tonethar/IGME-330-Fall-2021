@@ -81,11 +81,7 @@
 5) User errors must be handled gracefully:
     - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
     
-6) Users must know what *state* the app is in at all times:
-    - for example, when they click the search button, there should some indication that a search is happening:
-      - text that says "Searching for 'Tacos' near you" and so on
-      - a "spinner" or other "indeterminate progress" animation --> [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
-      - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
+6) Users must know what *state* the app is in at all times
       
 <a id="content"/>
 
