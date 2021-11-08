@@ -1,4 +1,4 @@
-# Project 3 - *Interactive Sandbox of Awesomeness* - Tips & Tricks
+# Project 3 - *Interactive Sandbox of Awesomeness* - Overview & Tips
 
 ## Notes:
 
