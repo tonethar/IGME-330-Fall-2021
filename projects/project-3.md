@@ -247,7 +247,10 @@ For this project you are creating a JavaScript driven Web application that utili
 <a id="media"/>
 
 ## VII. Media
-
+- Procedural drawing via the [CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) that we have been utilizing in class is required. (Processing, Pixi.js, WebGL *et al* are NOT allowed):
+  - canvas methods must be used for rectangles, arcs and lines
+  - `ctx.save()` and `ctx.restore()` must be used
+  - avoid using canvas convenience methods such `ctx.fillRect()` and `ctx.strokeRect()`
 - HTML Validation
 - CSS Validation
 - Images optimized:
