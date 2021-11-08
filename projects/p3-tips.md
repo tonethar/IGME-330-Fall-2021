@@ -47,5 +47,8 @@
     - ex. Game Difficulty Settings (Easy/Normal/Impossible)
     - ex. Audio Visualizer Settings (slider positions, radio button and checkbox state)
     - ex. Conway's Game of Life patterns
-
-
+ - Must demonstrate:
+   - ***IMPACT*** and go beyond what we've done in class
+   - The app must do something that would be meaningful to the user, allowing them to explore the chosen theme in a compelling way
+   - The code & functionality must go significantly beyond any of the provided "starter" code above
+   - The creator of this app should take this assignment seriously ("engage"!) and do their best work
