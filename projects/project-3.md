@@ -168,6 +168,7 @@
   
   - **Game?**
     - An interactive game, most likely in the "casual" genre, is also acceptable as a project
+    - *Cage Clicker* could be a good starter -  https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-cage-clicker-1.md
     - We like this definition of a game:
         - *"A game is a series of interesting choices"* - https://en.wikiquote.org/wiki/Sid_Meier - and you should strive to give your players some - examples:
           - *"When should I use one of my limited supply of  smart bombs to clear the screen?"*
