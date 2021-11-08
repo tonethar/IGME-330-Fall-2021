@@ -37,7 +37,7 @@
     - the soundness of your programming
     - meeting the requirements detailed below
     - how far you went beyond what we did in class, as described below
-  - Also see [Project 3 - Interactive Sandbox of Awesomeness - Tips & Tricks](p3-tips.md)
+  - Also see [Project 3 - Interactive Sandbox of Awesomeness - Overview & Tips](p3-overview-and-tips.md)
 
 <hr>
 
