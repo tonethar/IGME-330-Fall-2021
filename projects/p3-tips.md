@@ -40,7 +40,7 @@
   - 3 web components
     - One of these MUST be a global navigation component
   - multiple (at least 3) user interface *controls* and/or widgets so that the user can interact with the experience
-  - *presets* data loaded from a JSON file
+  - app data loaded from a JSON file
     - rather than hard-coding values in your JS, data that your app depends on will be stored in a JSON file (ex. **presets.json**, **levels.json** etc) and loaded via the `fetch()` API
     - see **presets-demo.zip** in myCourses
     - ex. Game Difficulty Settings (Easy/Normal/Impossible)
