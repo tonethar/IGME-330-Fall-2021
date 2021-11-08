@@ -275,7 +275,7 @@
   - don't forget to "Share Screen" so that I can see you interacting with the project
   - don't forget to record your narration too, and try to use a better microphone than the one that came with your laptop `:-)`
 - Please don't stress out over this requirement - I am the only one who will see the video - I won't be sharing or posting these
-- **10% deducted from project 1 grade if this video requirement is not completed**
+- **10% deducted from project grade if this video requirement is not completed**
 
 
 
