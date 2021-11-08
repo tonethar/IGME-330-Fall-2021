@@ -27,15 +27,12 @@
 
 ## I. Overview
 
-For this project you are creating a JavaScript driven Web application that utilizes one or more Web services.
-
-- Your goal is to create an application that does something useful, and is easy to use, functional, and aesthetically pleasing
-- The app should serve a purpose - i.e it should be useful to *someone*
-- It should be (or approaching) "portfolio quality" - something you would not be embarrassed to show a potential employer
-- Let's call the 3 lines above "Impact" - which is what your app should have
-- Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
-- The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS "rich media" programming in a web browser context
-- You will be evaluated on:
+- You will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice)
+  - It should be (or approaching) "portfolio quality" - something you would not be embarrassed to show a potential employer
+  - Let's call the 3 lines above "Impact" - which is what your app should have
+  - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
+  - The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS/Canvas "rich media" programming in a web browser context
+  - You will be evaluated on:
     - the quality of the experience you create
     - the soundness of your programming
     - meeting the requirements detailed below
