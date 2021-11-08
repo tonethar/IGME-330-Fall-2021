@@ -181,7 +181,13 @@
       - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" aka [Smooth Keyboard Control](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md#vi-demos) demo)
       - *Feedback loops* that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
       - *Emergent gameplay/complexity* (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
-- *Impact:*
+
+
+
+<hr>
+
+### V-A. Impact
+
   - This app is an *interactive sandbox*, similar to a physical sandbox where the user can experiment, create and destroy with no given objective.
     - or if adding game elements, be sure that the controls allow for the player to control the elements of the game to the greatest reasonable degree, possibly allowing for "options" in the way that the game can be played (for example, adjusting difficulty with a slider).
   - The app must do something that would be meaningful to the user, allowing them to explore the chosen theme in a compelling way
@@ -199,20 +205,9 @@
     - minimal modification/extension of the in-class code that was provided
 
 
-<hr>
-
-### V-A. Functional Requirements 
-
-1. On the app page, you WILL automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
-    - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
-    - we are going to test this capability by typing in a search term, selecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
-    - ***\*THIS REQUIREMENT HAS BEEN DEFERRED TO [PROJECT 2](project-2.md)\****
-
-2. Other required controls - there WILL be a MINIMUM of 3 controls that a user can use to affect the experience
-<hr>
-
-
 <a id="code" />
+
+<hr>
 
 ## VI. Code
 
