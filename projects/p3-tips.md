@@ -12,7 +12,7 @@
 
 ### I-A. Theme
 
-- "You will create a compelling interactive media experience that allows the user to explore a media-related theme  (of your choice) - examples:
+- "*You will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice)*" - examples:
   - An audio visualizer - perhaps enhanced by user interaction via Teachable Machine --> https://teachablemachine.withgoogle.com/train
   - A game - *Cage Clicker* could be a good start on one --> https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-cage-clicker-1.md
   - A simulation:
