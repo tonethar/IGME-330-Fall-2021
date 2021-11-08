@@ -31,6 +31,7 @@
    - Canvas
    - Bulma
    - Web Components
+   - ES6 Modules
 - Must have:
   - 3 HTML pages (**about.html**, **app.html**, **documentation.html**)
   - 3 web components:
