@@ -28,7 +28,14 @@
  
 ### I-B. Technologies
  - Must use:
+   - Canvas
    - Bulma
    - Web Components
-   - 
+- Must have:
+  - 3 HTML pages (**about.html**, **app.html**, **documentation.html**)
+  - 3 web components:
+    - One of these will be a global navigation component
+  - Controls so that the user can interact with the experience
+    - There will control *presets* that the user can choose between - these will be soted in a JSON file (ex. **presets.json**, **levels.json** etc) and loaded via the `fetch()` API
+
 
