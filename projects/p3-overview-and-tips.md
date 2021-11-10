@@ -44,6 +44,7 @@
     - rather than hard-coding values in your JS, data that your app depends on will be stored in a *local* JSON file (ex. **presets.json**, **levels.json** etc)
     - load this local data file via the `fetch()` API
     - see **presets-demo.zip** in myCourses
+    - ex. The instructions for your game or experience
     - ex. Game Difficulty Settings (Easy/Normal/Impossible)
     - ex. Audio Visualizer Settings (slider positions, radio button and checkbox state)
     - ex. Conway's Game of Life patterns
