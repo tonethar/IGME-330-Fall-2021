@@ -4,6 +4,18 @@
 - [Project 3 - *Interactive Sandbox of Awesomeness* - Overview & Tips](../projects/p3-overview-and-tips.md)
 - Project 3 idea is due in myCourses discussion thread at the start of class
 - Project 3 checkpoint is due in myCourses dropbox next Tuesday night
+
+<hr>
+
+## II. Canvas Image Demos & Discussion
+
+- [Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md)
+- [Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
+
+<hr>
+
+## III. Other Demos that might come in handy on P3
+- Don't forget about the "preset demo" in Week 12 of myCourses
 - New code demos that might be helpful:
   - DatGUI - Mimimalist UI
     - zipped file is in myCourses Content section
@@ -22,18 +34,9 @@
     - **game and other demos.zip**
   - translate/rotate demo:
     - zipped file is in myCourses Content section - **clock-done-3.html.zip**
-
 <hr>
 
-## II. Canvas Image Demos & Discussion
-
-- [Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md)
-- [Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
-
-
-<hr>
-
-## III. Other Stuff
+## IV. Other Stuff
 
 - Next week's class (11/22/21 & 11/23/21) are *optional* work days
 
