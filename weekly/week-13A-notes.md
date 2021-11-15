@@ -39,6 +39,7 @@
 ## IV. Other Stuff
 
 - Next week's class (11/22/21 & 11/23/21) are *optional* work days
+  - the Prof will be online in Zoom, but won't be taking attendance
 
 <hr><hr>
 
