@@ -2,7 +2,7 @@
 
 ## I. Project 3
 - [Project 3 - *Interactive Sandbox of Awesomeness* - Overview & Tips](../projects/p3-overview-and-tips.md)
-- Project 3 idea is due in myCourss discussion thread at the start of class
+- Project 3 idea is due in myCourses discussion thread at the start of class
 - Project 3 checkpoint is due in myCourses dropbox next Tuesday night
 - New code demos that might be helpful:
   - DatGUI - Mimimalist UI - see myCourses Content section
