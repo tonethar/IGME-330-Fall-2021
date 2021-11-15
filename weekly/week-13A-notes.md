@@ -30,6 +30,13 @@
 - [Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md)
 - [Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
 
+
+<hr>
+
+## III. Other Stuff
+
+- Next week's class (11/22/21 & 11/23/21) are *optional* work days
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
