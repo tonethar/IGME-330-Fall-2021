@@ -10,7 +10,9 @@
   - Canvas Spritesheet demo:
     - [sprite-sheet-demo-mario.zip](https://github.com/tonethar/IGME-330-Master/blob/master/notes/_files/sprite-sheet-demo-mario.zip)
     - PS - if you use this in your project, you'll probably want to convert this spritesheet code to an ES6 class
-  - Canvas Blending Modes Demo - **kaleidoscope-demo.zip** - see myCourses
+  - Canvas Blending Modes demos (see myCourses):
+    - **kaleidoscope-demo.zip**
+    - **globalCompositeOperationDemo.zip**
 
 <hr>
 
