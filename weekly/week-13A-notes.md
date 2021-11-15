@@ -15,8 +15,10 @@
     - zipped files are in myCourses Content section
     - **kaleidoscope-demo.zip**
     - **globalCompositeOperationDemo.zip**
-  - mouse & canvas demo:
-    - zipped file is in myCourses Content section - **old Speed Circles HW.zip**
+  - mouse & canvas demos:
+    - zipped files are in myCourses Content section
+    - **old Speed Circles HW.zip**
+    - **old Paint App ICE.zip**
   - translate/rotate demo:
     - zipped file is in myCourses Content section - **clock-done-3.html.zip**
 
