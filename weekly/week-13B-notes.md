@@ -3,7 +3,7 @@
 
 ## I. Project 3
 - [Project 3 - *Interactive Sandbox of Awesomeness* - Overview & Tips](../projects/p3-overview-and-tips.md)
-- Project 3 checkpoint is due in myCourses dropbox next Tuesday night
+- Reminder: Project 3 checkpoint is due in myCourses dropbox next Tuesday night
 
 <hr>
 
