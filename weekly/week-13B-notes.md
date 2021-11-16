@@ -9,6 +9,7 @@
 
 ## II. JavaScript Prototype Chain
 
+- [JavaScript Objects & the JavaScript Prototype Chain](https://github.com/tonethar/IGME-330-Master/blob/master/notes/js-prototype-chain.md)
 
 <hr>
 
