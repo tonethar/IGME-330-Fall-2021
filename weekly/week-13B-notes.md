@@ -1,5 +1,5 @@
 
-# Week 13B - Canvas & Images
+# Week 13B - More JavaScript
 
 ## I. Project 3
 - [Project 3 - *Interactive Sandbox of Awesomeness* - Overview & Tips](../projects/p3-overview-and-tips.md)
