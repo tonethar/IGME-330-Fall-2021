@@ -64,7 +64,7 @@
 <hr>
 
 
-### III. Design & Interaction (*All pages*)
+## III. Design & Interaction (*All pages*)
 
 1) Global Navigation System with "you are here" cues
 
@@ -244,9 +244,7 @@
       - you MUST handle errors with either `.catch()` or `try/catch`
       - *do NOT use `XHR` or `jQuery.ajax()` with this project*
 
-3) `localStorage` - you have already done this in IGME-235 - [9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
-
-4) Utilize at least 3 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) classes in your project
+3) Utilize at least 3 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) classes in your project
 
     
 <hr>
@@ -254,17 +252,19 @@
 <a id="media"/>
 
 ## VII. Media
-- Procedural drawing via the [CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) that we have been utilizing in class is required. (Processing, Pixi.js, WebGL *et al* are NOT allowed):
-  - canvas methods must be used for rectangles, arcs and lines
-  - `ctx.save()` and `ctx.restore()` must be used
+- Must use the [Bulma](https://bulma.io/) CSS framework
+- Procedural drawing by *directly accessing* the [CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) that we have been utilizing in class is required. (Processing, Pixi.js, WebGL *et al* are NOT allowed):
+  - canvas methods must be used to draw rectangles, lines, arcs, curves, images and so on depending on the needs of your project
+  - `ctx.save()` and `ctx.restore()` MUST be used frequently/where appropriate (for example, in functions that modify the drawing state in some way)
+  - `ctx.translate()`, `ctx.rotate()`. and `ctx.scale()` will probably be used
   - avoid using canvas convenience methods such `ctx.fillRect()` and `ctx.strokeRect()`
-- HTML Validation
-- CSS Validation
+- All pages must pass HTML Validation
+- All pages must pass CSS Validation
 - Images optimized:
   - jpeg,gif,png only
   - scaled down to appropriate dimensions for web delivery
   - *for example, a not cropped or scaled 12MP 4032 x 3024 image is too big, and not allowed*
- - Uses the [Bulma](https://bulma.io/) CSS framework
+
 
 <a id="video"/>
 
@@ -274,13 +274,13 @@
 
 - A 1 to 2-minute narrated “demo reel” of the completed project is required
 - Post it to YouTube & put the URL in the dropbox comments field
-- If you decide to upload a video file instead, it must be in the MP4 format
+- If you decide to upload a video file instead, it MUST be in the MP4 format
 - The easiest way to record a demo reel is to use Zoom - here is a 2-minute video on how to do this: https://www.youtube.com/watch?v=D617OXKhSYw
   - another popular option for creating videos is [OBS](https://obsproject.com/download)
   - don't forget to "Share Screen" so that I can see you interacting with the project
   - don't forget to record your narration too, and try to use a better microphone than the one that came with your laptop `:-)`
 - Please don't stress out over this requirement - I am the only one who will see the video - I won't be sharing or posting these
-- **10% deducted from project grade if this video requirement is not completed**
+- **10% deducted from project grade if this video requirement is not completed, -5% if I cannot hear or understand you**
 
 
 
