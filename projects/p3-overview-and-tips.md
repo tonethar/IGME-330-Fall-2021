@@ -146,13 +146,15 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 ### IV-D. Sprites
  - Sprites - displayed with either canvas primitives or bitmap data - allow for experiences that are distict from the AV HW
    - see the Week 14 myCourses demo **filter-example-plus-wa.zip** (it utilizes sprites)
+   - [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
 
 ### IV-E. Canvas Blending Modes
+- [Canvas V - Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md)
 
 ### IV-F. Alternative Inputs
 - Web Cam
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md
-- Teachable Machine
+- Teachable Machine (web cam and/or microphone)
   - https://teachablemachine.withgoogle.com/
 - ml5
  - [1 - Machine Learning with ml5 - Image Classification](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-ml-pre-trained-models.md)
