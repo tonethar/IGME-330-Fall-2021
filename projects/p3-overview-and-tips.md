@@ -137,6 +137,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
   - the AV HW just used rectangles and circles (arcs) for drawing  - what else could you use?
   - lines with `ctx.moveTo()` and `ctx.lineTo()`
   - curves with `ctx.arcTo()`, `ctx.bezierCurveTo()`, `ctx.quadraticCurveTo()`
+  - gradients and images - animated or otherwise
 - Resources
   - [Canvas IV - Gradients & Bezier Curves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-4.md)
  
