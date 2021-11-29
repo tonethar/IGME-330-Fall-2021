@@ -180,18 +180,17 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
   - human voices fall into the lower frequencies
   - electronic instruments have a different "shape" than natural instruments
 
-1. Have a good "starting state" to your visualization - the controls should be pre-set to where the visualization has a pleasing state when the user first opens it
+2. Have a good "starting state" to your visualization - the controls should be pre-set to where the visualization has a pleasing state when the user first opens it
 
-1. Don't bore the user - have the visualization periodically change in major ways, automatically. Here's an example: http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
+3. Don't bore the user - have the visualization periodically change in major ways, automatically. Here's an example: http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
 
-1. Give the user controls (sliders, check boxes, pull downs) to effect the visualization. The relationship between what the controls do and what happens on the screen should be obvious
+4. Give the user controls (sliders, check boxes, pull downs) to effect the visualization. The relationship between what the controls do and what happens on the screen should be obvious
 
-1. Other Tips
-
-- Certain drawing could go beyond the raw data for the various bins (frequency ranges), it could instead be aggregate data such as average loudness of all frequencies, or changes in the average of certain frequencies, or tied to beat detection.
-- You can use `ctx.scale()` to squash or stretch shapes - to create ovals for example
-- Effects could implemented on a second canvas like we did in the "Paint" Demo (see mycourses week 13 for files)
-- Not everything has to be drawn at 60 frames/second - use `setTimeout()` or similar to achieve this 
+5. Other Tips:
+  - Certain drawing could go beyond the raw data for the various bins (frequency ranges), it could instead be aggregate data such as average loudness of all frequencies, or changes in the average of certain frequencies, or tied to beat detection.
+  - You can use `ctx.scale()` to squash or stretch shapes - to create ovals for example
+  - Effects could implemented on a second canvas like we did in the "Paint" Demo (see mycourses week 13 for files)
+  - Not everything has to be drawn at 60 frames/second - use `setTimeout()` or similar to achieve this 
    
 
 <a id="game-tips" />
