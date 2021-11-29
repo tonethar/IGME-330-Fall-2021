@@ -128,15 +128,15 @@
     - Exception: you need not cite any IGME-330 resources/tutorials/HWs:
       - but you MUST cite resources from other courses including IGME-235 
   - **JS LIBRARIES** (if applicable):
-    - Link to the library home page
+    - Link to each library's home page
   - **NOTEWORTHY**:
-    - Talk the project up - list the technologies you used (web components, Bulma, fetch, promises, etc)
+    - Talk the project up - list the technologies you used (web components, Bulma, fetch, promises, canvas, specific JS libraries etc)
     - Be sure to emphasize what you did outside of what we covered in class
   - **GRADING**
     - Describe how you met project requirements
     - Describe how you went "above and beyond" project requirements
-    - But don't grade your project here, or ask for a particular grade
-    - In the comments field of the dropbox, DO be sure to self-grade your Project 3 submission
+    - But don't self-grade your project here, or ask for a particular grade
+    - In the comments field of the dropbox, ***DO be sure to self-grade your Project 3 submission***
   - **TO DO**
     - List any features that you would have liked to add to the app if you had time, or might add in the future
 
