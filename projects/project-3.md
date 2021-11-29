@@ -322,6 +322,7 @@ Your project will be graded on the following criteria:
 |    - *Fails HTML Validation* | *(-5)* |
 |    - *Fails CSS Validation* | *(-5)* |
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
+|    - *Missing at least 1 embedded font* | *(-5)* |
 |    - *Images larger than 100KB* | *(-2 each)* |
 | &nbsp; | &nbsp; |
 | **F. Code**  | **&darr; Don't lose points here! &darr;** | |
