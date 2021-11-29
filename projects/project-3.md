@@ -320,8 +320,8 @@ Your project will be graded on the following criteria:
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
-|    4. Procedural drawing by directly accessing the CanvasRenderingContext2D that we have been utilizing in class is required. (Processing, Pixi.js, WebGL et al are NOT allowed) 
-|    5. Canvas API methods must be used to draw rectangles, lines, arcs, curves, images and so on depending on the needs of your project
+|    4. Procedural drawing by directly accessing the `CanvasRenderingContext2D` that we have been utilizing in class is required. (Processing, Pixi.js, WebGL et al are NOT allowed) 
+|    5. Canvas API methods MUST be used to draw rectangles, lines, arcs, curves, images and so on depending on the needs of your project
 |    6. `ctx.save()` and `ctx.restore()` MUST be used frequently/where appropriate
 |    - *Fails HTML Validation* | *(-5)* |
 |    - *Fails CSS Validation* | *(-5)* |
