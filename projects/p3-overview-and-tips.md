@@ -216,7 +216,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
     - Score
     - Levels
     - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" aka [Smooth Keyboard Control](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md#vi-demos) demo)
-    - Sound - both background & incidental - you might not need to use WebAudio - don;t forget about [Howler.js](https://howlerjs.com/) - we used that in Cage Clicker (IGME-330) and Circle Blast (IGME-235)
+    - Sound - both background & incidental - you might not need to use WebAudio - don't forget about [Howler.js](https://howlerjs.com/) - we used that in Cage Clicker (IGME-330) and Circle Blast (IGME-235)
     - *Feedback loops* that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
     - *Emergent gameplay/complexity* (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
 
