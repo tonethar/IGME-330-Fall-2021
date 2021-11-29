@@ -66,7 +66,10 @@
 
 ## III. Design & Interaction (*All pages*)
 
-1) Global Navigation System with "you are here" cues
+1) Global Navigation System:
+    - has "you are here" cues for each page 
+    - implemented with [Bulma](https://bulma.io/)
+    - is a Web Component
 
 2) Pleasing graphic design:
     - must use the [Bulma](https://bulma.io/) CSS framework
@@ -169,25 +172,13 @@
       - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-2.md
       - https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2195-3.md
       - https://github.com/tonethar/IGME-330-Master/blob/master/notes/web-audio-visualizer-home.md
-  
+    - See [Project 3 Overview & Tips - AV Tips](p3-overview-and-tips.md#av-tips)
   <a id="game" />
   
   - **Game?**
     - An interactive game, most likely in the "casual" genre, is also acceptable as a project
     - *Cage Clicker* could be a good starter -  https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-cage-clicker-1.md
-    - We like this definition of a game:
-        - *"A game is a series of interesting choices"* - https://en.wikiquote.org/wiki/Sid_Meier - and you should strive to give your players some - examples:
-          - *"When should I use one of my limited supply of  smart bombs to clear the screen?"*
-          - *"Do I try to grab the powerup, or avoid that projectile?"*
-          - *"Should I build a farm, or wait to save up enough to build a factory?"*
-    - Other elements found in fun games you will probably have in yours:
-      - A difficulty level that's not too hard, nor too easy
-      - Score
-      - Levels
-      - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" aka [Smooth Keyboard Control](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md#vi-demos) demo)
-      - Sound - both background & incidental
-      - *Feedback loops* that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
-      - *Emergent gameplay/complexity* (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
+    - See [Project 3 Overview & Tips - Game Tips](p3-overview-and-tips.md#game-tips)
 
 <hr>
 
@@ -272,7 +263,7 @@
 
 ## VIII. Demo Video
 
-- A 1 to 2-minute narrated “demo reel” of the completed project is required
+- A 1 to 2-minute narrated "demo reel" of the completed project is required
 - Post it to YouTube & put the URL in the dropbox comments field
 - If you decide to upload a video file instead, it MUST be in the MP4 format
 - The easiest way to record a demo reel is to use Zoom - here is a 2-minute video on how to do this: https://www.youtube.com/watch?v=D617OXKhSYw
@@ -320,7 +311,7 @@ Your project will be graded on the following criteria:
 |    - *Fails CSS Validation* | *(-5)* |
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Images larger than 100KB* | *(-2 each)* |
-| **E. [Code](#code)**  | | |
+| **D. [Code](#code)**  | | |
 |    - *ES6 Module pattern not used* | *(-20)* |
 |    - *App data not loaded from external file* | *(-10)* |
 |    - *[Course Code Standards](code-style.md) NOT followed* | *(-1 to -5 per incident)* |
@@ -328,11 +319,6 @@ Your project will be graded on the following criteria:
 |    - *App does not function on banjo and/or locally* | *(-10 to ?)* |
 |    - *App has fewer than 3 web components* | *(-5 each)* |
 |    - *Web component NOT in its own JS file* | *(-5)* |
-| **F. [Impact](#)**  | **20** | |
-|    - If the app meets the requirements above, we will award a 10% in this category, which means the base overall grade is 90% | |
-|    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
-|    - *App UI design goes beyond what we did in class* | *(+1 to +10)* |
-|    - *App is "portfolio quality" (or nearly so)* | *(+1 to +10)* |
 | **Maximum Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if required prototype was not submitted to dropbox on time* | *(-10)* | |
