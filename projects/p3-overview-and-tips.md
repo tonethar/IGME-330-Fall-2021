@@ -110,6 +110,36 @@ V. [Game Tips](#game-tips)
 
 <a id="game-tips" />
 
+### IV-A. Creating reusable functions will help a lot
+
+- DRY - multiple parts of your code can call these functions
+- you can easily modify function parameters and test your ideas
+- your UI can modify these function parameter values
+- examples:
+
+```js
+function drawBars(ctx,audioData,barHeight=200,fillStyle="white", strokeStyle="black",lineWidth=1,numBars){
+...
+}
+
+function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",barHeight=100,startIndex=0,endIndex){
+...
+}
+```
+
+### IV-B. You should go beyond squares, circles and rectangles
+
+- Come up with different canvas drawing and bitmap effects than we did in the HW assignments - ***REMINDER: you will only get credit for code that you wrote*** 
+    - the AV HW just used rectangles and circles (arcs) for drawing  - what else could you use?
+    - lines with `moveTo()` and `lineTo()`
+    - curves with 
+- simple tinting and noise could be replaced with different bitmap effects
+- emboss could be replaced with a different convolution effect
+
+### IV-C. Sprites
+ - Sprites - displayed with either canvas primitives or bitmap data - allow for experiences that are distict from the AV HW
+   - see the Week 14 myCourses demo **filter-example-plus-wa.zip** (it utilizes sprites)
+   - 
 <hr>
 
 ## V. Game Tips
