@@ -192,6 +192,11 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
     - Effects could implemented on a second canvas like we did in the "Paint" Demo (see mycourses week 13 for files)
     - Not everything has to be drawn at 60 frames/second - use `setTimeout()` or similar to achieve this 
    
+6. Get inspired!
+
+    - The power of the canvas is that you can draw *anything* on it!
+    - Try googling "audio visualizations" or "data visualizations" and get some ideas!
+
 
 <a id="game-tips" />
 
