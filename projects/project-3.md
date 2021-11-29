@@ -119,21 +119,23 @@
       - code snippet sites - ex. CodePen or gists.github.com or copying starter code from the Bulma site etc
       - tutorial sites - ex. w3schools.com
       - video sites - ex. YouTube or LinkedIn Learning or Udemy
-      - blog postings etc
+      - blog postings
+      - GitHub sites
+      - etc
     - Exception: you need not cite any IGME-330 resources/tutorials/HWs:
       - but you MUST cite resources from other courses including IGME-235 
-  - API:
-    - Link to the API Home, documentation, and endpoints used (but don't include your API key!)
+  - JS Libraries (if applicable):
+    - Link to the library home page
   - NOTEWORTHY:
     - Talk the project up - list the technologies you used (web components, Bulma, fetch, promises, etc)
     - Be sure to emphasize what you did outside of what we covered in class
   - GRADING
     - Describe how you met project requirements
     - Describe how you went "above and beyond" project requirements
-    - In the comments field of the dropbox, grade your Project 1 submission
+    - But don't grade your project here, or ask for a particular grade
+    - In the comments field of the dropbox, self-grade your Project 3 submission
   - TO DO
-    - List any features that you would have liked to add if you had time
-    - These could potentially be added to the app for Project 2, or over break/summer when you have time
+    - List any features that you would have liked to add to the app if you had time
 
 <a id="functionality"/>
 
