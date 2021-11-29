@@ -298,7 +298,7 @@ Your project will be graded on the following criteria:
 |    3. Does the app have the required controls. Are the widgets well labeled and follow interface conventions? | |
 |    4. Are users able to figure out how to use the app on their own? | |
 |    5. Is the *state* the application is in obvious? | |
-|    6. Does the app run without Errors? | |
+|    6. Does the app run without errors? | |
 |    7. Does the app functionality and programming go beyond what we did in class? | |
 |    8. Is the app at least approaching/approximating "portfolio quality" that you would not hesitate to show a potential employer?  | |
 |    **Overall:** Excellent/Outstanding/"Wow" (A+ = 50/50), Very Good (A = 45/50), Good (35-40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50) ||
@@ -308,7 +308,7 @@ Your project will be graded on the following criteria:
 |    2. Global Navigation System with "you are here" cues: | |
 |    3. Bulma is utilized effectively
 | &nbsp; | &nbsp; |
-| **D. [HTML/CSS/Media](#media)**  | **10** | |
+| **C. [HTML/CSS/Media](#media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
@@ -318,8 +318,8 @@ Your project will be graded on the following criteria:
 |    - *Images larger than 100KB* | *(-2 each)* |
 | **E. [Code](#code)**  | | |
 |    - *ES6 Module pattern not used* | *(-20)* |
-|    - *`fetch()` not used* | *(-20)* |
-|    - *Code Conventions NOT followed* | *(-1 to -5 per incident)* |
+|    - *App data not loaded from external file* | *(-10)* |
+|    - *[Course Code Standards](code-style.md) NOT followed* | *(-1 to -5 per incident)* |
 |    - *Code shows errors in console* | *(-5 per incident)* |
 |    - *App does not function on banjo and/or locally* | *(-10 to ?)* |
 |    - *App has fewer than 3 web components* | *(-5 each)* |
