@@ -155,7 +155,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 - [Canvas V - Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md)
 
 
-### IV-F. Transormations
+### IV-F. Transformations
 - Animated rotations and scaling can often be a nice effect:
   - [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)  - look at the animated rotating bezier curves in **screen-saver-2.html**
 
