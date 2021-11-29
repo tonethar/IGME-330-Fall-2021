@@ -150,6 +150,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
  - Sprites - displayed with either canvas primitives or bitmap data - allow for experiences that are distict from the AV HW
    - see the Week 14 myCourses demo **filter-example-plus-wa.zip** (it utilizes sprites)
    - [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
+   - [Mario Sprite Sheet Example](https://github.com/tonethar/IGME-330-Master/blob/master/notes/_files/sprite-sheet-demo-mario.zip)
 
 ### IV-E. Canvas Blending Modes
 - [Canvas V - Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md)
