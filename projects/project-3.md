@@ -296,15 +296,22 @@ Your project will be graded on the following criteria:
 |    6. Does the app run without errors? | |
 |    7. Does the app functionality and programming go beyond what we did in class? | |
 |    8. Is the app at least approaching/approximating "portfolio quality" that you would not hesitate to show a potential employer? 
-|    **Overall:** Excellent/Outstanding/"Wow" (A+ = 50/50), Very Good (A = 45/50), Good (35-40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50)
+|    **Overall:** Excellent/Outstanding/"Wow" (A+ = 50/50), Very Good (A = 45/50), Good (35-40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50)  | |
 | &nbsp; | &nbsp; |
 | **B. Site Navigation & Content** | **20** | |
 |    1. Required content is present on [Home](#iv-a-content-requirements-home-page) & [Documentation](#iv-b-content-requirements-documentation-page) Pages | |
 |    2. Global Navigation System with "you are here" cues for each page | |
-|    3. Bulma is utilized effectively
-|    4. "Mobile Friendly" with Hamburger menu
+|    3. Bulma is utilized effectively | |
+|    4. "Mobile Friendly" with Hamburger menu | |
 | &nbsp; | &nbsp; |
-| **C. [HTML/CSS/Media](#media)**  | **10** | |
+| **C. [Web Components](#media)**  | **10** | |
+|    1. 3 Web Components are required | |
+|    2. One of these Web Components must be the Global Navigation Component | |
+|    - *Missing web components* | *(-5 each)* |
+| &nbsp; | &nbsp; |
+| **D. [HTML/CSS/Media](#media)**  | **10** | |
+| &nbsp; | &nbsp; |
+| **E. [HTML/CSS/Media](#media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
@@ -312,7 +319,7 @@ Your project will be graded on the following criteria:
 |    - *Fails CSS Validation* | *(-5)* |
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Images larger than 100KB* | *(-2 each)* |
-| **D. [Code](#code)**  | | |
+| **F. [Code](#code)**  | | |
 |    - *ES6 Module pattern not used* | *(-20)* |
 |    - *App data not loaded from external file* | *(-10)* |
 |    - *[Course Code Standards](code-style.md) NOT followed* | *(-1 to -5 per incident)* |
