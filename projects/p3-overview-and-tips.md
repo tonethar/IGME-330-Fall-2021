@@ -130,9 +130,12 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 ### IV-B. You should go beyond squares, circles and rectangles
 
 - Come up with different canvas drawing than we did in the HW assignments - ***REMINDER: you will only get credit for code that you wrote*** 
-    - the AV HW just used rectangles and circles (arcs) for drawing  - what else could you use?
-    - lines with `ctx.moveTo()` and `ctx.lineTo()`
-    - curves with `ctx.arcTo()`, `ctx.bezierCurveTo()`, `ctx.quadraticCurveTo()`
+  - the AV HW just used rectangles and circles (arcs) for drawing  - what else could you use?
+  - lines with `ctx.moveTo()` and `ctx.lineTo()`
+  - curves with `ctx.arcTo()`, `ctx.bezierCurveTo()`, `ctx.quadraticCurveTo()`
+- Resources
+  - [Canvas IV - Gradients & Bezier Curves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-4.md)
+ 
 
 
 ### IV-C. You should go beyond the "tint red" bitmap effect
@@ -151,7 +154,12 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 ### IV-E. Canvas Blending Modes
 - [Canvas V - Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md)
 
-### IV-F. Alternative Inputs
+
+### IV-F. Transormations
+- Animated rotations and scaling can often be a nice effect:
+  - [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)  - look at the animated rotating bezier curves in **screen-saver-2.html**
+
+### IV-GF. Alternative Inputs
 - Web Cam
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md
 - Teachable Machine (web cam and/or microphone)
