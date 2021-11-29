@@ -10,7 +10,7 @@ IV. [AV Tips](#av-tips)
 
 V. [Game Tips](#game-tips)
 
-VI. [Resources](#resources)
+VI. [Other Resources](#resources)
 
 <a id="links" />
 
@@ -194,7 +194,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 <hr>
 
-## VI. Resources
+## VI. Other Resources
 
 - myCourses Content area - esp. Weeks 13 & 14
 
