@@ -328,7 +328,7 @@ Your project will be graded on the following criteria:
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Missing at least 1 embedded font* | *(-5)* |
 |    - *Images larger than 100KB* | *(-2 each)* |
-|    - *Does not utilize Canvas API* | *Zero on Project* |
+|    - *Does not significantly utilize Canvas API* | *Zero on Project* |
 | &nbsp; | &nbsp; |
 | **F. Code**  | **&darr; Don't lose points here! &darr;** | |
 |    - *ES6 Module pattern not used* | *(-20)* |
