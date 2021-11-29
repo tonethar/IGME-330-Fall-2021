@@ -295,8 +295,8 @@ Your project will be graded on the following criteria:
 |    5. Is the *state* the application is in obvious? | |
 |    6. Does the app run without errors? | |
 |    7. Does the app functionality and programming go beyond what we did in class? | |
-|    8. Is the app at least approaching/approximating "portfolio quality" that you would not hesitate to show a potential employer?  | |
-|    **Overall:** Excellent/Outstanding/"Wow" (A+ = 50/50), Very Good (A = 45/50), Good (35-40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50) ||
+|    8. Is the app at least approaching/approximating "portfolio quality" that you would not hesitate to show a potential employer? 
+|    **Overall:** Excellent/Outstanding/"Wow" (A+ = 50/50), Very Good (A = 45/50), Good (35-40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50)
 | &nbsp; | &nbsp; |
 | **B. Site Navigation & Content** | **20** | |
 |    1. Required content is present on [Home](#iv-a-content-requirements-home-page) & [Documentation](#iv-b-content-requirements-documentation-page) Pages | |
