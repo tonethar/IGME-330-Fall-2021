@@ -119,11 +119,11 @@ VI. [Resources](#resources)
 
 ```js
 function drawBars(ctx,audioData,barHeight=200,fillStyle="white", strokeStyle="black",lineWidth=1,numBars){
-...
+  ...
 }
 
 function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,startIndex=0,endIndex){
-...
+  ...
 }
 ```
 
