@@ -220,6 +220,10 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
     - *Feedback loops* that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
       - example from multi-player games - a canonical "rubber band" - [YouTube - The Blue Shell - Why Mario Kart's Most Hated Item Exists - Design Club](https://www.youtube.com/watch?v=LFfga8-3SZI)
     - *Emergent gameplay/complexity* (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
+  - Clear controls & rules
+    - Instruction Screens
+    - Hints
+    - Teach the game though good level design? [YouTube - Design Club - Super Mario Bros: Level 1-1 - How Super Mario Mastered Level Design](https://www.youtube.com/watch?v=ZH2wGpEZVgE)
 
 <a id="resources" />
 
