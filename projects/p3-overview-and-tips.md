@@ -89,7 +89,7 @@ VI. [Other Resources](#resources)
   - be sure to link to the actual page utilized, not just to an entire web site 
   - cite the resource on your project Documentation page AND
   - cite the resource as a code comment, right where you utilized it
-  - you do not have to cite any code from the HW assignments
+  - you do not have to cite any code from the IGME-330 HW assignments
 
 ### III-C. How much time should you spend on this assignment?
 
