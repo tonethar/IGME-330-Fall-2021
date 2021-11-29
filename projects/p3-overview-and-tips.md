@@ -110,7 +110,11 @@ VI. [Other Resources](#resources)
 
 ## IV. AV Tips
 
-### IV-A. Creating reusable functions will help a lot
+### IV-A. Audio Visualizer Examples
+
+- [Audio Visualizer Project Showcase Video (2181)](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
+
+### IV-B. Creating reusable functions will help a lot
 
 - DRY - multiple parts of your code can call these functions
 - you can easily modify function parameters and test your ideas
@@ -127,7 +131,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 }
 ```
 
-### IV-B. You should go beyond squares, circles and rectangles
+### IV-C. You should go beyond squares, circles and rectangles
 
 - Come up with different canvas drawing than we did in the HW assignments - ***REMINDER: you will only get credit for code that you wrote*** 
   - the AV HW just used rectangles and circles (arcs) for drawing  - what else could you use?
@@ -138,7 +142,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
  
 
 
-### IV-C. You should go beyond the "tint red" bitmap effect
+### IV-D. You should go beyond the "tint red" bitmap effect
 - simple tinting and noise could be replaced with different bitmap effects
 - emboss could be replaced with a different convolution effect
 - we saw some other bitmap effects here:
@@ -146,21 +150,21 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
   - https://people.rit.edu/~acjvks/330/shared/fotoshawp/fotoshawp-done.html
 
 
-### IV-D. Sprites
+### IV-E. Sprites
  - Sprites - displayed with either canvas primitives or bitmap data - allow for experiences that are distict from the AV HW
    - see the Week 14 myCourses demo **filter-example-plus-wa.zip** (it utilizes sprites)
    - [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
    - [Mario Sprite Sheet Example](https://github.com/tonethar/IGME-330-Master/blob/master/notes/_files/sprite-sheet-demo-mario.zip)
 
-### IV-E. Canvas Blending Modes
+### IV-F. Canvas Blending Modes
 - [Canvas V - Drawing images & Blending Modes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-5.md)
 
 
-### IV-F. Transformations
+### IV-G. Transformations
 - Animated rotations and scaling can often be a nice effect:
   - [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)  - look at the animated rotating bezier curves in **screen-saver-2.html**
 
-### IV-GF. Alternative Inputs
+### IV-H. Alternative Inputs
 - Web Cam
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md
 - Teachable Machine (web cam and/or microphone)
