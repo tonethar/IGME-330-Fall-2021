@@ -175,6 +175,21 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 ## V. Game Tips
 
+### V-A. Overview (mostly from P3 requirements)
+- We like this definition of a game:
+  - *"A game is a series of interesting choices"* - https://en.wikiquote.org/wiki/Sid_Meier - and you should strive to give your players some - examples:
+    - *"When should I use one of my limited supply of  smart bombs to clear the screen?"*
+    - *"Do I try to grab the powerup, or avoid that projectile?"*
+    - *"Should I build a farm, or wait to save up enough to build a factory?"*
+  - Other elements found in fun games you will probably have in yours:
+    - A difficulty level that's not too hard, nor too easy
+    - Score
+    - Levels
+    - Satisfying user control with mouse and/or keyboard (see 235 "Key Daemon" aka [Smooth Keyboard Control](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md#vi-demos) demo)
+    - Sound - both background & incidental - you might not need to use WebAudio - don;t forget about [Howler.js](https://howlerjs.com/) - we used that in Cage Clicker (IGME-330) and Circle Blast (IGME-235)
+    - *Feedback loops* that change the flow of the gameplay - https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
+    - *Emergent gameplay/complexity* (i.e. the players *learning* something that can improve their level success in the game) - https://learn.canvas.net/courses/3/pages/level-4-dot-5-emergence
+
 <a id="resources" />
 
 <hr>
