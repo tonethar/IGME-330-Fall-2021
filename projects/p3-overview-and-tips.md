@@ -122,7 +122,7 @@ function drawBars(ctx,audioData,barHeight=200,fillStyle="white", strokeStyle="bl
 ...
 }
 
-function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",barHeight=100,startIndex=0,endIndex){
+function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,startIndex=0,endIndex){
 ...
 }
 ```
