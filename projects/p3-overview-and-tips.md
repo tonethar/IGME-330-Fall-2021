@@ -175,7 +175,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 ## V. Game Tips
 
-### V-A. Overview (mostly from P3 requirements)
+### V-A. What are some elements of good games? (mostly from P3 requirements)
 - We like this definition of a game:
   - *"A game is a series of interesting choices"* - https://en.wikiquote.org/wiki/Sid_Meier - and you should strive to give your players some - examples:
     - *"When should I use one of my limited supply of  smart bombs to clear the screen?"*
