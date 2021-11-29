@@ -320,11 +320,15 @@ Your project will be graded on the following criteria:
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
+|    4. Procedural drawing by directly accessing the CanvasRenderingContext2D that we have been utilizing in class is required. (Processing, Pixi.js, WebGL et al are NOT allowed) 
+|    5. canvas methods must be used to draw rectangles, lines, arcs, curves, images and so on depending on the needs of your project
+|    6. `ctx.save()` and `ctx.restore()` MUST be used frequently/where appropriate
 |    - *Fails HTML Validation* | *(-5)* |
 |    - *Fails CSS Validation* | *(-5)* |
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Missing at least 1 embedded font* | *(-5)* |
 |    - *Images larger than 100KB* | *(-2 each)* |
+|    - *Does not utilize Canvas API* | *Zero on Project* |
 | &nbsp; | &nbsp; |
 | **F. Code**  | **&darr; Don't lose points here! &darr;** | |
 |    - *ES6 Module pattern not used* | *(-20)* |
