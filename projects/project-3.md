@@ -324,7 +324,7 @@ Your project will be graded on the following criteria:
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Images larger than 100KB* | *(-2 each)* |
 | &nbsp; | &nbsp; |
-| **F. Code**  | **Don't lose points here!** | |
+| **F. Code**  | **&darr; Don't lose points here! &darr;** | |
 |    - *ES6 Module pattern not used* | *(-20)* |
 |    - *Code shows errors in console* | *(-5 per incident)* |
 |    - *[Course Code Standards](code-style.md) NOT followed* | *(-1 to -5 per incident)* |
