@@ -304,6 +304,7 @@ Your project will be graded on the following criteria:
 |    2. Global Navigation System with "you are here" cues for each page | |
 |    3. Bulma is utilized effectively | |
 |    4. "Mobile Friendly" with Hamburger menu | |
+|    - *Does not use Bulma effectively* | *(-10)* |
 | &nbsp; | &nbsp; |
 | **C. Web Components**  | **10** | |
 |    1. 3 Web Components are required | |
