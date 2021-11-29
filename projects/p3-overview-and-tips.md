@@ -171,8 +171,8 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 - Teachable Machine (web cam and/or microphone)
   - https://teachablemachine.withgoogle.com/
 - ml5
- - [1 - Machine Learning with ml5 - Image Classification](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-ml-pre-trained-models.md)
- - [2 - Machine Learning with ml5 - Object Detection](https://github.com/tonethar/IGME-330-Master/blob/master/notes/2-ml-object-detection.md)
+  - [1 - Machine Learning with ml5 - Image Classification](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-ml-pre-trained-models.md)
+  - [2 - Machine Learning with ml5 - Object Detection](https://github.com/tonethar/IGME-330-Master/blob/master/notes/2-ml-object-detection.md)
 
 ### IV-I. Lastly, ***What else can help us create an effective audio visualization?***
 
