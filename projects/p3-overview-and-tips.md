@@ -129,16 +129,34 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 ### IV-B. You should go beyond squares, circles and rectangles
 
-- Come up with different canvas drawing and bitmap effects than we did in the HW assignments - ***REMINDER: you will only get credit for code that you wrote*** 
+- Come up with different canvas drawing than we did in the HW assignments - ***REMINDER: you will only get credit for code that you wrote*** 
     - the AV HW just used rectangles and circles (arcs) for drawing  - what else could you use?
     - lines with `ctx.moveTo()` and `ctx.lineTo()`
     - curves with `ctx.arcTo()`, `ctx.bezierCurveTo()`, `ctx.quadraticCurveTo()`
+
+
+### IV-C. You should go beyond the "tint red" bitmap effect
 - simple tinting and noise could be replaced with different bitmap effects
 - emboss could be replaced with a different convolution effect
+- we saw some other bitmap effects here:
+  - https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md
+  - https://people.rit.edu/~acjvks/330/shared/fotoshawp/fotoshawp-done.html
 
-### IV-C. Sprites
+
+### IV-D. Sprites
  - Sprites - displayed with either canvas primitives or bitmap data - allow for experiences that are distict from the AV HW
    - see the Week 14 myCourses demo **filter-example-plus-wa.zip** (it utilizes sprites)
+
+### IV-E. Canvas Blending Modes
+
+### IV-F. Alternative Inputs
+- Web Cam
+  - https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md
+- Teachable Machine
+  - https://teachablemachine.withgoogle.com/
+- ml5
+ - [1 - Machine Learning with ml5 - Image Classification](https://github.com/tonethar/IGME-330-Master/blob/master/notes/1-ml-pre-trained-models.md)
+ - [2 - Machine Learning with ml5 - Object Detection](https://github.com/tonethar/IGME-330-Master/blob/master/notes/2-ml-object-detection.md)
 
 <a id="game-tips" />
 
