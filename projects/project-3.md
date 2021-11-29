@@ -319,6 +319,7 @@ Your project will be graded on the following criteria:
 |    - *Fails CSS Validation* | *(-5)* |
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Images larger than 100KB* | *(-2 each)* |
+| &nbsp; | &nbsp; |
 | **F. Code**  | | |
 |    - *ES6 Module pattern not used* | *(-20)* |
 |    - *App data not loaded from external file* | *(-10)* |
@@ -327,7 +328,9 @@ Your project will be graded on the following criteria:
 |    - *App does not function on banjo and/or locally* | *(-10 to ?)* |
 |    - *App has fewer than 3 web components* | *(-5 each)* |
 |    - *Web component NOT in its own JS file* | *(-5)* |
+| &nbsp; | &nbsp; |
 | **Maximum Possible Total Points** | **100** | |
+| &nbsp; | &nbsp; |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if required prototype was not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if video is not submitted to dropbox on time* | *(-10)* | |
