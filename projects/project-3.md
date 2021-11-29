@@ -299,9 +299,10 @@ Your project will be graded on the following criteria:
 |    **Overall:** Excellent/Outstanding/"Wow" (A+ = 50/50), Very Good (A = 45/50), Good (35-40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50) ||
 | &nbsp; | &nbsp; |
 | **B. Site Navigation & Content** | **20** | |
-|    1. Required content is present on [Home](#page-home) & [Documentation](#page-documentation) Pages | |
-|    2. Global Navigation System with "you are here" cues: | |
+|    1. Required content is present on [Home](#iv-a-content-requirements-home-page) & [Documentation](#iv-b-content-requirements-documentation-page) Pages | |
+|    2. Global Navigation System with "you are here" cues for each page | |
 |    3. Bulma is utilized effectively
+|    4. "Mobile Friendly" with Hamburger menu
 | &nbsp; | &nbsp; |
 | **C. [HTML/CSS/Media](#media)**  | **10** | |
 |    1. Valid HTML | |
