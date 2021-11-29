@@ -292,34 +292,22 @@ Your project will be graded on the following criteria:
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
-| **A. [Functionality - App & Favorites Pages](#functionality)** | **40** | |
-|    1. [App Page](#page-app) implements all required functional requirements
-|    2. App Page saves/restores last search term and other UI *state* (DEFERRED TO [P2](project-2.md))  | |
-|    3. App Page has other required controls | |
-|    4. [Favorites Page](#page-favorites) uses local storage to display favorites  | |
-|    5. Favorites Page has required "Delete Button"  | |
-|    - *Web Service does not work (App Page)* | *(-30)* |
-|    - *Does not save/restore UI state (App Page) (DEFERRED TO [P2](project-2.md))* | *(-10)* |
-|    - *Missing required # of controls (App Page)* | *(-10 each)* |
-|    - *Favorites not stored in localstorage (Favorites Page)* | *(-15)* |
-|    - *Missing Favorites "Delete" button (Favorites Page)* | *(-5)* |
-| **B. [Content - Home & Documentation Pages](#)** | **10** | |
+| **A. Overall Theme/Impact** | **50** | |
+|    1. Does the app have an coherent and identifiable theme?
+|    2. Does the app work as intended and it is reasonably engaging (both visually and otherwise)?  | |
+|    3. Does the app have the required controls. Are the widgets well labeled and follow interface conventions? | |
+|    4. Are users able to figure out how to use the app on their own? | |
+|    5. Is the *state* the application is in obvious? | |
+|    6. Does the app run without Errors? | |
+|    7. Does the app functionality and programming go beyond what we did in class? | |
+|    8. Is the app at least approaching/approximating "portfolio quality" that you would not hesitate to show a potential employer?  | |
+|    **Overall:** Excellent/Outstanding/"Wow" (A+ = 50/50), Very Good (A = 45/50), Good (35-40/50), Fair (25-35/50), Poor (15-25/50), Unacceptable (0-15/50) ||
+| &nbsp; | &nbsp; |
+| **B. Site Navigation & Content** | **20** | |
 |    1. Required content is present on [Home](#page-home) & [Documentation](#page-documentation) Pages | |
-| **C. [Design & Interaction](#page-design-interaction)** | **20** | |
-|    1. Global Navigation System with "you are here" cues: | |
-|    2. Pleasing graphic design (embedded font, Bulma, mobile friendly) | |
-|    3. Widgets are well labeled and follow interface conventions | |
-|    4. User errors must be handled gracefully | |
-|    5. Users must be able to figure out how to use the app with minimal instruction | |
-|    6. The *state* the application is in is obvious | |
-|    - *Missing "state" cues like status text or "spinners"* | *(-5)* |
-|    - *Missing embedded font* | *(-5)* |
-|    - *Bulma not used or utilized ineffectively* | *(-20/-?)* |
-|    - *Interface looks "amateurish"  or like GIF Finder HW* | *(up to -15)* |
-|    - *Widgets NOT well labeled/do not follow interface conventions* | *(-?)* |
-|    - *User errors NOT handled gracefully* | *(-?)* |
-|    - *App NOT intuitive to use* | *(-?)* |
-|    - *App state NOT obvious* | *(-?)* |
+|    2. Global Navigation System with "you are here" cues: | |
+|    3. Bulma is utilized effectively
+| &nbsp; | &nbsp; |
 | **D. [HTML/CSS/Media](#media)**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
