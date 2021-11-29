@@ -6,6 +6,10 @@ II. [Executive Summary of Project](#summary)
 
 III. [Checkpoint Feedback](#checkpoint-feedback)
 
+IV. [AV Tips](#av-tips)
+
+V. [Game Tips](#game-tips)
+
 <a id="links" />
 
 <hr>
@@ -70,5 +74,45 @@ III. [Checkpoint Feedback](#checkpoint-feedback)
 
 <hr>
 
-## III. Checkpoint Feedback
+## III. General Checkpoint Feedback
+
+### III-A. Go beyond the "starter" HW assignments
+
+- ***show us what you can DO*** - you will only get project credit for code that ***you wrote***, which means that your projects MUST go well beyond any HW assignments or starter code
+- ***don't overscope*** - a simple idea that is complete and well-executed often has more success than an elaborate idea which is only partially implemented
+
+### III-B. Do not violate RIT's Academic Integrity Policy
+
+- ***Cite ANY and ALL*** borrowed code fragments, resources, tutorials, YouTube videos, blogs, GitHub sites etc:
+  - be sure to link to the actual page utilized, not just to an entire web site 
+  - cite the resource on your project Documentation page AND
+  - cite the resource as a code comment, right where you utilized it
+  - you do not have to cite any code from the HW assignments
+
+### III-C. How much time should you spend on this assignment?
+
+- this is a ***project focused*** class with no quizzes or exams - project 3 is where you will demonstrate what you have learned this semester
+- typically, weekly out of class work is expected to be 3 or 4 times total in-class hours - which works out to 8.5 to 10 hours a week
+- allocating 3 weeks to the project (including the prototype) works out to roughly 25-30 hours of work in total
+- you have nearly 2 weeks left
+
+
+### III-D. Chrome Favicon Error Messages
+
+- get rid of those annoying messages by adding a favicon to your site - https://favicon.io/emoji-favicons/
+
+
+<a id="av-tips" />
+
+<hr>
+
+## IV. AV Tips
+
+<a id="game-tips" />
+
+<hr>
+
+## V. Game Tips
+
+
 
