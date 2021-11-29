@@ -307,7 +307,9 @@ Your project will be graded on the following criteria:
 | **C. Web Components**  | **10** | |
 |    1. 3 Web Components are required | |
 |    2. One of these Web Components must be the Global Navigation Component | |
+|    3. Each Web Component must be in its own JS file | |
 |    - *Missing web components* | *(-5 each)* |
+|    - *Web component NOT in its own JS file* | *(-5)* |
 | &nbsp; | &nbsp; |
 | **D. HTML/CSS/Media**  | **10** | |
 | &nbsp; | &nbsp; |
@@ -326,8 +328,6 @@ Your project will be graded on the following criteria:
 |    - *[Course Code Standards](code-style.md) NOT followed* | *(-1 to -5 per incident)* |
 |    - *Code shows errors in console* | *(-5 per incident)* |
 |    - *App does not function on banjo and/or locally* | *(-10 to ?)* |
-|    - *App has fewer than 3 web components* | *(-5 each)* |
-|    - *Web component NOT in its own JS file* | *(-5)* |
 | &nbsp; | &nbsp; |
 | **Maximum Possible Total Points** | **100** | |
 | &nbsp; | &nbsp; |
