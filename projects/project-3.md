@@ -27,7 +27,7 @@
 
 ## I. Overview
 
-- You will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice)
+- You will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice):
   - It should be (or approaching) "portfolio quality" - something you would not be embarrassed to show a potential employer
   - Let's call the above bullet point "Impact" - which is what your app should have
   - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
@@ -47,7 +47,7 @@
 
 ## II. Structure
 
-1) 3 distinct web pages
+1) 3 distinct web pages:
     - About (**home.html** or **about.html**) - a "landing" page that tells the users what the app can do
     - App  (**app.html**) - the main functionality of your app 
     - Sources (**documentation.html** or **sources.html**) - documentation of your sources and a link to your demo video
@@ -112,9 +112,9 @@
 ### IV-B. Content Requirements (*Documentation page*)
 
 - Have the following sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-screenshots) below
-  - PROJECT REQUIREMENTS:
+  - **PROJECT REQUIREMENTS**:
     - provide a link to this page
-  - RESOURCES UTILIZED:
+  - **RESOURCES UTILIZED**:
     - cite any and all resources you used on this project, the specific link, including:
       - fonts and images
       - reference sites - ex. developer.mozilla.org
@@ -127,18 +127,18 @@
       - etc
     - Exception: you need not cite any IGME-330 resources/tutorials/HWs:
       - but you MUST cite resources from other courses including IGME-235 
-  - JS Libraries (if applicable):
+  - **JS LIBRARIES** (if applicable):
     - Link to the library home page
-  - NOTEWORTHY:
+  - **NOTEWORTHY**:
     - Talk the project up - list the technologies you used (web components, Bulma, fetch, promises, etc)
     - Be sure to emphasize what you did outside of what we covered in class
-  - GRADING
+  - **GRADING**
     - Describe how you met project requirements
     - Describe how you went "above and beyond" project requirements
     - But don't grade your project here, or ask for a particular grade
-    - In the comments field of the dropbox, self-grade your Project 3 submission
-  - TO DO
-    - List any features that you would have liked to add to the app if you had time
+    - In the comments field of the dropbox, DO be sure to self-grade your Project 3 submission
+  - **TO DO**
+    - List any features that you would have liked to add to the app if you had time, or might add in the future
 
 <a id="functionality"/>
 
