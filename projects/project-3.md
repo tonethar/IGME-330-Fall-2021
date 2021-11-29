@@ -1,4 +1,4 @@
-# Project 3 - *Interactive Sandbox App of Awesomeness* - DRAFT
+# Project 3 - *Interactive Sandbox App of Awesomeness*
 
 [I. Overview](#overview)
 
@@ -184,7 +184,7 @@
 
 ### V-B. Functional Requirements
 
-- multiple (at least 3) user interface *controls* and/or widgets so that the user can interact with the experience
+- multiple (at least 3) user interface *controls* and/or widgets so that the user can interact with the experience. You will likely have many more than that
 - app data loaded from a JSON file
   - rather than hard-coding values in your JS, data that your app depends on will be stored in a JSON file (ex. presets.json, levels.json etc)
   - load this data via the `fetch()` API
@@ -235,7 +235,8 @@
       - you MUST handle errors with either `.catch()` or `try/catch`
       - *do NOT use `XHR` or `jQuery.ajax()` with this project*
 
-3) Utilize at least 3 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) classes in your project
+3) Utilize at least 3 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) classes in your project:
+    - One of these MUST be a Global Navigation System component
 
     
 <hr>
@@ -309,9 +310,10 @@ Your project will be graded on the following criteria:
 |    2. One of these Web Components must be the Global Navigation Component | |
 |    3. Each Web Component must be in its own JS file | |
 |    - *Missing web components* | *(-5 each)* |
-|    - *Web component NOT in its own JS file* | *(-5)* |
+|    - *Web component NOT in its own JS file* | *(-5 each)* |
 | &nbsp; | &nbsp; |
-| **D. HTML/CSS/Media**  | **10** | |
+| **D. External App Data**  | **10** | |
+|    1. Meaningful [app data](#v-b-functional-requirements) will be loaded via `fetch()` from an external JSON file | |
 | &nbsp; | &nbsp; |
 | **E. HTML/CSS/Media**  | **10** | |
 |    1. Valid HTML | |
@@ -324,9 +326,8 @@ Your project will be graded on the following criteria:
 | &nbsp; | &nbsp; |
 | **F. Code**  | | |
 |    - *ES6 Module pattern not used* | *(-20)* |
-|    - *App data not loaded from external file* | *(-10)* |
-|    - *[Course Code Standards](code-style.md) NOT followed* | *(-1 to -5 per incident)* |
 |    - *Code shows errors in console* | *(-5 per incident)* |
+|    - *[Course Code Standards](code-style.md) NOT followed* | *(-1 to -5 per incident)* |
 |    - *App does not function on banjo and/or locally* | *(-10 to ?)* |
 | &nbsp; | &nbsp; |
 | **Maximum Possible Total Points** | **100** | |
