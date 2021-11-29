@@ -131,8 +131,8 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 - Come up with different canvas drawing and bitmap effects than we did in the HW assignments - ***REMINDER: you will only get credit for code that you wrote*** 
     - the AV HW just used rectangles and circles (arcs) for drawing  - what else could you use?
-    - lines with `moveTo()` and `lineTo()`
-    - curves with 
+    - lines with `ctx.moveTo()` and `ctx.lineTo()`
+    - curves with `ctx.arcTo()`, `ctx.bezierCurveTo()`, `ctx.quadraticCurveTo()`
 - simple tinting and noise could be replaced with different bitmap effects
 - emboss could be replaced with a different convolution effect
 
@@ -151,6 +151,8 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 <hr>
 
 ## VI. Resources
+
+- myCourses Content area - esp. Weeks 13 & 14
 
 
 
