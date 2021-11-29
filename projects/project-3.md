@@ -304,14 +304,14 @@ Your project will be graded on the following criteria:
 |    3. Bulma is utilized effectively | |
 |    4. "Mobile Friendly" with Hamburger menu | |
 | &nbsp; | &nbsp; |
-| **C. [Web Components](#media)**  | **10** | |
+| **C. Web Components**  | **10** | |
 |    1. 3 Web Components are required | |
 |    2. One of these Web Components must be the Global Navigation Component | |
 |    - *Missing web components* | *(-5 each)* |
 | &nbsp; | &nbsp; |
-| **D. [HTML/CSS/Media](#media)**  | **10** | |
+| **D. HTML/CSS/Media**  | **10** | |
 | &nbsp; | &nbsp; |
-| **E. [HTML/CSS/Media](#media)**  | **10** | |
+| **E. HTML/CSS/Media**  | **10** | |
 |    1. Valid HTML | |
 |    2. Valid CSS | |
 |    3. Images properly optimized | |
@@ -319,7 +319,7 @@ Your project will be graded on the following criteria:
 |    - *Fails CSS Validation* | *(-5)* |
 |    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
 |    - *Images larger than 100KB* | *(-2 each)* |
-| **F. [Code](#code)**  | | |
+| **F. Code**  | | |
 |    - *ES6 Module pattern not used* | *(-20)* |
 |    - *App data not loaded from external file* | *(-10)* |
 |    - *[Course Code Standards](code-style.md) NOT followed* | *(-1 to -5 per incident)* |
