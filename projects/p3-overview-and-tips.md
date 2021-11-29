@@ -1,10 +1,10 @@
 # Project 3 - *Interactive Sandbox of Awesomeness* - Overview & Tips
 
-[Handy Links](#links)
+I. [Handy Links](#links)
 
-[Executive Summary of Project](#summary)
+II. [Executive Summary of Project](#summary)
 
-[Checkpoint Feedback](#checkpoint-feedback)
+III. [Checkpoint Feedback](#checkpoint-feedback)
 
 <a id="links" />
 
