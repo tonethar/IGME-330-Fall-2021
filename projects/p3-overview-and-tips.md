@@ -1,6 +1,16 @@
 # Project 3 - *Interactive Sandbox of Awesomeness* - Overview & Tips
 
-## Notes:
+[Handy Links](#links)
+
+[Executive Summary of Project](#summary)
+
+[Checkpoint Feedback](#checkpoint-feedback)
+
+<a id="links" />
+
+<hr>
+
+## I. Handy Links
 
 - [Project 3 Requirements](project-3.md)
 - [Project 3 Coding Standards](code-style.md)
@@ -8,9 +18,11 @@
 
 <hr>
 
-## I. Executive Summary of Project
+<a id="summary" />
 
-### I-A. Theme
+## II. Executive Summary of Project
+
+### II-A. Theme
 
 - "*You will create a compelling interactive media experience that allows the user to explore a media-related theme (of your choice)*" - examples:
   - An audio visualizer - perhaps enhanced by user interaction via Teachable Machine --> https://teachablemachine.withgoogle.com/train
@@ -26,7 +38,7 @@
     - Conway's *Game of Life* --> see [HW - Life](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-life.md)
     - Reaction Diffusion --> RESOURCE: Coding Train [Coding Challenge #13: Reaction Diffusion Algorithm in p5.js](https://www.youtube.com/watch?v=BV9ny785UNc)
  
-### I-B. Technologies
+### II-B. Technologies
  - Must use:
    - JavaScript/ES6 Modules
    - Canvas
@@ -53,3 +65,10 @@
    - The app must do something that would be meaningful to the user, allowing them to explore the chosen theme in a compelling way
    - The code & functionality must go significantly beyond any of the provided "starter" code above
    - The creator of this app should take this assignment seriously ("engage"!) and do their best work
+
+<a id="checkpoint-feedback" />
+
+<hr>
+
+## III. Checkpoint Feedback
+
