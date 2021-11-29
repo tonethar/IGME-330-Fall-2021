@@ -10,6 +10,8 @@ IV. [AV Tips](#av-tips)
 
 V. [Game Tips](#game-tips)
 
+VI. [Resources](#resources)
+
 <a id="links" />
 
 <hr>
@@ -108,8 +110,6 @@ V. [Game Tips](#game-tips)
 
 ## IV. AV Tips
 
-<a id="game-tips" />
-
 ### IV-A. Creating reusable functions will help a lot
 
 - DRY - multiple parts of your code can call these functions
@@ -139,10 +139,18 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",barHeight=100,s
 ### IV-C. Sprites
  - Sprites - displayed with either canvas primitives or bitmap data - allow for experiences that are distict from the AV HW
    - see the Week 14 myCourses demo **filter-example-plus-wa.zip** (it utilizes sprites)
-   - 
+
+<a id="game-tips" />
+
 <hr>
 
 ## V. Game Tips
+
+<a id="resources" />
+
+<hr>
+
+## VI. Resources
 
 
 
