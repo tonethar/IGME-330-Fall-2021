@@ -2,6 +2,7 @@
 
 - Although we won't be using a linter to check out JS code in this course, there are still benefits to having a clear code style:
   - https://guide.meteor.com/code-style.html
+- The requirements below are applicable to both course HW assignments AND projects
 
 <hr>
 
