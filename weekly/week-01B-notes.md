@@ -20,6 +20,7 @@
 
 ## II. Review Technobabble I
 - [HW - Technobabble Generator](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble.md)
+- review the 10 questions at the end of the HW
 - did anyone do it their "own way" rather than the way we did it on the video?
 - so many ways to handle "did the page load"?
   - move <script> tag to top and break the code
