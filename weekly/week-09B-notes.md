@@ -99,7 +99,7 @@ init();
 
 - Add the Firebase/Firebase Realtime Database setup code
 - Display the favorite dogs in `#favoritesList` - see screenshot above for an idea of what it should look like - but in this version, we can't record any more "likes" than 1
-- The fact we can't increment `likes` on existing dog names is a probelm - so let's fix it!
+- The fact we can't increment `likes` on existing dog names is a problem - so let's fix it!
 
 <hr>
 
