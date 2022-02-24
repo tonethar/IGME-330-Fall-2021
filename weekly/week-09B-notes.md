@@ -61,7 +61,7 @@ const writeFavNameData = name => {
   });
 };
 
-function favoritesChanged(snapshot){
+const favoritesChanged = (snapshot) => {
   // TODO: clear #favoritesList
   snapshot.forEach(score => {
     const childKey = score.key;
@@ -69,7 +69,7 @@ function favoritesChanged(snapshot){
     //console.log(childKey,childData);
     // TODO: update #favoritesList
   });
-}
+};
 
 const init = () => {
   const db = getDatabase();
